@@ -1,5 +1,4 @@
-﻿n_nationkey,n_name,n_regionkey,n_nationCountryCode
-0,ALGERIA,0,AL
+﻿0,ALGERIA,0,AL
 1,ARGENTINA,1,AR
 2,BRAZIL,1,BZ
 3,CANADA,1,CA
@@ -24,8 +23,3 @@
 22,RUSSIA,3,RU
 23,UNITED KINGDOM,3,UK
 24,UNITED STATES,1,US
-,,,
-,,,
-,,,
-,,,
-,,,
