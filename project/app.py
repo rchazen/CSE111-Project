@@ -6,7 +6,7 @@ from flask_sqlalchemy import SQLAlchemy
 import json
 import pandas as pd
 
-df = pd.read_csv('nation.csv')
+# df = pd.read_csv('nation.csv')
 
 
 app = Flask(__name__)
