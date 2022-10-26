@@ -1,0 +1,2069 @@
+d_drinkCategory,d_drinkName,d_drinkPortion(oz),d_drinkCalories,d_drinkFat(g),d_drinkSugar(g),d_drinkCaffeine(mg),d_drinkSize,d_drinkMilk,d_drinkWhippedCream
+iced-coffee,Cold Brew with Cascara Cold Foam,12,50,0,11,145,Tall,,
+iced-coffee,Cold Brew with Cascara Cold Foam,16,80,0,17,190,Grande,,
+iced-coffee,Cold Brew with Cascara Cold Foam,24,100,0,22,280,Venti Iced,,
+iced-coffee,Cold Brew with Cascara Cold Foam,30,130,0,28,320,Trenta Iced,,
+iced-coffee,Iced Coffee,30,160,0,39,280,Trenta Iced,,Sweetened
+iced-coffee,Iced Coffee,30,5,0,0,330,Trenta Iced,,Unsweetened
+iced-coffee,Iced Coffee,12,60,0,15,120,Tall,,Sweetened
+iced-coffee,Iced Coffee,12,0,0,0,140,Tall,,Unsweetened
+iced-coffee,Iced Coffee,16,80,0,20,165,Grande,,Sweetened
+iced-coffee,Iced Coffee,16,5,0,0,190,Grande,,Unsweetened
+iced-coffee,Iced Coffee,24,120,0,30,235,Venti Iced,,Sweetened
+iced-coffee,Iced Coffee,24,5,0,0,275,Venti Iced,,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,35,2.5,2,240,Trenta Iced,Almond,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,210,3,44,190,Trenta Iced,Coconut,Sweetened
+iced-coffee,Iced Coffee with Milk,30,50,3,4,240,Trenta Iced,Coconut,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,210,0,46,190,Trenta Iced,Nonfat milk,Sweetened
+iced-coffee,Iced Coffee with Milk,30,50,0,7,240,Trenta Iced,Nonfat milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,240,4.5,46,190,Trenta Iced,Whole Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,30,90,4.5,7,240,Trenta Iced,Whole Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,230,3,46,190,Trenta Iced,2% Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,30,70,3,7,240,Trenta Iced,2% Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,230,2,46,190,Trenta Iced,Soy (United States),Sweetened
+iced-coffee,Iced Coffee with Milk,30,70,2,7,240,Trenta Iced,Soy (United States),Unsweetened
+iced-coffee,Iced Coffee with Milk,12,70,1,15,90,Tall,Almond,Sweetened
+iced-coffee,Iced Coffee with Milk,12,15,1,1,110,Tall,Almond,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,80,1,16,90,Tall,Coconut,Sweetened
+iced-coffee,Iced Coffee with Milk,12,20,1,2,110,Tall,Coconut,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,80,0,17,90,Tall,Nonfat milk,Sweetened
+iced-coffee,Iced Coffee with Milk,12,20,0,2,110,Tall,Nonfat milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,90,1.5,17,90,Tall,Whole Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,12,30,1.5,2,110,Tall,Whole Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,80,1,17,90,Tall,2% Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,12,25,1,2,110,Tall,2% Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,90,1,17,90,Tall,Soy (United States),Sweetened
+iced-coffee,Iced Coffee with Milk,12,25,1,2,110,Tall,Soy (United States),Unsweetened
+iced-coffee,Iced Coffee with Milk,16,100,1,21,125,Grande,Almond,Sweetened
+iced-coffee,Iced Coffee with Milk,16,20,1,1,150,Grande,Almond,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,100,1.5,22,125,Grande,Coconut,Sweetened
+iced-coffee,Iced Coffee with Milk,16,25,1.5,2,150,Grande,Coconut,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,100,0,23,125,Grande,Nonfat milk,Sweetened
+iced-coffee,Iced Coffee with Milk,16,25,0,3,150,Grande,Nonfat milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,120,2,23,125,Grande,Whole Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,16,40,2,3,150,Grande,Whole Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,110,1.5,23,125,Grande,2% Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,16,35,1.5,3,150,Grande,2% Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,110,1,23,125,Grande,Soy (United States),Sweetened
+iced-coffee,Iced Coffee with Milk,16,35,1,3,150,Grande,Soy (United States),Unsweetened
+iced-coffee,Iced Coffee with Milk,24,150,1.5,31,170,Venti Iced,Almond,Sweetened
+iced-coffee,Iced Coffee with Milk,24,30,1.5,1,205,Venti Iced,Almond,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,160,2.5,33,170,Venti Iced,Coconut,Sweetened
+iced-coffee,Iced Coffee with Milk,24,40,2.5,3,205,Venti Iced,Coconut,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,160,0,35,170,Venti Iced,Nonfat milk,Sweetened
+iced-coffee,Iced Coffee with Milk,24,40,0,5,205,Venti Iced,Nonfat milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,190,3.5,35,170,Venti Iced,Whole Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,24,70,3.5,5,205,Venti Iced,Whole Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,170,2,35,170,Venti Iced,2% Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,24,60,2,5,205,Venti Iced,2% Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,180,1.5,35,170,Venti Iced,Soy (United States),Sweetened
+iced-coffee,Iced Coffee with Milk,24,60,1.5,5,205,Venti Iced,Soy (United States),Unsweetened
+iced-coffee,Iced Espresso Classics  - Vanilla Latte,8,130,2.5,19,85,,,
+iced-coffee,Iced Espresso Classics - Caffe Mocha,8,140,2.5,21,85,,,
+iced-coffee,Iced Espresso Classics - Caramel Macchiato,8,130,2.5,19,85,,,
+iced-coffee,Nitro Cold Brew,12,5,0,0,215,Tall,,
+iced-coffee,Nitro Cold Brew,16,5,0,0,280,Grande,,
+iced-coffee,Nitro Cold Brew with Cascara Cold Foam,12,60,0,12,200,Tall,,
+iced-coffee,Nitro Cold Brew with Cascara Cold Foam,16,80,0,18,270,Grande,,
+iced-coffee,Nitro Cold Brew with Sweet Cream,12,70,5,4,200,Tall,,
+iced-coffee,Nitro Cold Brew with Sweet Cream,16,70,5,4,265,Grande,,
+iced-coffee,Starbucks® Cold Brew Coffee,12,5,0,0,155,Tall,,
+iced-coffee,Starbucks® Cold Brew Coffee,16,5,0,0,205,Grande,,
+iced-coffee,Starbucks® Cold Brew Coffee,24,5,0,0,310,Venti Iced,,
+iced-coffee,Starbucks® Cold Brew Coffee,30,5,0,0,360,Trenta Iced,,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,15,1,1,155,Tall,Almond,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,20,1,2,155,Tall,Coconut,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,20,0,2,155,Tall,Nonfat milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,30,1.5,2,155,Tall,Whole Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,25,1,2,155,Tall,2% Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,25,1,2,155,Tall,Soy (United States),
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,20,1,1,205,Grande,Almond,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,25,1.5,2,205,Grande,Coconut,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,25,0,3,205,Grande,Nonfat milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,40,2,3,205,Grande,Whole Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,35,1.5,3,205,Grande,2% Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,35,1,3,205,Grande,Soy (United States),
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,30,1.5,1,310,Venti Iced,Almond,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,40,2.5,3,310,Venti Iced,Coconut,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,40,0,5,310,Venti Iced,Nonfat milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,70,3.5,5,310,Venti Iced,Whole Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,60,2,5,310,Venti Iced,2% Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,60,1.5,5,310,Venti Iced,Soy (United States),
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,40,2,2,360,Trenta Iced,Almond,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,50,3,4,360,Trenta Iced,Coconut,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,50,0,7,360,Trenta Iced,Nonfat milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,90,4.5,6,360,Trenta Iced,Whole Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,70,2.5,6,360,Trenta Iced,2% Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,70,2,7,360,Trenta Iced,Soy (United States),
+iced-coffee,Vanilla Sweet Cream Cold Brew,30,210,11,26,320,Trenta Iced,,
+iced-coffee,Vanilla Sweet Cream Cold Brew,12,90,5,9,145,Tall,,
+iced-coffee,Vanilla Sweet Cream Cold Brew,16,110,5,14,185,Grande,,
+iced-coffee,Vanilla Sweet Cream Cold Brew,24,200,11,23,275,Venti Iced,,
+refreshers,Pink Drink,12,110,2,19,35–45,Tall,,
+refreshers,Pink Drink,16,140,2.5,24,45–55,Grande,,
+refreshers,Pink Drink,24,200,4,35,70–85,Venti Iced,,
+refreshers,Pink Drink,30,270,5,48,90–110,Trenta Iced,,
+refreshers,Strawberry Acai Lemonade Starbucks Refreshers® ,12,110,0,24,35–45,Tall,,
+refreshers,Strawberry Acai Lemonade Starbucks Refreshers® ,16,140,0,32,45–55,Grande,,
+refreshers,Strawberry Acai Lemonade Starbucks Refreshers® ,24,200,0,47,70–85,Venti Iced,,
+refreshers,Strawberry Acai Lemonade Starbucks Refreshers® ,30,280,0,63,90–110,Trenta Iced,,
+refreshers,Strawberry Acai Starbucks Refreshers™ Beverage,12,80,0,16,35–45,Tall,,
+refreshers,Strawberry Acai Starbucks Refreshers™ Beverage,16,90,0,20,45–55,Grande,,
+refreshers,Strawberry Acai Starbucks Refreshers™ Beverage,24,130,0,30,70–85,Venti Iced,,
+refreshers,Strawberry Acai Starbucks Refreshers™ Beverage,30,190,0,41,90–110,Trenta Iced,,
+refreshers,Very Berry Hibiscus Lemonade Starbucks Refreshers® ,12,90,0,21,35–45,Tall,,
+refreshers,Very Berry Hibiscus Lemonade Starbucks Refreshers® ,16,120,0,25,45–55,Grande,,
+refreshers,Very Berry Hibiscus Lemonade Starbucks Refreshers® ,20,170,0,39,70–85,Venti Iced,,
+refreshers,Very Berry Hibiscus Lemonade Starbucks Refreshers® ,30,240,0,53,90–110,Trenta Iced,,
+refreshers,Very Berry Hibiscus Starbucks Refreshers™ Beverage,30,130,0,28,90–110,Trenta Iced,,
+refreshers,Very Berry Hibiscus Starbucks Refreshers™ Beverage,12,50,0,11,35–45,Tall,,
+refreshers,Very Berry Hibiscus Starbucks Refreshers™ Beverage,16,70,0,14,45–55,Grande,,
+refreshers,Very Berry Hibiscus Starbucks Refreshers™ Beverage,24,90,0,20,5–85,Venti Iced,,
+refreshers,Violet Drink,12,90,2,15,35,Tall,,
+refreshers,Violet Drink,16,110,3,19,45,Grande,,
+refreshers,Violet Drink,24,160,4,28,70,Venti Iced,,
+refreshers,Violet Drink,30,230,6,39,90,Trenta Iced,,
+evolution-fresh,Evolution Fresh® Orange,11,170,0,35,0,,,
+evolution-fresh,Evolution Fresh® Organic Defense Up,11,170,0,37,0,,,
+evolution-fresh,Evolution Fresh® Organic Green Devotion,11,35,0,5,0,,,
+evolution-fresh,Evolution Fresh® Organic Super Fruit Greens,11,180,0,36,0,,,
+iced-tea,Nitro Lemon Fog,12,180,10,18,0,Tall,,
+iced-tea,Nitro Lemon Fog,16,260,16,25,0,Grande,,
+iced-tea,Nitro Lemon Fog,24,320,18,35,0,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Black Tea,30,70,0,19,50–55,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Black Tea,12,30,0,8,20–25,Tall,,
+iced-tea,Teavana® Shaken Iced Black Tea,16,45,0,11,25–30,Grande,,
+iced-tea,Teavana® Shaken Iced Black Tea,24,60,0,16,40–45,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Black Tea Lemonade,30,170,0,41,50–55,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Black Tea Lemonade,12,70,0,16,20–25,Tall,,
+iced-tea,Teavana® Shaken Iced Black Tea Lemonade,16,90,0,22,25–30,Grande,,
+iced-tea,Teavana® Shaken Iced Black Tea Lemonade,24,130,0,33,40–45,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Green Tea,30,70,0,19,50–55,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Green Tea,12,30,0,8,20–25,Tall,,
+iced-tea,Teavana® Shaken Iced Green Tea,16,45,0,11,25–30,Grande,,
+iced-tea,Teavana® Shaken Iced Green Tea,24,60,0,16,40–45,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Green Tea Lemonade,30,170,0,41,50–55,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Green Tea Lemonade,12,70,0,16,20–25,Tall,,
+iced-tea,Teavana® Shaken Iced Green Tea Lemonade,16,90,0,22,25–30,Grande,,
+iced-tea,Teavana® Shaken Iced Green Tea Lemonade,24,140,0,33,40–45,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea,30,70,0,19,0,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea,12,30,0,8,0,Tall,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea,16,45,0,11,0,Grande,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea,24,60,0,16,0,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,30,170,0,41,0,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,12,70,0,16,0,Tall,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,16,90,0,22,0,Grande,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,24,140,0,33,0,Venti Iced,,
+bottled-drinks,Starbucks® Iced Coffee Light Sweetened,8,50,0,11,110,,,
+bottled-drinks,Starbucks® Iced Coffee Unsweetened,8,10,0,0,110,,,
+bottled-drinks,Starbucks® Iced Latte - Pumpkin Spice Latte,14,270,4.5,42,150,,,
+bottled-drinks,Teavana® Mango Black Tea,14.5,100,0,22,55,,,
+bottled-drinks,Teavana® Pineapple Berry Iced Tea,14.5,90,0,21,0,,,
+brewed-coffee,Blonde Roast,16,5,0,0,360,Grande,,
+brewed-coffee,Blonde Roast,8,5,0,0,180,Short,,
+brewed-coffee,Blonde Roast,12,5,0,0,270,Tall,,
+brewed-coffee,Blonde Roast,20,5,0,0,475,Venti,,
+brewed-coffee,Caffè Misto,8,30,2,2,75,Short,Almond,
+brewed-coffee,Caffè Misto,8,40,2.5,3,75,Short,Coconut,
+brewed-coffee,Caffè Misto,8,35,0,5,75,Short,Nonfat milk,
+brewed-coffee,Caffè Misto,8,70,3.5,5,75,Short,Whole Milk,
+brewed-coffee,Caffè Misto,8,50,2,5,75,Short,2% Milk,
+brewed-coffee,Caffè Misto,8,50,1.5,5,75,Short,Soy (United States),
+brewed-coffee,Caffè Misto,12,40,2.5,2,115,Tall,Almond,
+brewed-coffee,Caffè Misto,12,60,3.5,5,115,Tall,Coconut,
+brewed-coffee,Caffè Misto,12,60,0,8,115,Tall,Nonfat milk,
+brewed-coffee,Caffè Misto,12,100,5,8,115,Tall,Whole Milk,
+brewed-coffee,Caffè Misto,12,80,3,8,115,Tall,2% Milk,
+brewed-coffee,Caffè Misto,12,80,2.5,8,115,Tall,Soy (United States),
+brewed-coffee,Caffè Misto,16,50,3.5,3,115,Grande,Almond,
+brewed-coffee,Caffè Misto,16,70,4.5,7,150,Grande,Coconut,
+brewed-coffee,Caffè Misto,16,70,0,10,150,Grande,Nonfat milk,
+brewed-coffee,Caffè Misto,16,130,7,10,150,Grande,Whole Milk,
+brewed-coffee,Caffè Misto,16,110,4,10,150,Grande,2% Milk,
+brewed-coffee,Caffè Misto,16,100,3,10,150,Grande,Soy (United States),
+brewed-coffee,Caffè Misto,20,60,3.5,3,150,Venti,Almond,
+brewed-coffee,Caffè Misto,20,80,5,7,195,Venti,Coconut,
+brewed-coffee,Caffè Misto,20,90,0,13,195,Venti,Nonfat milk,
+brewed-coffee,Caffè Misto,20,160,9,13,195,Venti,Whole Milk,
+brewed-coffee,Caffè Misto,20,130,5,13,195,Venti,2% Milk,
+brewed-coffee,Caffè Misto,20,130,4,13,195,Venti,Soy (United States),
+brewed-coffee,Clover® Brewed Coffee,16,10,0,0,375,Grande,,
+brewed-coffee,Clover® Brewed Coffee,8,10,0,0,170,Short,,
+brewed-coffee,Clover® Brewed Coffee,12,10,0,0,280,Tall,,
+brewed-coffee,Clover® Brewed Coffee,20,10,0,0,445,Venti,,
+iced-coffee,Cold Brew with Cascara Cold Foam,12,50,0,11,145,Tall,,
+iced-coffee,Cold Brew with Cascara Cold Foam,16,80,0,17,190,Grande,,
+iced-coffee,Cold Brew with Cascara Cold Foam,24,100,0,22,280,Venti Iced,,
+iced-coffee,Cold Brew with Cascara Cold Foam,30,130,0,28,320,Trenta Iced,,
+brewed-coffee,Cold Brew with Cold Foam,12,30,0,5,155,Tall,,
+brewed-coffee,Cold Brew with Cold Foam,16,35,0,7,205,Grande,,
+brewed-coffee,Cold Brew with Cold Foam,24,40,0,7,310,Venti Iced,,
+brewed-coffee,Cold Brew with Cold Foam,30,45,0,8,360,Trenta Iced,,
+brewed-coffee,Cold Brew with Salted Cream Cold Foam,12,160,10,17,140,Tall,,
+brewed-coffee,Cold Brew with Salted Cream Cold Foam,16,230,14,23,185,Grande,,
+brewed-coffee,Cold Brew with Salted Cream Cold Foam,24,280,17,30,275,Venti Iced,,
+brewed-coffee,Cold Brew with Salted Cream Cold Foam,30,340,21,36,320,Trenta Iced,,
+brewed-coffee,Decaf Pike Place® Roast,8,5,0,0,15,Short,,
+brewed-coffee,Decaf Pike Place® Roast,12,5,0,0,20,Tall,,
+brewed-coffee,Decaf Pike Place® Roast,16,5,0,0,25,Grande,,
+brewed-coffee,Decaf Pike Place® Roast,20,5,0,0,30,Venti,,
+brewed-coffee,Featured Dark Roast,8,5,0,0,130,Short,,
+brewed-coffee,Featured Dark Roast,12,5,0,0,195,Tall,,
+brewed-coffee,Featured Dark Roast,16,5,0,0,260,Grande,,
+brewed-coffee,Featured Dark Roast,20,5,0,0,340,Venti,,
+iced-coffee,Iced Coffee,30,160,0,39,280,Trenta Iced,,Sweetened
+iced-coffee,Iced Coffee,30,5,0,0,330,Trenta Iced,,Unsweetened
+iced-coffee,Iced Coffee,12,60,0,15,120,Tall,,Sweetened
+iced-coffee,Iced Coffee,12,0,0,0,140,Tall,,Unsweetened
+iced-coffee,Iced Coffee,16,80,0,20,165,Grande,,Sweetened
+iced-coffee,Iced Coffee,16,5,0,0,190,Grande,,Unsweetened
+iced-coffee,Iced Coffee,24,120,0,30,235,Venti Iced,,Sweetened
+iced-coffee,Iced Coffee,24,5,0,0,275,Venti Iced,,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,35,2.5,2,240,Trenta Iced,Almond,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,210,3,44,190,Trenta Iced,Coconut,Sweetened
+iced-coffee,Iced Coffee with Milk,30,50,3,4,240,Trenta Iced,Coconut,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,210,0,46,190,Trenta Iced,Nonfat milk,Sweetened
+iced-coffee,Iced Coffee with Milk,30,50,0,7,240,Trenta Iced,Nonfat milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,240,4.5,46,190,Trenta Iced,Whole Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,30,90,4.5,7,240,Trenta Iced,Whole Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,230,3,46,190,Trenta Iced,2% Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,30,70,3,7,240,Trenta Iced,2% Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,30,230,2,46,190,Trenta Iced,Soy (United States),Sweetened
+iced-coffee,Iced Coffee with Milk,30,70,2,7,240,Trenta Iced,Soy (United States),Unsweetened
+iced-coffee,Iced Coffee with Milk,12,70,1,15,90,Tall,Almond,Sweetened
+iced-coffee,Iced Coffee with Milk,12,15,1,1,110,Tall,Almond,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,80,1,16,90,Tall,Coconut,Sweetened
+iced-coffee,Iced Coffee with Milk,12,20,1,2,110,Tall,Coconut,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,80,0,17,90,Tall,Nonfat milk,Sweetened
+iced-coffee,Iced Coffee with Milk,12,20,0,2,110,Tall,Nonfat milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,90,1.5,17,90,Tall,Whole Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,12,30,1.5,2,110,Tall,Whole Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,80,1,17,90,Tall,2% Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,12,25,1,2,110,Tall,2% Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,12,90,1,17,90,Tall,Soy (United States),Sweetened
+iced-coffee,Iced Coffee with Milk,12,25,1,2,110,Tall,Soy (United States),Unsweetened
+iced-coffee,Iced Coffee with Milk,16,100,1,21,125,Grande,Almond,Sweetened
+iced-coffee,Iced Coffee with Milk,16,20,1,1,150,Grande,Almond,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,100,1.5,22,125,Grande,Coconut,Sweetened
+iced-coffee,Iced Coffee with Milk,16,25,1.5,2,150,Grande,Coconut,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,100,0,23,125,Grande,Nonfat milk,Sweetened
+iced-coffee,Iced Coffee with Milk,16,25,0,3,150,Grande,Nonfat milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,120,2,23,125,Grande,Whole Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,16,40,2,3,150,Grande,Whole Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,110,1.5,23,125,Grande,2% Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,16,35,1.5,3,150,Grande,2% Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,16,110,1,23,125,Grande,Soy (United States),Sweetened
+iced-coffee,Iced Coffee with Milk,16,35,1,3,150,Grande,Soy (United States),Unsweetened
+iced-coffee,Iced Coffee with Milk,24,150,1.5,31,170,Venti Iced,Almond,Sweetened
+iced-coffee,Iced Coffee with Milk,24,30,1.5,1,205,Venti Iced,Almond,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,160,2.5,33,170,Venti Iced,Coconut,Sweetened
+iced-coffee,Iced Coffee with Milk,24,40,2.5,3,205,Venti Iced,Coconut,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,160,0,35,170,Venti Iced,Nonfat milk,Sweetened
+iced-coffee,Iced Coffee with Milk,24,40,0,5,205,Venti Iced,Nonfat milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,190,3.5,35,170,Venti Iced,Whole Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,24,70,3.5,5,205,Venti Iced,Whole Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,170,2,35,170,Venti Iced,2% Milk,Sweetened
+iced-coffee,Iced Coffee with Milk,24,60,2,5,205,Venti Iced,2% Milk,Unsweetened
+iced-coffee,Iced Coffee with Milk,24,180,1.5,35,170,Venti Iced,Soy (United States),Sweetened
+iced-coffee,Iced Coffee with Milk,24,60,1.5,5,205,Venti Iced,Soy (United States),Unsweetened
+iced-coffee,Nitro Cold Brew,12,5,0,0,215,Tall,,
+iced-coffee,Nitro Cold Brew,16,5,0,0,280,Grande,,
+iced-coffee,Nitro Cold Brew with Cascara Cold Foam,12,60,0,12,200,Tall,,
+iced-coffee,Nitro Cold Brew with Cascara Cold Foam,16,80,0,18,270,Grande,,
+iced-coffee,Nitro Cold Brew with Sweet Cream,12,70,5,4,200,Tall,,
+iced-coffee,Nitro Cold Brew with Sweet Cream,16,70,5,4,265,Grande,,
+brewed-coffee,Pike Place® Roast,8,5,0,0,155,Short,,
+brewed-coffee,Pike Place® Roast,12,5,0,0,235,Tall,,
+brewed-coffee,Pike Place® Roast,16,5,0,0,310,Grande,,
+brewed-coffee,Pike Place® Roast,20,5,0,0,410,Venti,,
+brewed-coffee,Pumpkin Cream Cold Brew,12,140,7,17,145,Tall,,
+brewed-coffee,Pumpkin Cream Cold Brew,16,250,12,31,185,Grande,,
+brewed-coffee,Pumpkin Cream Cold Brew,24,310,15,40,275,Venti Iced,,
+brewed-coffee,Pumpkin Cream Cold Brew,30,360,17,48,315,Trenta Iced,,
+iced-coffee,Starbucks® Cold Brew Coffee,12,5,0,0,155,Tall,,
+iced-coffee,Starbucks® Cold Brew Coffee,16,5,0,0,205,Grande,,
+iced-coffee,Starbucks® Cold Brew Coffee,24,5,0,0,310,Venti Iced,,
+iced-coffee,Starbucks® Cold Brew Coffee,30,5,0,0,360,Trenta Iced,,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,15,1,1,155,Tall,Almond,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,20,1,2,155,Tall,Coconut,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,20,0,2,155,Tall,Nonfat milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,30,1.5,2,155,Tall,Whole Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,25,1,2,155,Tall,2% Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,12,25,1,2,155,Tall,Soy (United States),
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,20,1,1,205,Grande,Almond,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,25,1.5,2,205,Grande,Coconut,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,25,0,3,205,Grande,Nonfat milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,40,2,3,205,Grande,Whole Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,35,1.5,3,205,Grande,2% Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,16,35,1,3,205,Grande,Soy (United States),
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,30,1.5,1,310,Venti Iced,Almond,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,40,2.5,3,310,Venti Iced,Coconut,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,40,0,5,310,Venti Iced,Nonfat milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,70,3.5,5,310,Venti Iced,Whole Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,60,2,5,310,Venti Iced,2% Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,24,60,1.5,5,310,Venti Iced,Soy (United States),
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,40,2,2,360,Trenta Iced,Almond,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,50,3,4,360,Trenta Iced,Coconut,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,50,0,7,360,Trenta Iced,Nonfat milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,90,4.5,6,360,Trenta Iced,Whole Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,70,2.5,6,360,Trenta Iced,2% Milk,
+iced-coffee,Starbucks® Cold Brew Coffee with Milk,30,70,2,7,360,Trenta Iced,Soy (United States),
+iced-coffee,Vanilla Sweet Cream Cold Brew,30,210,11,26,320,Trenta Iced,,
+iced-coffee,Vanilla Sweet Cream Cold Brew,12,90,5,9,145,Tall,,
+iced-coffee,Vanilla Sweet Cream Cold Brew,16,110,5,14,185,Grande,,
+iced-coffee,Vanilla Sweet Cream Cold Brew,24,200,11,23,275,Venti Iced,,
+espresso,Iced Starbucks® Blonde Caffè Latte,12,50,3,3,85,Tall,Almond,
+espresso,Iced Starbucks® Blonde Caffè Latte,12,70,4,6,85,Tall,Coconut,
+espresso,Iced Starbucks® Blonde Caffè Latte,12,70,0,9,85,Tall,Nonfat milk,
+espresso,Iced Starbucks® Blonde Caffè Latte,12,120,6,9,85,Tall,Whole Milk,
+espresso,Iced Starbucks® Blonde Caffè Latte,12,100,3.5,9,85,Tall,2% Milk,
+espresso,Iced Starbucks® Blonde Caffè Latte,12,100,3,9,85,Tall,Soy (United States),
+espresso,Iced Starbucks® Blonde Caffè Latte,16,70,4,3,170,Grande,Almond,
+espresso,Iced Starbucks® Blonde Caffè Latte,16,90,5,8,170,Grande,Coconut,
+espresso,Iced Starbucks® Blonde Caffè Latte,16,90,0,11,170,Grande,Nonfat milk,
+espresso,Iced Starbucks® Blonde Caffè Latte,16,150,7,11,170,Grande,Whole Milk,
+espresso,Iced Starbucks® Blonde Caffè Latte,16,130,4.5,11,170,Grande,2% Milk,
+espresso,Iced Starbucks® Blonde Caffè Latte,16,130,3.5,12,170,Grande,Soy (United States),
+espresso,Iced Starbucks® Blonde Caffè Latte,24,100,6,5,255,Venti Iced,Almond,
+espresso,Iced Starbucks® Blonde Caffè Latte,24,130,7,11,255,Venti Iced,Coconut,
+espresso,Iced Starbucks® Blonde Caffè Latte,24,130,0,16,255,Venti Iced,Nonfat milk,
+espresso,Iced Starbucks® Blonde Caffè Latte,24,210,10,15,255,Venti Iced,Whole Milk,
+espresso,Iced Starbucks® Blonde Caffè Latte,24,180,6,15,255,Venti Iced,2% Milk,
+espresso,Iced Starbucks® Blonde Caffè Latte,24,180,5,17,255,Venti Iced,Soy (United States),
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,12,100,2.5,15,85,Tall,Almond,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,12,110,3,16,85,Tall,Coconut,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,12,110,1.5,17,85,Tall,Nonfat milk,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,12,130,4,17,85,Tall,Whole Milk,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,12,120,3,17,85,Tall,2% Milk,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,12,120,2.5,18,85,Tall,Soy (United States),
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,16,140,4,21,170,Grande,Almond,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,16,150,4.5,22,170,Grande,Coconut,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,16,150,2,24,170,Grande,Nonfat milk,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,16,190,6,24,170,Grande,Whole Milk,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,16,170,4,24,170,Grande,2% Milk,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,16,180,4,25,170,Grande,Soy (United States),
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,24,180,5,26,255,Venti Iced,Almond,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,24,200,6,28,255,Venti Iced,Coconut,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,24,200,2,31,255,Venti Iced,Nonfat milk,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,24,250,8,31,255,Venti Iced,Whole Milk,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,24,230,5,31,255,Venti Iced,2% Milk,
+espresso,Iced Starbucks® Blonde Caramel Cloud Macchiato,24,230,4.5,32,255,Venti Iced,Soy (United States),
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,12,110,2.5,16,85,Tall,Almond,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,12,110,3,17,85,Tall,Coconut,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,12,110,1.5,19,85,Tall,Nonfat milk,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,12,130,4,18,85,Tall,Whole Milk,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,12,130,3,18,85,Tall,2% Milk,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,12,130,2.5,19,85,Tall,Soy (United States),
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,16,150,4,22,170,Grande,Almond,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,16,160,4.5,23,170,Grande,Coconut,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,16,160,2,26,170,Grande,Nonfat milk,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,16,190,6,25,170,Grande,Whole Milk,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,16,180,4.5,25,170,Grande,2% Milk,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,16,180,4,26,170,Grande,Soy (United States),
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,24,190,5,27,255,Venti Iced,Almond,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,24,210,6,29,255,Venti Iced,Coconut,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,24,210,2.5,33,255,Venti Iced,Nonfat milk,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,24,250,8,32,255,Venti Iced,Whole Milk,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,24,240,6,32,255,Venti Iced,2% Milk,
+espresso,Iced Starbucks® Blonde Cocoa Cloud Macchiato,24,240,5,33,255,Venti Iced,Soy (United States),
+espresso,Iced Starbucks® Blonde Flat White,12,50,3,2,150,Tall,Almond,
+espresso,Iced Starbucks® Blonde Flat White,12,60,3.5,5,150,Tall,Coconut,
+espresso,Iced Starbucks® Blonde Flat White,12,70,0,9,150,Tall,Nonfat milk,
+espresso,Iced Starbucks® Blonde Flat White,12,110,6,8,150,Tall,Whole Milk,
+espresso,Iced Starbucks® Blonde Flat White,12,100,3.5,8,150,Tall,2% Milk,
+espresso,Iced Starbucks® Blonde Flat White,12,100,3,9,150,Tall,Soy (United States),
+espresso,Iced Starbucks® Blonde Flat White,16,70,3.5,3,225,Grande,Almond,
+espresso,Iced Starbucks® Blonde Flat White,16,90,5,7,225,Grande,Coconut,
+espresso,Iced Starbucks® Blonde Flat White,16,90,0,12,225,Grande,Nonfat milk,
+espresso,Iced Starbucks® Blonde Flat White,16,150,8,11,225,Grande,Whole Milk,
+espresso,Iced Starbucks® Blonde Flat White,16,130,4.5,11,225,Grande,2% Milk,
+espresso,Iced Starbucks® Blonde Flat White,16,130,4,12,225,Grande,Soy (United States),
+espresso,Iced Starbucks® Blonde Flat White,24,90,5,5,300,Venti Iced,Almond,
+espresso,Iced Starbucks® Blonde Flat White,24,120,7,10,300,Venti Iced,Coconut,
+espresso,Iced Starbucks® Blonde Flat White,24,130,0,17,300,Venti Iced,Nonfat milk,
+espresso,Iced Starbucks® Blonde Flat White,24,220,11,16,300,Venti Iced,Whole Milk,
+espresso,Iced Starbucks® Blonde Flat White,24,180,7,16,300,Venti Iced,2% Milk,
+espresso,Iced Starbucks® Blonde Flat White,24,190,5,18,300,Venti Iced,Soy (United States),
+espresso,Iced Starbucks® Blonde Vanilla Latte,12,80,3,12,85,Tall,Almond,
+espresso,Iced Starbucks® Blonde Vanilla Latte,12,100,4,15,85,Tall,Coconut,
+espresso,Iced Starbucks® Blonde Vanilla Latte,12,100,0,18,85,Tall,Nonfat milk,
+espresso,Iced Starbucks® Blonde Vanilla Latte,12,150,6,18,85,Tall,Whole Milk,
+espresso,Iced Starbucks® Blonde Vanilla Latte,12,130,3.5,18,85,Tall,2% Milk,
+espresso,Iced Starbucks® Blonde Vanilla Latte,12,130,3,19,85,Tall,Soy (United States),
+espresso,Iced Starbucks® Blonde Vanilla Latte,16,120,3.5,17,170,Grande,Almond,
+espresso,Iced Starbucks® Blonde Vanilla Latte,16,140,5,21,170,Grande,Coconut,
+espresso,Iced Starbucks® Blonde Vanilla Latte,16,140,0,25,170,Grande,Nonfat milk,
+espresso,Iced Starbucks® Blonde Vanilla Latte,16,200,7,25,170,Grande,Whole Milk,
+espresso,Iced Starbucks® Blonde Vanilla Latte,16,180,4.5,25,170,Grande,2% Milk,
+espresso,Iced Starbucks® Blonde Vanilla Latte,16,180,3.5,26,170,Grande,Soy (United States),
+espresso,Iced Starbucks® Blonde Vanilla Latte,24,180,5,28,255,Venti Iced,Almond,
+espresso,Iced Starbucks® Blonde Vanilla Latte,24,210,7,34,255,Venti Iced,Coconut,
+espresso,Iced Starbucks® Blonde Vanilla Latte,24,210,0,39,255,Venti Iced,Nonfat milk,
+espresso,Iced Starbucks® Blonde Vanilla Latte,24,300,10,39,255,Venti Iced,Whole Milk,
+espresso,Iced Starbucks® Blonde Vanilla Latte,24,260,6,39,255,Venti Iced,2% Milk,
+espresso,Iced Starbucks® Blonde Vanilla Latte,24,270,5,40,255,Venti Iced,Soy (United States),
+espresso,Iced Vanilla Bean Coconutmilk Latte,20,160,7,19,150,Tall,Almond,
+espresso,Iced Vanilla Bean Coconutmilk Latte,12,90,4,12,75,Tall,Coconut,
+espresso,Iced Vanilla Bean Coconutmilk Latte,12,90,0,16,75,Tall,Nonfat milk,
+espresso,Iced Vanilla Bean Coconutmilk Latte,12,140,6,15,75,Tall,Whole Milk,
+espresso,Iced Vanilla Bean Coconutmilk Latte,12,120,3.5,15,75,Tall,2% Milk,
+espresso,Iced Vanilla Bean Coconutmilk Latte,12,130,3,16,75,Tall,Soy (United States),
+espresso,Iced Vanilla Bean Coconutmilk Latte,12,70,3,9,75,Grande,Almond,
+espresso,Iced Vanilla Bean Coconutmilk Latte,16,140,5,21,150,Grande,Coconut,
+espresso,Iced Vanilla Bean Coconutmilk Latte,16,140,0,25,150,Grande,Nonfat milk,
+espresso,Iced Vanilla Bean Coconutmilk Latte,16,210,8,25,150,Grande,Whole Milk,
+espresso,Iced Vanilla Bean Coconutmilk Latte,16,180,5,25,150,Grande,2% Milk,
+espresso,Iced Vanilla Bean Coconutmilk Latte,16,190,4,25,150,Grande,Soy (United States),
+espresso,Iced Vanilla Bean Coconutmilk Latte,16,120,4,16,150,Venti Iced,Almond,
+espresso,Iced Vanilla Bean Coconutmilk Latte,24,220,8,31,225,Venti Iced,Coconut,
+espresso,Iced Vanilla Bean Coconutmilk Latte,24,220,0,37,225,Venti Iced,Nonfat milk,
+espresso,Iced Vanilla Bean Coconutmilk Latte,24,320,12,37,225,Venti Iced,Whole Milk,
+espresso,Iced Vanilla Bean Coconutmilk Latte,24,280,7,37,225,Venti Iced,2% Milk,
+espresso,Iced Vanilla Bean Coconutmilk Latte,24,280,6,38,225,Venti Iced,Soy (United States),
+espresso,Iced White Chocolate Mocha,20,430,19,53,150,Tall,Almond,No Whipped Cream
+espresso,Iced White Chocolate Mocha,12,190,6,29,75,Tall,Almond,Whipped Cream
+espresso,Iced White Chocolate Mocha,12,200,7,32,75,Tall,Coconut,No Whipped Cream
+espresso,Iced White Chocolate Mocha,12,280,15,34,75,Tall,Coconut,Whipped Cream
+espresso,Iced White Chocolate Mocha,12,200,3.5,35,75,Tall,Nonfat milk,No Whipped Cream
+espresso,Iced White Chocolate Mocha,12,280,12,37,75,Tall,Nonfat milk,Whipped Cream
+espresso,Iced White Chocolate Mocha,12,240,8,35,75,Tall,Whole Milk,No Whipped Cream
+espresso,Iced White Chocolate Mocha,12,330,16,37,75,Tall,Whole Milk,Whipped Cream
+espresso,Iced White Chocolate Mocha,12,230,6,35,75,Tall,2% Milk,No Whipped Cream
+espresso,Iced White Chocolate Mocha,12,310,14,37,75,Tall,2% Milk,Whipped Cream
+espresso,Iced White Chocolate Mocha,12,230,6,35,75,Tall,Soy (United States),No Whipped Cream
+espresso,Iced White Chocolate Mocha,12,310,14,37,75,Tall,Soy (United States),Whipped Cream
+espresso,Iced White Chocolate Mocha,12,270,14,32,75,Grande,Almond,No Whipped Cream
+espresso,Iced White Chocolate Mocha,16,250,8,39,150,Grande,Almond,Whipped Cream
+espresso,Iced White Chocolate Mocha,16,270,9,42,150,Grande,Coconut,No Whipped Cream
+espresso,Iced White Chocolate Mocha,16,380,20,46,150,Grande,Coconut,Whipped Cream
+espresso,Iced White Chocolate Mocha,16,270,4.5,46,150,Grande,Nonfat milk,No Whipped Cream
+espresso,Iced White Chocolate Mocha,16,380,16,49,150,Grande,Nonfat milk,Whipped Cream
+espresso,Iced White Chocolate Mocha,16,320,11,46,150,Grande,Whole Milk,No Whipped Cream
+espresso,Iced White Chocolate Mocha,16,440,22,49,150,Grande,Whole Milk,Whipped Cream
+espresso,Iced White Chocolate Mocha,16,300,8,46,150,Grande,2% Milk,No Whipped Cream
+espresso,Iced White Chocolate Mocha,16,420,20,49,150,Grande,2% Milk,Whipped Cream
+espresso,Iced White Chocolate Mocha,16,310,8,46,150,Grande,Soy (United States),No Whipped Cream
+espresso,Iced White Chocolate Mocha,16,420,19,50,150,Grande,Soy (United States),Whipped Cream
+espresso,Iced White Chocolate Mocha,16,360,19,42,150,Venti Iced,Almond,No Whipped Cream
+espresso,Iced White Chocolate Mocha,24,370,11,58,225,Venti Iced,Almond,Whipped Cream
+espresso,Iced White Chocolate Mocha,24,400,13,63,225,Venti Iced,Coconut,No Whipped Cream
+espresso,Iced White Chocolate Mocha,24,510,24,66,225,Venti Iced,Coconut,Whipped Cream
+espresso,Iced White Chocolate Mocha,24,400,7,68,225,Venti Iced,Nonfat milk,No Whipped Cream
+espresso,Iced White Chocolate Mocha,24,510,18,71,225,Venti Iced,Nonfat milk,Whipped Cream
+espresso,Iced White Chocolate Mocha,24,470,16,67,225,Venti Iced,Whole Milk,No Whipped Cream
+espresso,Iced White Chocolate Mocha,24,580,27,71,225,Venti Iced,Whole Milk,Whipped Cream
+espresso,Iced White Chocolate Mocha,24,440,12,67,225,Venti Iced,2% Milk,No Whipped Cream
+espresso,Iced White Chocolate Mocha,24,560,23,71,225,Venti Iced,2% Milk,Whipped Cream
+espresso,Iced White Chocolate Mocha,24,450,11,68,225,Venti Iced,Soy (United States),No Whipped Cream
+espresso,Iced White Chocolate Mocha,24,560,22,72,225,Venti Iced,Soy (United States),Whipped Cream
+espresso,Latte Macchiato,8,50,3,2,150,Short,Almond,
+espresso,Latte Macchiato,8,70,3.5,5,150,Short,Coconut,
+espresso,Latte Macchiato,8,60,0,8,150,Short,Nonfat milk,
+espresso,Latte Macchiato,8,110,5,8,150,Short,Whole Milk,
+espresso,Latte Macchiato,8,90,3.5,8,150,Short,2% Milk,
+espresso,Latte Macchiato,8,90,2.5,8,150,Short,Soy (United States),
+espresso,Latte Macchiato,12,80,4.5,4,150,Tall,Almond,
+espresso,Latte Macchiato,12,100,6,9,150,Tall,Coconut,
+espresso,Latte Macchiato,12,100,0,13,150,Tall,Nonfat milk,
+espresso,Latte Macchiato,12,170,9,13,150,Tall,Whole Milk,
+espresso,Latte Macchiato,12,140,5,13,150,Tall,2% Milk,
+espresso,Latte Macchiato,12,140,4,13,150,Tall,Soy (United States),
+espresso,Latte Macchiato,16,100,6,5,225,Grande,Almond,
+espresso,Latte Macchiato,16,130,8,11,225,Grande,Coconut,
+espresso,Latte Macchiato,16,130,0,17,225,Grande,Nonfat milk,
+espresso,Latte Macchiato,16,220,11,17,225,Grande,Whole Milk,
+espresso,Latte Macchiato,16,190,7,17,225,Grande,2% Milk,
+espresso,Latte Macchiato,16,180,5,17,225,Grande,Soy (United States),
+espresso,Latte Macchiato,20,130,8,7,225,Venti,Almond,
+espresso,Latte Macchiato,20,170,10,15,225,Venti,Coconut,
+espresso,Latte Macchiato,20,170,0,23,225,Venti,Nonfat milk,
+espresso,Latte Macchiato,20,290,15,22,225,Venti,Whole Milk,
+espresso,Latte Macchiato,20,240,9,22,225,Venti,2% Milk,
+espresso,Latte Macchiato,20,240,7,23,225,Venti,Soy (United States),
+espresso,Pumpkin Spice Latte,8,120,3,19,75,Short,Almond,No Whipped Cream
+espresso,Pumpkin Spice Latte,8,170,8,20,75,Short,Almond,Whipped Cream
+espresso,Pumpkin Spice Latte,8,130,3.5,22,75,Short,Coconut,No Whipped Cream
+espresso,Pumpkin Spice Latte,8,180,9,23,75,Short,Coconut,Whipped Cream
+espresso,Pumpkin Spice Latte,8,130,0,24,75,Short,Nonfat milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,8,180,5,26,75,Short,Nonfat milk,Whipped Cream
+espresso,Pumpkin Spice Latte,8,170,5,24,75,Short,Whole Milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,8,230,10,26,75,Short,Whole Milk,Whipped Cream
+espresso,Pumpkin Spice Latte,8,160,3.5,24,75,Short,2% Milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,8,210,8,26,75,Short,2% Milk,Whipped Cream
+espresso,Pumpkin Spice Latte,8,160,2.5,24,75,Short,Soy (United States),No Whipped Cream
+espresso,Pumpkin Spice Latte,8,210,8,26,75,Short,Soy (United States),Whipped Cream
+espresso,Pumpkin Spice Latte,12,180,4.5,28,75,Tall,Almond,No Whipped Cream
+espresso,Pumpkin Spice Latte,12,240,11,30,75,Tall,Almond,Whipped Cream
+espresso,Pumpkin Spice Latte,12,200,6,33,75,Tall,Coconut,No Whipped Cream
+espresso,Pumpkin Spice Latte,12,260,12,35,75,Tall,Coconut,Whipped Cream
+espresso,Pumpkin Spice Latte,12,200,0,38,75,Tall,Nonfat milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,12,260,6,39,75,Tall,Nonfat milk,Whipped Cream
+espresso,Pumpkin Spice Latte,12,270,8,37,75,Tall,Whole Milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,12,330,15,39,75,Tall,Whole Milk,Whipped Cream
+espresso,Pumpkin Spice Latte,12,240,5,37,75,Tall,2% Milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,12,300,11,39,75,Tall,2% Milk,Whipped Cream
+espresso,Pumpkin Spice Latte,12,240,4,38,75,Tall,Soy (United States),No Whipped Cream
+espresso,Pumpkin Spice Latte,12,300,10,39,75,Tall,Soy (United States),Whipped Cream
+espresso,Pumpkin Spice Latte,16,230,6,38,150,Grande,Almond,No Whipped Cream
+espresso,Pumpkin Spice Latte,16,300,13,40,150,Grande,Almond,Whipped Cream
+espresso,Pumpkin Spice Latte,16,260,7,44,150,Grande,Coconut,No Whipped Cream
+espresso,Pumpkin Spice Latte,16,340,14,46,150,Grande,Coconut,Whipped Cream
+espresso,Pumpkin Spice Latte,16,260,0,49,150,Grande,Nonfat milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,16,330,7,51,150,Grande,Nonfat milk,Whipped Cream
+espresso,Pumpkin Spice Latte,16,350,11,48,150,Grande,Whole Milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,16,420,18,50,150,Grande,Whole Milk,Whipped Cream
+espresso,Pumpkin Spice Latte,16,310,7,48,150,Grande,2% Milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,16,380,14,50,150,Grande,2% Milk,Whipped Cream
+espresso,Pumpkin Spice Latte,16,310,5,49,150,Grande,Soy (United States),No Whipped Cream
+espresso,Pumpkin Spice Latte,16,380,12,51,150,Grande,Soy (United States),Whipped Cream
+espresso,Pumpkin Spice Latte,20,290,7,47,150,Venti,Almond,No Whipped Cream
+espresso,Pumpkin Spice Latte,20,360,14,49,150,Venti,Almond,Whipped Cream
+espresso,Pumpkin Spice Latte,20,330,10,55,150,Venti,Coconut,No Whipped Cream
+espresso,Pumpkin Spice Latte,20,410,17,57,150,Venti,Coconut,Whipped Cream
+espresso,Pumpkin Spice Latte,20,330,0.5,62,150,Venti,Nonfat milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,20,400,8,64,150,Venti,Nonfat milk,Whipped Cream
+espresso,Pumpkin Spice Latte,20,440,14,62,150,Venti,Whole Milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,20,520,21,64,150,Venti,Whole Milk,Whipped Cream
+espresso,Pumpkin Spice Latte,20,400,9,62,150,Venti,2% Milk,No Whipped Cream
+espresso,Pumpkin Spice Latte,20,470,16,64,150,Venti,2% Milk,Whipped Cream
+espresso,Pumpkin Spice Latte,20,400,7,62,150,Venti,Soy (United States),No Whipped Cream
+espresso,Pumpkin Spice Latte,20,470,14,64,150,Venti,Soy (United States),Whipped Cream
+espresso,Salted Caramel Mocha,8,150,3.5,22,90,Short,Almond,No Whipped Cream
+espresso,Salted Caramel Mocha,8,220,10,27,90,Short,Almond,Whipped Cream
+espresso,Salted Caramel Mocha,8,160,4.5,24,90,Short,Coconut,No Whipped Cream
+espresso,Salted Caramel Mocha,8,240,10,29,90,Short,Coconut,Whipped Cream
+espresso,Salted Caramel Mocha,8,160,1.5,26,90,Short,Nonfat milk,No Whipped Cream
+espresso,Salted Caramel Mocha,8,240,7,32,90,Short,Nonfat milk,Whipped Cream
+espresso,Salted Caramel Mocha,8,200,6,26,90,Short,Whole Milk,No Whipped Cream
+espresso,Salted Caramel Mocha,8,270,12,31,90,Short,Whole Milk,Whipped Cream
+espresso,Salted Caramel Mocha,8,180,4,26,90,Short,2% Milk,No Whipped Cream
+espresso,Salted Caramel Mocha,8,260,10,31,90,Short,2% Milk,Whipped Cream
+espresso,Salted Caramel Mocha,8,180,3.5,27,90,Short,Soy (United States),No Whipped Cream
+espresso,Salted Caramel Mocha,8,260,9,32,90,Short,Soy (United States),Whipped Cream
+espresso,Salted Caramel Mocha,12,220,6,33,95,Tall,Almond,No Whipped Cream
+espresso,Salted Caramel Mocha,12,310,13,39,95,Tall,Almond,Whipped Cream
+espresso,Salted Caramel Mocha,12,250,7,37,95,Tall,Coconut,No Whipped Cream
+espresso,Salted Caramel Mocha,12,340,14,43,95,Tall,Coconut,Whipped Cream
+espresso,Salted Caramel Mocha,12,240,2,41,95,Tall,Nonfat milk,No Whipped Cream
+espresso,Salted Caramel Mocha,12,330,9,47,95,Tall,Nonfat milk,Whipped Cream
+espresso,Salted Caramel Mocha,12,300,9,40,95,Tall,Whole Milk,No Whipped Cream
+espresso,Salted Caramel Mocha,12,400,16,46,95,Tall,Whole Milk,Whipped Cream
+espresso,Salted Caramel Mocha,12,280,6,40,95,Tall,2% Milk,No Whipped Cream
+espresso,Salted Caramel Mocha,12,370,14,46,95,Tall,2% Milk,Whipped Cream
+espresso,Salted Caramel Mocha,12,280,5,41,95,Tall,Soy (United States),No Whipped Cream
+espresso,Salted Caramel Mocha,12,370,13,47,95,Tall,Soy (United States),Whipped Cream
+espresso,Salted Caramel Mocha,16,300,7,43,175,Grande,Almond,No Whipped Cream
+espresso,Salted Caramel Mocha,16,400,15,50,175,Grande,Almond,Whipped Cream
+espresso,Salted Caramel Mocha,16,320,9,48,175,Grande,Coconut,No Whipped Cream
+espresso,Salted Caramel Mocha,16,420,17,55,175,Grande,Coconut,Whipped Cream
+espresso,Salted Caramel Mocha,16,320,3,53,175,Grande,Nonfat milk,No Whipped Cream
+espresso,Salted Caramel Mocha,16,420,11,60,175,Grande,Nonfat milk,Whipped Cream
+espresso,Salted Caramel Mocha,16,400,12,53,175,Grande,Whole Milk,No Whipped Cream
+espresso,Salted Caramel Mocha,16,500,20,59,175,Grande,Whole Milk,Whipped Cream
+espresso,Salted Caramel Mocha,16,360,8,53,175,Grande,2% Milk,No Whipped Cream
+espresso,Salted Caramel Mocha,16,470,16,59,175,Grande,2% Milk,Whipped Cream
+espresso,Salted Caramel Mocha,16,360,7,53,175,Grande,Soy (United States),No Whipped Cream
+espresso,Salted Caramel Mocha,16,470,15,60,175,Grande,Soy (United States),Whipped Cream
+espresso,Salted Caramel Mocha,20,370,10,54,185,Venti,Almond,No Whipped Cream
+espresso,Salted Caramel Mocha,20,470,18,61,185,Venti,Almond,Whipped Cream
+espresso,Salted Caramel Mocha,20,410,12,61,185,Venti,Coconut,No Whipped Cream
+espresso,Salted Caramel Mocha,20,510,20,68,185,Venti,Coconut,Whipped Cream
+espresso,Salted Caramel Mocha,20,400,3.5,67,185,Venti,Nonfat milk,No Whipped Cream
+espresso,Salted Caramel Mocha,20,510,12,74,185,Venti,Nonfat milk,Whipped Cream
+espresso,Salted Caramel Mocha,20,500,15,67,185,Venti,Whole Milk,No Whipped Cream
+espresso,Salted Caramel Mocha,20,610,23,73,185,Venti,Whole Milk,Whipped Cream
+espresso,Salted Caramel Mocha,20,460,11,67,185,Venti,2% Milk,No Whipped Cream
+espresso,Salted Caramel Mocha,20,570,19,73,185,Venti,2% Milk,Whipped Cream
+espresso,Salted Caramel Mocha,20,460,9,67,185,Venti,Soy (United States),No Whipped Cream
+espresso,Salted Caramel Mocha,20,560,17,74,185,Venti,Soy (United States),Whipped Cream
+espresso,Skinny Mocha,8,80,1,8,75,Short,,
+espresso,Skinny Mocha,12,130,1,12,75,Tall,,
+espresso,Skinny Mocha,16,170,1.5,15,150,Grande,,
+espresso,Skinny Mocha,20,210,2,20,150,Venti,,
+espresso,Starbucks Doubleshot® on Ice Beverage,12,60,1,11,150,Tall,Almond,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,25,1,1,150,Tall,Almond,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,70,1.5,12,150,Tall,Coconut,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,30,1.5,2,150,Tall,Coconut,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,70,0,13,150,Tall,Nonfat milk,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,30,0,3,150,Tall,Nonfat milk,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,90,2,13,150,Tall,Whole Milk,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,45,2,3,150,Tall,Whole Milk,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,80,1,13,150,Tall,2% Milk,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,80,1,13,150,Tall,2% Milk,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,80,1,13,150,Tall,Soy (United States),Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,12,40,1,3,150,Tall,Soy (United States),Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,90,1,16,225,Grande,Almond,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,30,1,1,225,Grande,Almond,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,90,1.5,17,225,Grande,Coconut,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,35,1.5,2,225,Grande,Coconut,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,90,0,18,225,Grande,Nonfat milk,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,35,0,3,225,Grande,Nonfat milk,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,110,2,18,225,Grande,Whole Milk,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,50,2,3,225,Grande,Whole Milk,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,100,1,18,225,Grande,2% Milk,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,100,1,18,225,Grande,2% Milk,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,100,1,18,225,Grande,Soy (United States),Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,16,45,1,3,225,Grande,Soy (United States),Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,140,1.5,26,375,Venti Iced,Almond,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,45,1.5,1,375,Venti Iced,Almond,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,150,2,28,375,Venti Iced,Coconut,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,50,2,3,375,Venti Iced,Coconut,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,150,0,29,375,Venti Iced,Nonfat milk,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,50,0,5,375,Venti Iced,Nonfat milk,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,180,3,29,375,Venti Iced,Whole Milk,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,80,3,4,375,Venti Iced,Whole Milk,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,170,2,29,375,Venti Iced,2% Milk,Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,170,2,29,375,Venti Iced,2% Milk,Unsweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,170,1.5,29,375,Venti Iced,Soy (United States),Sweetened
+espresso,Starbucks Doubleshot® on Ice Beverage,24,70,1.5,5,375,Venti Iced,Soy (United States),Unsweetened
+espresso,Starbucks® Blonde Caffè Americano,8,5,0,0,85,Short,,
+espresso,Starbucks® Blonde Caffè Americano,12,10,0,0,170,Tall,,
+espresso,Starbucks® Blonde Caffè Americano,16,15,0,0,255,Grande,,
+espresso,Starbucks® Blonde Caffè Americano,20,15,0,0,340,Venti,,
+espresso,Starbucks® Blonde Caffè Latte,8,50,3,3,85,Short,Almond,
+espresso,Starbucks® Blonde Caffè Latte,8,70,4,6,85,Short,Coconut,
+espresso,Starbucks® Blonde Caffè Latte,8,70,0,9,85,Short,Nonfat milk,
+espresso,Starbucks® Blonde Caffè Latte,8,120,6,9,85,Short,Whole Milk,
+espresso,Starbucks® Blonde Caffè Latte,8,100,3.5,9,85,Short,2% Milk,
+espresso,Starbucks® Blonde Caffè Latte,8,100,3,9,85,Short,Soy (United States),
+espresso,Starbucks® Blonde Caffè Latte,12,80,5,4,85,Tall,Almond,
+espresso,Starbucks® Blonde Caffè Latte,12,110,7,9,85,Tall,Coconut,
+espresso,Starbucks® Blonde Caffè Latte,12,100,0,14,85,Tall,Nonfat milk,
+espresso,Starbucks® Blonde Caffè Latte,12,180,9,14,85,Tall,Whole Milk,
+espresso,Starbucks® Blonde Caffè Latte,12,150,6,14,85,Tall,2% Milk,
+espresso,Starbucks® Blonde Caffè Latte,12,150,4.5,14,85,Tall,Soy (United States),
+espresso,Starbucks® Blonde Caffè Latte,16,100,6,5,170,Grande,Almond,
+espresso,Starbucks® Blonde Caffè Latte,16,140,8,12,170,Grande,Coconut,
+espresso,Starbucks® Blonde Caffè Latte,16,130,0,18,170,Grande,Nonfat milk,
+espresso,Starbucks® Blonde Caffè Latte,16,230,12,18,170,Grande,Whole Milk,
+espresso,Starbucks® Blonde Caffè Latte,16,190,7,18,170,Grande,2% Milk,
+espresso,Starbucks® Blonde Caffè Latte,16,190,6,18,170,Grande,Soy (United States),
+espresso,Starbucks® Blonde Caffè Latte,20,130,8,7,170,Venti,Almond,
+espresso,Starbucks® Blonde Caffè Latte,20,170,11,15,170,Venti,Coconut,
+espresso,Starbucks® Blonde Caffè Latte,20,170,0,24,170,Venti,Nonfat milk,
+espresso,Starbucks® Blonde Caffè Latte,20,300,15,23,170,Venti,Whole Milk,
+espresso,Starbucks® Blonde Caffè Latte,20,250,9,23,170,Venti,2% Milk,
+espresso,Starbucks® Blonde Caffè Latte,20,240,7,23,170,Venti,Soy (United States),
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,8,100,3.5,14,85,Short,Almond,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,8,120,4,16,85,Short,Coconut,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,8,110,1,19,85,Short,Nonfat milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,8,160,6,19,85,Short,Whole Milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,8,140,4,19,85,Short,2% Milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,8,140,3,19,85,Short,Soy (United States),
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,12,150,5,21,85,Tall,Almond,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,12,170,6,24,85,Tall,Coconut,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,12,170,1.5,28,85,Tall,Nonfat milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,12,240,9,28,85,Tall,Whole Milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,12,210,6,28,85,Tall,2% Milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,12,210,5,28,85,Tall,Soy (United States),
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,16,200,7,26,170,Grande,Almond,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,16,220,8,30,170,Grande,Coconut,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,16,220,1.5,35,170,Grande,Nonfat milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,16,300,11,34,170,Grande,Whole Milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,16,270,7,34,170,Grande,2% Milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,16,270,6,36,170,Grande,Soy (United States),
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,20,240,8,31,170,Venti,Almond,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,20,270,10,37,170,Venti,Coconut,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,20,270,1.5,44,170,Venti,Nonfat milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,20,380,14,43,170,Venti,Whole Milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,20,330,9,43,170,Venti,2% Milk,
+espresso,Starbucks® Blonde Caramel Cloud Macchiato,20,330,7,44,170,Venti,Soy (United States),
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,8,110,3.5,15,85,Short,Almond,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,8,120,4,17,85,Short,Coconut,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,8,120,1,20,85,Short,Nonfat milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,8,160,6,19,85,Short,Whole Milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,8,140,4,19,85,Short,2% Milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,8,140,3,20,85,Short,Soy (United States),
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,12,160,5,22,85,Tall,Almond,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,12,180,6,25,85,Tall,Coconut,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,12,180,1.5,29,85,Tall,Nonfat milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,12,240,9,29,85,Tall,Whole Milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,12,220,6,29,85,Tall,2% Milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,12,220,5,29,85,Tall,Soy (United States),
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,16,200,7,27,170,Grande,Almond,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,16,230,8,31,170,Grande,Coconut,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,16,230,1.5,37,170,Grande,Nonfat milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,16,310,11,36,170,Grande,Whole Milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,16,280,8,36,170,Grande,2% Milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,16,280,6,37,170,Grande,Soy (United States),
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,20,250,8,33,170,Venti,Almond,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,20,280,10,38,170,Venti,Coconut,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,20,280,2,45,170,Venti,Nonfat milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,20,390,14,44,170,Venti,Whole Milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,20,340,9,44,170,Venti,2% Milk,
+espresso,Starbucks® Blonde Cocoa Cloud Macchiato,20,340,8,45,170,Venti,Soy (United States),
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,45,1,6,170,Tall,Almond,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,25,1,1,170,Tall,Almond,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,50,1.5,7,170,Tall,Coconut,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,30,1.5,2,170,Tall,Coconut,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,50,0,8,170,Tall,Nonfat milk,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,30,0,3,170,Tall,Nonfat milk,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,70,2,8,170,Tall,Whole Milk,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,45,2,3,170,Tall,Whole Milk,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,60,1,8,170,Tall,2% Milk,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,60,1,8,170,Tall,2% Milk,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,60,1,8,170,Tall,Soy (United States),Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,12,40,1,3,170,Tall,Soy (United States),Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,70,1,11,255,Grande,Almond,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,30,1,1,255,Grande,Almond,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,70,1.5,12,255,Grande,Coconut,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,35,1.5,2,255,Grande,Coconut,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,70,0,13,255,Grande,Nonfat milk,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,35,0,3,255,Grande,Nonfat milk,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,90,2,13,255,Grande,Whole Milk,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,50,2,3,255,Grande,Whole Milk,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,80,1,13,255,Grande,2% Milk,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,80,1,13,255,Grande,2% Milk,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,80,1,13,255,Grande,Soy (United States),Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,16,45,1,3,255,Grande,Soy (United States),Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,120,1.5,21,425,Venti Iced,Almond,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,45,1.5,1,425,Venti Iced,Almond,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,130,2,23,425,Venti Iced,Coconut,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,50,2,3,425,Venti Iced,Coconut,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,130,0,24,425,Venti Iced,Nonfat milk,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,50,0,5,425,Venti Iced,Nonfat milk,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,160,3,24,425,Venti Iced,Whole Milk,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,80,3,4,425,Venti Iced,Whole Milk,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,150,2,24,425,Venti Iced,2% Milk,Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,150,2,24,425,Venti Iced,2% Milk,Unsweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,150,1.5,24,425,Venti Iced,Soy (United States),Sweetened
+espresso,Starbucks® Blonde Doubleshot® On Ice,24,70,1.5,5,425,Venti Iced,Soy (United States),Unsweetened
+espresso,Starbucks® Blonde Flat White,8,50,3,2,150,Short,Almond,
+espresso,Starbucks® Blonde Flat White,8,60,4,5,150,Short,Coconut,
+espresso,Starbucks® Blonde Flat White,8,60,0,8,150,Short,Nonfat milk,
+espresso,Starbucks® Blonde Flat White,8,110,5,8,150,Short,Whole Milk,
+espresso,Starbucks® Blonde Flat White,8,90,3.5,8,150,Short,2% Milk,
+espresso,Starbucks® Blonde Flat White,8,90,2.5,9,150,Short,Soy (United States),
+espresso,Starbucks® Blonde Flat White,12,70,4.5,4,150,Tall,Almond,
+espresso,Starbucks® Blonde Flat White,12,100,6,9,150,Tall,Coconut,
+espresso,Starbucks® Blonde Flat White,12,100,0,13,150,Tall,Nonfat milk,
+espresso,Starbucks® Blonde Flat White,12,170,9,13,150,Tall,Whole Milk,
+espresso,Starbucks® Blonde Flat White,12,140,5,13,150,Tall,2% Milk,
+espresso,Starbucks® Blonde Flat White,12,140,4,14,150,Tall,Soy (United States),
+espresso,Starbucks® Blonde Flat White,16,100,6,5,225,Grande,Almond,
+espresso,Starbucks® Blonde Flat White,16,130,8,11,225,Grande,Coconut,
+espresso,Starbucks® Blonde Flat White,16,130,0,17,225,Grande,Nonfat milk,
+espresso,Starbucks® Blonde Flat White,16,220,11,17,225,Grande,Whole Milk,
+espresso,Starbucks® Blonde Flat White,16,180,7,17,225,Grande,2% Milk,
+espresso,Starbucks® Blonde Flat White,16,190,5,18,225,Grande,Soy (United States),
+espresso,Starbucks® Blonde Flat White,20,120,8,7,225,Venti,Almond,
+espresso,Starbucks® Blonde Flat White,20,170,10,15,225,Venti,Coconut,
+espresso,Starbucks® Blonde Flat White,20,170,0,23,225,Venti,Nonfat milk,
+espresso,Starbucks® Blonde Flat White,20,290,15,22,225,Venti,Whole Milk,
+espresso,Starbucks® Blonde Flat White,20,240,9,22,225,Venti,2% Milk,
+espresso,Starbucks® Blonde Flat White,20,240,7,23,225,Venti,Soy (United States),
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,120,3,19,85,Tall,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,200,11,22,85,Tall,Almond,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,130,3.5,22,85,Tall,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,210,11,24,85,Tall,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,130,0,25,85,Tall,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,210,8,27,85,Tall,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,180,6,24,85,Tall,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,260,13,27,85,Tall,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,160,3.5,24,85,Tall,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,240,11,27,85,Tall,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,160,3,25,85,Tall,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,12,240,11,27,85,Tall,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,170,3.5,28,170,Grande,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,280,15,32,170,Grande,Almond,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,190,4.5,31,170,Grande,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,300,15,34,170,Grande,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,190,0,35,170,Grande,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,300,11,38,170,Grande,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,250,7,35,170,Grande,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,360,18,38,170,Grande,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,220,4.5,35,170,Grande,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,330,15,38,170,Grande,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,230,3.5,36,170,Grande,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,16,340,14,39,170,Grande,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,260,5,46,255,Venti Iced,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,370,16,49,255,Venti Iced,Almond,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,290,6,50,255,Venti Iced,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,400,17,53,255,Venti Iced,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,290,0,55,255,Venti Iced,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,400,11,59,255,Venti Iced,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,370,10,55,255,Venti Iced,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,480,21,58,255,Venti Iced,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,340,6,55,255,Venti Iced,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,450,17,58,255,Venti Iced,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,340,5,56,255,Venti Iced,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Iced Pumpkin Spice Latte,24,450,16,59,255,Venti Iced,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,150,3.5,22,100,Tall,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,250,12,28,100,Tall,Almond,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,160,4,24,100,Tall,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,260,13,30,100,Tall,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,160,1.5,27,100,Tall,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,260,10,33,100,Tall,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,200,6,26,100,Tall,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,300,15,32,100,Tall,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,180,4,26,100,Tall,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,290,13,32,100,Tall,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,190,3.5,27,100,Tall,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,12,290,12,33,100,Tall,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,210,4.5,32,190,Grande,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,360,17,41,190,Grande,Almond,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,230,5,34,190,Grande,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,370,18,43,190,Grande,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,230,2,38,190,Grande,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,380,14,46,190,Grande,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,280,7,38,190,Grande,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,420,20,46,190,Grande,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,260,5,38,190,Grande,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,400,17,46,190,Grande,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,260,4.5,38,190,Grande,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,16,410,17,47,190,Grande,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,330,7,53,290,Venti Iced,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,480,19,61,290,Venti Iced,Almond,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,360,8,55,290,Venti Iced,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,500,20,64,290,Venti Iced,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,360,3,60,290,Venti Iced,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,510,15,69,290,Venti Iced,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,420,10,59,290,Venti Iced,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,570,23,68,290,Venti Iced,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,390,7,59,290,Venti Iced,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,540,20,68,290,Venti Iced,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,400,7,60,290,Venti Iced,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Iced Salted Caramel Mocha,24,550,19,69,290,Venti Iced,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,80,3,11,85,Short,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,130,8,13,85,Short,Almond,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,100,3.5,14,85,Short,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,150,9,15,85,Short,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,100,0,17,85,Short,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,150,5,18,85,Short,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,140,6,16,85,Short,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,190,11,18,85,Short,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,120,3.5,16,85,Short,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,180,8,18,85,Short,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,120,2.5,17,85,Short,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,8,180,8,18,85,Short,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,140,4.5,21,85,Tall,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,200,11,23,85,Tall,Almond,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,170,6,25,85,Tall,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,230,12,27,85,Tall,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,170,0,30,85,Tall,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,230,6,31,85,Tall,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,240,9,29,85,Tall,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,300,15,31,85,Tall,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,210,5,29,85,Tall,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,270,11,31,85,Tall,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,210,4,30,85,Tall,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,12,270,10,31,85,Tall,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,200,6,31,170,Grande,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,270,13,33,170,Grande,Almond,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,230,7,35,170,Grande,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,300,14,37,170,Grande,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,230,0,41,170,Grande,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,300,7,43,170,Grande,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,320,11,40,170,Grande,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,390,18,42,170,Grande,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,280,7,40,170,Grande,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,350,14,42,170,Grande,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,280,5,41,170,Grande,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,16,350,12,43,170,Grande,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,260,8,41,170,Venti,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,330,14,43,170,Venti,Almond,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,300,9,46,170,Venti,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,370,16,48,170,Venti,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,300,0.5,54,170,Venti,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,370,7,56,170,Venti,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,410,14,53,170,Venti,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,480,21,55,170,Venti,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,370,9,53,170,Venti,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,440,16,55,170,Venti,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,360,7,54,170,Venti,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Pumpkin Spice Latte,20,440,14,56,170,Venti,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,100,3.5,13,90,Short,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,170,9,18,90,Short,Almond,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,110,4,15,90,Short,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,190,10,20,90,Short,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,110,0.5,18,90,Short,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,190,7,23,90,Short,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,150,6,17,90,Short,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,230,12,22,90,Short,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,140,3.5,17,90,Short,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,210,10,22,90,Short,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,140,3,18,90,Short,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,8,210,9,23,90,Short,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,170,5,24,100,Tall,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,260,12,30,100,Tall,Almond,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,200,6,27,100,Tall,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,290,13,33,100,Tall,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,190,1.5,32,100,Tall,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,280,8,38,100,Tall,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,260,9,31,100,Tall,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,350,16,37,100,Tall,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,230,6,31,100,Tall,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,320,13,37,100,Tall,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,230,5,32,100,Tall,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,12,320,12,38,100,Tall,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,240,7,35,190,Grande,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,340,15,41,190,Grande,Almond,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,270,8,39,190,Grande,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,370,16,45,190,Grande,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,270,2,44,190,Grande,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,370,10,50,190,Grande,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,350,11,43,190,Grande,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,450,19,50,190,Grande,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,320,8,43,190,Grande,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,420,16,50,190,Grande,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,320,6,44,190,Grande,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,16,420,14,50,190,Grande,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,320,9,46,195,Venti,Almond,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,420,17,53,195,Venti,Almond,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,360,11,51,195,Venti,Coconut,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,460,19,58,195,Venti,Coconut,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,350,2.5,58,195,Venti,Nonfat milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,450,11,65,195,Venti,Nonfat milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,460,15,57,195,Venti,Whole Milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,560,23,64,195,Venti,Whole Milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,420,10,57,195,Venti,2% Milk,No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,520,18,64,195,Venti,2% Milk,Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,410,8,58,195,Venti,Soy (United States),No Whipped Cream
+espresso,Starbucks® Blonde Salted Caramel Mocha,20,510,16,65,195,Venti,Soy (United States),Whipped Cream
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,8,70,2.5,9,85,Short,Almond,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,8,90,3.5,12,85,Short,Coconut,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,8,80,0,14,85,Short,Nonfat milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,8,130,5,14,85,Short,Whole Milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,8,110,3,14,85,Short,2% Milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,8,110,2.5,14,85,Short,Soy (United States),
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,12,90,4,10,85,Tall,Almond,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,12,110,5,14,85,Tall,Coconut,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,12,110,0,18,85,Tall,Nonfat milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,12,180,8,18,85,Tall,Whole Milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,12,150,5,18,85,Tall,2% Milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,12,150,3.5,18,85,Tall,Soy (United States),
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,16,110,5,11,170,Grande,Almond,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,16,140,7,17,170,Grande,Coconut,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,16,140,0,22,170,Grande,Nonfat milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,16,230,10,21,170,Grande,Whole Milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,16,190,6,21,170,Grande,2% Milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,16,190,5,22,170,Grande,Soy (United States),
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,20,140,7,12,170,Venti,Almond,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,20,170,9,20,170,Venti,Coconut,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,20,170,0,26,170,Venti,Nonfat milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,20,280,13,26,170,Venti,Whole Milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,20,240,8,26,170,Venti,2% Milk,
+espresso,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,20,230,6,26,170,Venti,Soy (United States),
+espresso,Starbucks® Blonde Vanilla Latte,8,70,3,7,85,Short,Almond,
+espresso,Starbucks® Blonde Vanilla Latte,8,90,4,11,85,Short,Coconut,
+espresso,Starbucks® Blonde Vanilla Latte,8,80,0,14,85,Short,Nonfat milk,
+espresso,Starbucks® Blonde Vanilla Latte,8,130,6,13,85,Short,Whole Milk,
+espresso,Starbucks® Blonde Vanilla Latte,8,110,3.5,13,85,Short,2% Milk,
+espresso,Starbucks® Blonde Vanilla Latte,8,110,2.5,14,85,Short,Soy (United States),
+espresso,Starbucks® Blonde Vanilla Latte,12,110,4.5,14,85,Tall,Almond,
+espresso,Starbucks® Blonde Vanilla Latte,12,140,6,19,85,Tall,Coconut,
+espresso,Starbucks® Blonde Vanilla Latte,12,140,0,23,85,Tall,Nonfat milk,
+espresso,Starbucks® Blonde Vanilla Latte,12,210,9,23,85,Tall,Whole Milk,
+espresso,Starbucks® Blonde Vanilla Latte,12,180,6,23,85,Tall,2% Milk,
+espresso,Starbucks® Blonde Vanilla Latte,12,180,4,23,85,Tall,Soy (United States),
+espresso,Starbucks® Blonde Vanilla Latte,16,150,6,19,170,Grande,Almond,
+espresso,Starbucks® Blonde Vanilla Latte,16,190,8,26,170,Grande,Coconut,
+espresso,Starbucks® Blonde Vanilla Latte,16,180,0,32,170,Grande,Nonfat milk,
+espresso,Starbucks® Blonde Vanilla Latte,16,280,11,31,170,Grande,Whole Milk,
+espresso,Starbucks® Blonde Vanilla Latte,16,240,7,31,170,Grande,2% Milk,
+espresso,Starbucks® Blonde Vanilla Latte,16,240,5,32,170,Grande,Soy (United States),
+espresso,Starbucks® Blonde Vanilla Latte,20,200,8,26,170,Venti,Almond,
+espresso,Starbucks® Blonde Vanilla Latte,20,240,10,34,170,Venti,Coconut,
+espresso,Starbucks® Blonde Vanilla Latte,20,240,0,41,170,Venti,Nonfat milk,
+espresso,Starbucks® Blonde Vanilla Latte,20,360,15,41,170,Venti,Whole Milk,
+espresso,Starbucks® Blonde Vanilla Latte,20,310,9,41,170,Venti,2% Milk,
+espresso,Starbucks® Blonde Vanilla Latte,20,310,7,41,170,Venti,Soy (United States),
+espresso,Vanilla Bean Coconutmilk Latte,24,500,23,66,115,Short,Almond,
+espresso,Vanilla Bean Coconutmilk Latte,8,90,3.5,12,75,Short,Coconut,
+espresso,Vanilla Bean Coconutmilk Latte,8,80,0,14,75,Short,Nonfat milk,
+espresso,Vanilla Bean Coconutmilk Latte,8,130,5,14,75,Short,Whole Milk,
+espresso,Vanilla Bean Coconutmilk Latte,8,110,3,14,75,Short,2% Milk,
+espresso,Vanilla Bean Coconutmilk Latte,8,110,2.5,14,75,Short,Soy (United States),
+espresso,Vanilla Bean Coconutmilk Latte,8,70,2.5,9,75,Tall,Almond,
+espresso,Vanilla Bean Coconutmilk Latte,12,110,5,14,75,Tall,Coconut,
+espresso,Vanilla Bean Coconutmilk Latte,12,110,0,18,75,Tall,Nonfat milk,
+espresso,Vanilla Bean Coconutmilk Latte,12,180,8,18,75,Tall,Whole Milk,
+espresso,Vanilla Bean Coconutmilk Latte,12,150,5,18,75,Tall,2% Milk,
+espresso,Vanilla Bean Coconutmilk Latte,12,150,3.5,18,75,Tall,Soy (United States),
+espresso,Vanilla Bean Coconutmilk Latte,12,90,4,10,75,Grande,Almond,
+espresso,Vanilla Bean Coconutmilk Latte,16,170,7,23,150,Grande,Coconut,
+espresso,Vanilla Bean Coconutmilk Latte,16,170,0,28,150,Grande,Nonfat milk,
+espresso,Vanilla Bean Coconutmilk Latte,16,250,10,28,150,Grande,Whole Milk,
+espresso,Vanilla Bean Coconutmilk Latte,16,220,6,28,150,Grande,2% Milk,
+espresso,Vanilla Bean Coconutmilk Latte,16,220,5,28,150,Grande,Soy (United States),
+espresso,Vanilla Bean Coconutmilk Latte,16,140,5,17,150,Venti,Almond,
+espresso,Vanilla Bean Coconutmilk Latte,20,200,9,26,150,Venti,Coconut,
+espresso,Vanilla Bean Coconutmilk Latte,20,200,0,33,150,Venti,Nonfat milk,
+espresso,Vanilla Bean Coconutmilk Latte,20,310,13,32,150,Venti,Whole Milk,
+espresso,Vanilla Bean Coconutmilk Latte,20,260,8,32,150,Venti,2% Milk,
+espresso,Vanilla Bean Coconutmilk Latte,20,260,6,32,150,Venti,Soy (United States),
+espresso,White Chocolate Mocha ,20,220,8,31,0,Short,Almond,No Whipped Cream
+espresso,White Chocolate Mocha ,8,140,5,20,75,Short,Almond,Whipped Cream
+espresso,White Chocolate Mocha ,8,160,6,23,75,Short,Coconut,No Whipped Cream
+espresso,White Chocolate Mocha ,8,210,11,25,75,Short,Coconut,Whipped Cream
+espresso,White Chocolate Mocha ,8,160,2.5,26,75,Short,Nonfat milk,No Whipped Cream
+espresso,White Chocolate Mocha ,8,210,8,27,75,Short,Nonfat milk,Whipped Cream
+espresso,White Chocolate Mocha ,8,200,7,26,75,Short,Whole Milk,No Whipped Cream
+espresso,White Chocolate Mocha ,8,250,12,27,75,Short,Whole Milk,Whipped Cream
+espresso,White Chocolate Mocha ,8,180,5,26,75,Short,2% Milk,No Whipped Cream
+espresso,White Chocolate Mocha ,8,230,10,27,75,Short,2% Milk,Whipped Cream
+espresso,White Chocolate Mocha ,8,180,4.5,26,75,Short,Soy (United States),No Whipped Cream
+espresso,White Chocolate Mocha ,8,230,10,27,75,Short,Soy (United States),Whipped Cream
+espresso,White Chocolate Mocha ,8,190,10,22,75,Tall,Almond,No Whipped Cream
+espresso,White Chocolate Mocha ,12,210,8,31,75,Tall,Almond,Whipped Cream
+espresso,White Chocolate Mocha ,12,240,9,35,75,Tall,Coconut,No Whipped Cream
+espresso,White Chocolate Mocha ,12,300,15,37,75,Tall,Coconut,Whipped Cream
+espresso,White Chocolate Mocha ,12,240,3.5,40,75,Tall,Nonfat milk,No Whipped Cream
+espresso,White Chocolate Mocha ,12,300,10,41,75,Tall,Nonfat milk,Whipped Cream
+espresso,White Chocolate Mocha ,12,300,12,39,75,Tall,Whole Milk,No Whipped Cream
+espresso,White Chocolate Mocha ,12,370,18,41,75,Tall,Whole Milk,Whipped Cream
+espresso,White Chocolate Mocha ,12,280,8,39,75,Tall,2% Milk,No Whipped Cream
+espresso,White Chocolate Mocha ,12,340,14,41,75,Tall,2% Milk,Whipped Cream
+espresso,White Chocolate Mocha ,12,280,7,40,75,Tall,Soy (United States),No Whipped Cream
+espresso,White Chocolate Mocha ,12,340,13,41,75,Tall,Soy (United States),Whipped Cream
+espresso,White Chocolate Mocha ,12,280,14,33,75,Grande,Almond,No Whipped Cream
+espresso,White Chocolate Mocha ,16,280,10,41,150,Grande,Almond,Whipped Cream
+espresso,White Chocolate Mocha ,16,310,12,47,150,Grande,Coconut,No Whipped Cream
+espresso,White Chocolate Mocha ,16,390,19,49,150,Grande,Coconut,Whipped Cream
+espresso,White Chocolate Mocha ,16,310,5,52,150,Grande,Nonfat milk,No Whipped Cream
+espresso,White Chocolate Mocha ,16,380,12,54,150,Grande,Nonfat milk,Whipped Cream
+espresso,White Chocolate Mocha ,16,400,15,51,150,Grande,Whole Milk,No Whipped Cream
+espresso,White Chocolate Mocha ,16,470,22,53,150,Grande,Whole Milk,Whipped Cream
+espresso,White Chocolate Mocha ,16,360,11,51,150,Grande,2% Milk,No Whipped Cream
+espresso,White Chocolate Mocha ,16,430,18,53,150,Grande,2% Milk,Whipped Cream
+espresso,White Chocolate Mocha ,16,360,9,52,150,Grande,Soy (United States),No Whipped Cream
+espresso,White Chocolate Mocha ,16,430,16,54,150,Grande,Soy (United States),Whipped Cream
+espresso,White Chocolate Mocha ,16,350,17,43,150,Venti,Almond,No Whipped Cream
+espresso,White Chocolate Mocha ,20,360,13,51,150,Venti,Almond,Whipped Cream
+espresso,White Chocolate Mocha ,20,400,15,59,150,Venti,Coconut,No Whipped Cream
+espresso,White Chocolate Mocha ,20,470,22,61,150,Venti,Coconut,Whipped Cream
+espresso,White Chocolate Mocha ,20,390,6,66,150,Venti,Nonfat milk,No Whipped Cream
+espresso,White Chocolate Mocha ,20,470,13,68,150,Venti,Nonfat milk,Whipped Cream
+espresso,White Chocolate Mocha ,20,510,19,65,150,Venti,Whole Milk,No Whipped Cream
+espresso,White Chocolate Mocha ,20,580,26,67,150,Venti,Whole Milk,Whipped Cream
+espresso,White Chocolate Mocha ,20,460,14,65,150,Venti,2% Milk,No Whipped Cream
+espresso,White Chocolate Mocha ,20,530,21,67,150,Venti,2% Milk,Whipped Cream
+espresso,White Chocolate Mocha ,20,460,12,66,150,Venti,Soy (United States),No Whipped Cream
+espresso,White Chocolate Mocha ,20,530,19,68,150,Venti,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,190,1.5,44,65,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,280,9,47,65,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,200,1.5,46,65,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,280,9,48,65,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,200,0,47,65,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,280,8,49,65,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,220,2.5,47,65,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,300,10,49,65,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,220,1.5,47,65,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,300,9,49,65,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,220,1.5,47,65,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,12,300,9,50,65,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,280,1.5,65,95,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,390,12,68,95,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,290,2,66,95,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,400,13,69,95,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,290,0,68,95,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,400,11,71,95,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,320,3,68,95,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,430,14,71,95,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,310,2,68,95,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,420,13,71,95,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,310,1.5,68,95,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,16,420,12,72,95,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,360,2.5,83,125,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,480,13,86,125,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,380,3,85,125,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,490,14,88,125,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,380,0,88,125,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,490,11,91,125,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,420,4.5,88,125,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,530,16,91,125,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,400,3,88,125,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,510,14,91,125,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,400,2.5,88,125,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Coffee,24,520,13,91,125,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,170,1.5,39,70,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,270,10,44,70,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,180,2,40,70,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,280,10,45,70,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,180,0,42,70,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,280,9,47,70,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,200,2.5,42,70,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,300,11,46,70,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,190,1.5,42,70,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,290,10,46,70,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,200,1.5,42,70,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,12,290,10,47,70,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,250,1.5,56,100,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,380,14,62,100,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,260,2,58,100,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,390,14,64,100,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,260,0,60,100,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,390,12,66,100,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,280,3.5,60,100,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,420,15,66,100,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,270,2,60,100,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,410,14,66,100,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,280,1.5,60,100,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,16,410,14,66,100,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,320,2.5,73,130,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,460,14,79,130,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,340,3.5,75,130,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,470,15,81,130,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,340,0,78,130,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,470,12,84,130,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,380,5,78,130,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,510,17,84,130,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,360,3,78,130,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,500,15,84,130,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,360,2.5,78,130,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Caramel Frappuccino® Blended Coffee,24,500,14,84,130,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,130,1.5,28,20,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,210,10,31,20,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,140,2,30,20,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,220,10,32,20,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,140,0,32,20,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,230,8,34,20,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,170,3.5,32,20,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,250,11,34,20,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,160,2,32,20,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,240,10,34,20,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,160,1.5,32,20,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,12,240,10,34,20,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,200,2,43,40,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,310,13,47,40,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,210,2.5,46,40,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,330,14,49,40,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,210,0,48,40,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,330,11,50,40,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,250,4,48,40,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,360,15,51,40,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,230,2.5,48,40,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,350,14,50,40,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,240,2,48,40,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,16,350,13,51,40,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,270,3.5,57,45,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,380,14,61,45,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,290,4.5,61,45,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,400,16,64,45,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,290,0,65,40,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,410,11,67,45,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,350,7,65,45,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,460,18,67,45,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,330,4,65,45,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,440,15,67,45,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,330,3.5,65,45,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Chai Crème Frappuccino® Blended Crème,24,440,14,68,45,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,12,150,1.5,33,70,Tall,Almond,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,12,160,2,35,70,Tall,Coconut,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,12,160,0,36,70,Tall,Nonfat milk,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,12,180,2.5,36,70,Tall,Whole Milk,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,12,170,1.5,36,70,Tall,2% Milk,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,12,170,1.5,36,70,Tall,Soy (United States),
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,16,210,1.5,47,95,Grande,Almond,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,16,220,2,49,95,Grande,Coconut,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,16,220,0,50,95,Grande,Nonfat milk,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,16,240,3,50,95,Grande,Whole Milk,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,16,230,2,50,95,Grande,2% Milk,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,16,230,1.5,50,95,Grande,Soy (United States),
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,24,290,2.5,65,130,Venti Iced,Almond,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,24,310,3.5,68,130,Venti Iced,Coconut,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,24,310,0,69,130,Venti Iced,Nonfat milk,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,24,350,5,69,130,Venti Iced,Whole Milk,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,24,330,3,69,130,Venti Iced,2% Milk,
+frappuccino-blended-beverages,Coffee Frappuccino® Blended Coffee,24,330,2.5,70,130,Venti Iced,Soy (United States),
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,180,4.5,32,10,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,270,13,35,10,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,200,5,34,10,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,280,13,37,10,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,200,3,36,10,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,280,11,39,10,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,220,6,35,10,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,310,14,38,10,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,210,5,35,10,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,300,13,38,10,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,210,4.5,36,10,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,12,300,13,39,10,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,250,6,44,15,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,380,18,49,15,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,270,7,46,15,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,390,18,51,15,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,270,4,49,15,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,390,15,52,15,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,300,8,49,15,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,420,20,52,15,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,290,7,49,15,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,410,18,52,15,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,290,6,49,15,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,16,410,17,53,15,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,340,9,59,20,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,460,20,63,20,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,360,10,62,20,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,480,21,67,20,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,360,6,66,20,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,480,17,69,20,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,410,12,65,20,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,540,23,69,20,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,390,9,65,20,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,510,21,69,20,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,400,8,66,20,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Crème,24,520,20,70,20,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,12,140,1,31,130,Tall,Almond,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,12,150,1,32,130,Tall,Coconut,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,12,150,0,33,130,Tall,Nonfat milk,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,12,160,1.5,33,130,Tall,Whole Milk,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,12,150,1,33,130,Tall,2% Milk,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,12,150,1,33,130,Tall,Soy (United States),
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,16,210,1,47,165,Grande,Almond,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,16,220,1.5,48,165,Grande,Coconut,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,16,210,0,49,165,Grande,Nonfat milk,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,16,230,2.5,48,165,Grande,Whole Milk,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,16,220,1.5,48,165,Grande,2% Milk,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,16,230,1,49,165,Grande,Soy (United States),
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,24,270,2,60,185,Venti Iced,Almond,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,24,280,2.5,62,185,Venti Iced,Coconut,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,24,280,0,63,185,Venti Iced,Nonfat milk,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,24,310,4,63,185,Venti Iced,Whole Milk,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,24,300,2.5,63,185,Venti Iced,2% Milk,
+frappuccino-blended-beverages,Espresso Frappuccino® Blended Coffee,24,300,2,64,185,Venti Iced,Soy (United States),
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,220,4,41,75,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,310,12,45,75,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,230,4.5,43,75,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,320,13,46,75,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,230,3,44,75,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,320,11,47,75,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,250,5,44,75,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,340,13,47,75,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,240,4.5,44,75,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,330,12,47,75,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,240,4,44,75,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,12,330,12,47,75,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,310,6,60,110,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,430,17,64,110,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,320,6,61,110,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,440,17,66,110,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,320,4,63,110,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,440,15,67,110,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,350,7,63,110,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,470,18,66,110,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,340,6,63,110,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,460,17,66,110,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,340,6,63,110,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,16,460,17,67,110,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,420,8,80,145,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,540,19,84,145,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,440,9,82,145,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,560,20,87,145,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,440,6,85,145,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,560,17,89,145,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,480,10,85,145,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,600,22,88,145,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,460,8,85,145,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,580,20,88,145,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,460,8,85,145,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Java Chip Frappuccino® Blended Coffee,24,590,19,89,145,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,190,6,28,110,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,200,2,43,50,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,210,2.5,44,50,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,290,10,47,50,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,210,0,46,50,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,290,8,48,50,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,240,3.5,46,50,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,320,12,48,50,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,230,2.5,46,50,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,310,10,48,50,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,230,2,47,50,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,310,10,48,50,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,12,280,10,45,50,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,270,2.5,58,70,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,280,3,61,70,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,390,14,64,70,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,280,0,63,70,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,400,11,65,70,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,320,4.5,63,70,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,430,16,65,70,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,300,3,63,70,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,420,14,65,70,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,310,2.5,63,70,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,420,13,66,70,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,16,380,14,62,70,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,370,3.5,79,95,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,380,4.5,82,95,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,500,16,85,95,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,390,0,86,95,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,500,12,88,95,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,440,7,86,95,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,550,18,88,95,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,420,4,86,95,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,530,15,88,95,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,420,3.5,86,95,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Matcha Green Tea Crème Frappuccino® Blended Crème,24,540,15,89,95,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,180,2,37,75,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,260,10,40,75,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,190,2,39,75,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,270,10,41,75,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,190,0.5,40,75,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,270,9,42,75,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,210,3,40,75,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,290,11,42,75,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,200,2,40,75,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,280,10,42,75,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,200,2,40,75,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,12,280,10,42,75,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,260,2.5,55,110,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,370,14,58,110,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,270,3,57,110,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,390,14,60,110,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,270,1,59,110,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,390,12,61,110,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,300,4,58,110,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,410,15,61,110,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,290,3,58,110,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,400,14,61,110,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,290,2.5,59,110,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,16,400,14,61,110,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,340,3.5,72,140,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,460,15,75,140,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,360,4,75,140,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,470,15,78,140,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,360,1,77,140,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,480,12,80,140,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,400,6,77,140,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,520,17,80,140,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,390,4,77,140,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,500,15,80,140,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,390,3.5,78,140,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Mocha Frappuccino® Blended Coffee,24,500,15,80,140,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,190,1.5,42,70,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,270,9,45,70,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,200,2,44,70,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,280,10,46,70,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,200,0,45,70,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,280,8,48,70,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,220,2.5,45,70,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,300,11,48,70,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,210,1.5,45,70,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,290,10,48,70,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,210,1.5,46,70,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,12,300,9,48,70,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,290,2,66,100,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,410,13,69,100,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,300,2.5,68,100,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,420,14,71,100,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,300,0,70,100,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,420,11,73,100,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,330,3.5,70,100,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,450,15,73,100,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,320,2,70,100,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,430,13,73,100,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,320,1.5,70,100,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,16,440,13,73,100,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,330,2.5,74,120,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,450,14,77,120,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,350,3,77,120,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,460,14,80,120,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,350,0,79,120,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,460,11,82,120,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,380,4.5,79,120,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,500,16,82,120,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,370,3,79,120,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,480,14,82,120,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,370,2.5,79,120,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,24,490,14,83,120,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,140,1.5,30,0,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,220,10,32,0,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,150,2.5,32,0,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,230,10,34,0,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,150,0,33,0,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,230,8,36,0,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,180,3.5,33,0,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,260,11,36,0,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,170,2,33,0,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,250,10,36,0,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,170,1.5,34,0,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,12,250,10,36,0,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,210,2,46,0,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,330,13,49,0,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,220,3,48,0,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,340,14,51,0,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,230,0,50,0,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,340,11,54,0,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,260,4.5,50,0,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,380,16,53,0,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,250,2.5,50,0,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,360,14,53,0,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,250,2,51,0,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,16,360,13,54,0,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,280,3.5,60,0,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,400,15,63,0,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,300,4.5,63,0,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,420,16,67,0,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,300,0,67,0,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,420,11,70,0,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,360,7,67,0,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,480,18,70,0,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,340,4.5,67,0,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,450,15,70,0,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,340,3.5,68,0,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Crème,24,460,15,71,0,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,210,2,43,75,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,310,11,49,75,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,210,2.5,45,75,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,310,11,50,75,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,210,0.5,46,75,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,320,9,52,75,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,240,3.5,46,75,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,340,12,51,75,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,230,2.5,46,75,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,330,11,51,75,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,230,2,46,75,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,12,330,11,52,75,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,270,2.5,59,100,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,410,14,65,100,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,280,3,60,100,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,420,15,67,100,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,280,1,62,100,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,420,13,69,100,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,310,4,62,100,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,440,16,69,100,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,300,2.5,62,100,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,430,15,69,100,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,300,2.5,62,100,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,16,440,14,69,100,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,380,3.5,80,140,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,520,16,87,140,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,400,4.5,83,140,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,530,16,90,140,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,400,1.5,85,140,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,530,13,93,140,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,440,6,85,140,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,570,18,92,140,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,420,4,85,140,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,560,16,92,140,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,420,3.5,86,140,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Salted Caramel Mocha Frappuccino® Blended Beverage,24,560,16,93,140,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,150,1.5,32,0,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,230,9,34,0,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,160,2,33,0,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,240,10,35,0,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,160,0,34,0,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,240,8,37,0,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,180,3,34,0,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,260,11,37,0,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,170,1.5,34,0,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,250,10,37,0,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,170,1.5,35,0,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,12,250,9,37,0,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,240,2,51,0,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,350,13,54,0,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,250,2.5,52,0,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,360,13,55,0,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,250,0,54,0,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,360,11,58,0,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,280,4,54,0,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,390,15,57,0,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,270,2.5,54,0,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,380,13,57,0,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,270,2,55,0,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,16,380,13,58,0,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,310,3,65,0,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,420,14,68,0,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,320,3.5,67,0,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,440,15,70,0,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,320,0,70,0,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,440,11,73,0,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,370,6,70,0,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,480,17,73,0,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,350,3.5,70,0,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,460,14,73,0,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,360,3,71,0,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Strawberry Frappuccino® Blended Crème,24,470,14,74,0,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,180,6,24,225,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,160,1.5,35,0,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,170,2.5,36,0,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,250,10,39,0,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,170,0,38,0,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,250,8,41,0,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,200,3.5,38,0,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,280,11,41,0,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,190,2,38,0,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,270,10,41,0,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,190,1.5,39,0,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,270,10,41,0,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,12,240,9,37,0,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,230,2,51,0,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,240,3,53,0,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,360,14,56,0,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,250,0,56,0,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,360,11,59,0,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,280,4.5,56,0,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,400,16,59,0,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,270,3,56,0,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,380,14,59,0,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,270,2.5,56,0,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,380,13,59,0,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,16,340,13,54,0,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,300,3,65,0,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,320,4,68,0,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,430,15,71,0,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,320,0,72,0,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,430,11,75,0,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,370,7,72,0,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,490,17,75,0,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,350,4,72,0,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,460,15,75,0,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,360,3,72,0,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,24,470,14,76,0,Venti Iced,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,480,22,61,225,Tall,Almond,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,190,2,40,65,Tall,Almond,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,190,2.5,41,65,Tall,Coconut,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,270,11,43,65,Tall,Coconut,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,190,1,42,65,Tall,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,270,9,45,65,Tall,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,210,3.5,42,65,Tall,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,300,11,44,65,Tall,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,210,2.5,42,65,Tall,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,290,11,44,65,Tall,2% Milk,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,210,2,42,65,Tall,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,290,10,45,65,Tall,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,12,270,10,42,65,Grande,Almond,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,270,3.5,58,90,Grande,Almond,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,280,4,59,90,Grande,Coconut,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,390,15,63,90,Grande,Coconut,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,280,2,61,90,Grande,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,390,13,64,90,Grande,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,300,5,61,90,Grande,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,420,16,64,90,Grande,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,290,3.5,61,90,Grande,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,410,15,64,90,Grande,2% Milk,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,300,3.5,61,90,Grande,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,410,14,65,90,Grande,Soy (United States),Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,16,380,14,61,90,Venti Iced,Almond,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,360,4.5,77,125,Venti Iced,Almond,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,380,5,80,125,Venti Iced,Coconut,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,490,16,83,125,Venti Iced,Coconut,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,380,2,82,125,Venti Iced,Nonfat milk,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,490,13,86,125,Venti Iced,Nonfat milk,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,420,7,82,125,Venti Iced,Whole Milk,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,530,18,85,125,Venti Iced,Whole Milk,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,400,5,82,125,Venti Iced,2% Milk,No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,510,16,85,125,Venti Iced,2% Milk,Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,400,4.5,83,125,Venti Iced,Soy (United States),No Whipped Cream
+frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Coffee,24,520,16,86,125,Venti Iced,Soy (United States),Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,140,5,22,0,Tall,Almond,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,210,11,25,0,Tall,Almond,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,170,6,26,0,Tall,Coconut,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,230,12,28,0,Tall,Coconut,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,170,0,31,0,Tall,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,230,6,33,0,Tall,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,240,9,31,0,Tall,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,310,15,33,0,Tall,Whole Milk,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,210,6,31,0,Tall,2% Milk,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,280,12,33,0,Tall,2% Milk,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,210,4.5,31,0,Tall,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,12,280,10,33,0,Tall,Soy (United States),Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,190,6,30,0,Grande,Almond,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,260,13,32,0,Grande,Almond,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,220,8,34,0,Grande,Coconut,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,300,15,37,0,Grande,Coconut,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,220,0,41,0,Grande,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,290,7,43,0,Grande,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,320,12,40,0,Grande,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,390,19,43,0,Grande,Whole Milk,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,280,7,40,0,Grande,2% Milk,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,350,14,43,0,Grande,2% Milk,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,280,6,41,0,Grande,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,16,350,12,44,0,Grande,Soy (United States),Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,240,8,37,0,Venti,Almond,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,310,15,40,0,Venti,Almond,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,280,10,43,0,Venti,Coconut,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,360,17,46,0,Venti,Coconut,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,280,0,52,0,Venti,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,350,7,54,0,Venti,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,410,15,51,0,Venti,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,480,22,54,0,Venti,Whole Milk,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,360,9,51,0,Venti,2% Milk,No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,430,16,54,0,Venti,2% Milk,Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,350,7,52,0,Venti,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Cinnamon Dolce Crème,20,430,14,54,0,Venti,Soy (United States),Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,130,4,17,15,Kids,Almond,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,190,9,19,15,Kids,Almond,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,140,5,20,15,Kids,Coconut,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,200,10,22,15,Kids,Coconut,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,140,1.5,23,15,Kids,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,200,6,24,15,Kids,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,190,7,22,15,Kids,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,250,12,24,15,Kids,Whole Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,170,4.5,22,15,Kids,2% Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,230,10,24,15,Kids,2% Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,170,3.5,23,15,Kids,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,230,9,25,15,Kids,Soy (United States),Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,130,4,17,15,Short,Almond,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,190,9,19,15,Short,Almond,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,140,5,20,15,Short,Coconut,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,200,10,22,15,Short,Coconut,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,140,1.5,23,15,Short,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,200,6,24,15,Short,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,190,7,22,15,Short,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,250,12,24,15,Short,Whole Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,170,4.5,22,15,Short,2% Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,230,10,24,15,Short,2% Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,170,3.5,23,15,Short,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,8,230,9,25,15,Short,Soy (United States),Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,190,6,23,20,Tall,Almond,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,250,12,26,20,Tall,Almond,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,210,8,28,20,Tall,Coconut,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,280,14,31,20,Tall,Coconut,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,210,2,32,20,Tall,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,280,8,34,20,Tall,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,280,10,32,20,Tall,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,350,16,34,20,Tall,Whole Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,250,7,32,20,Tall,2% Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,320,13,34,20,Tall,2% Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,250,6,32,20,Tall,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,12,320,12,34,20,Tall,Soy (United States),Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,240,8,29,25,Grande,Almond,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,320,15,32,25,Grande,Almond,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,270,10,35,25,Grande,Coconut,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,350,17,38,25,Grande,Coconut,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,270,2.5,41,25,Grande,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,350,10,43,25,Grande,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,360,13,41,25,Grande,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,440,20,43,25,Grande,Whole Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,320,9,41,25,Grande,2% Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,400,16,43,25,Grande,2% Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,320,8,41,25,Grande,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,16,400,15,44,25,Grande,Soy (United States),Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,320,10,40,35,Venti,Almond,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,390,17,43,35,Venti,Almond,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,360,13,48,35,Venti,Coconut,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,430,20,51,35,Venti,Coconut,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,350,3.5,55,35,Venti,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,430,10,58,35,Venti,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,470,17,55,35,Venti,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,550,24,57,35,Venti,Whole Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,420,11,55,35,Venti,2% Milk,No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,500,19,57,35,Venti,2% Milk,Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,420,9,55,35,Venti,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Hot Chocolate,20,500,17,58,35,Venti,Soy (United States),Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,120,3,19,0,Kids,Almond,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,170,8,21,0,Kids,Almond,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,130,4,22,0,Kids,Coconut,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,190,9,24,0,Kids,Coconut,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,130,0,25,0,Kids,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,190,5,27,0,Kids,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,180,6,25,0,Kids,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,230,11,27,0,Kids,Whole Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,160,3.5,25,0,Kids,2% Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,210,9,27,0,Kids,2% Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,160,3,25,0,Kids,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,210,8,27,0,Kids,Soy (United States),Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,120,3,19,0,Short,Almond,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,170,8,21,0,Short,Almond,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,130,4,22,0,Short,Coconut,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,190,9,24,0,Short,Coconut,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,130,0,25,0,Short,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,190,5,27,0,Short,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,180,6,25,0,Short,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,230,11,27,0,Short,Whole Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,160,3.5,25,0,Short,2% Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,210,9,27,0,Short,2% Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,160,3,25,0,Short,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,8,210,8,27,0,Short,Soy (United States),Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,180,5,29,0,Tall,Almond,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,240,11,31,0,Tall,Almond,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,200,6,34,0,Tall,Coconut,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,270,12,36,0,Tall,Coconut,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,200,0,38,0,Tall,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,260,6,40,0,Tall,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,280,9,38,0,Tall,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,340,15,40,0,Tall,Whole Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,250,6,38,0,Tall,2% Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,310,12,40,0,Tall,2% Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,240,4.5,38,0,Tall,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,12,310,10,40,0,Tall,Soy (United States),Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,230,6,38,0,Grande,Almond,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,310,13,40,0,Grande,Almond,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,270,8,45,0,Grande,Coconut,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,340,15,47,0,Grande,Coconut,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,270,0,51,0,Grande,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,340,7,53,0,Grande,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,360,12,50,0,Grande,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,430,19,52,0,Grande,Whole Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,320,7,50,0,Grande,2% Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,400,14,52,0,Grande,2% Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,320,6,51,0,Grande,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,16,390,13,53,0,Grande,Soy (United States),Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,290,8,48,0,Venti,Almond,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,370,15,50,0,Venti,Almond,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,340,11,56,0,Venti,Coconut,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,410,18,58,0,Venti,Coconut,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,340,0.5,64,0,Venti,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,410,8,66,0,Venti,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,460,15,63,0,Venti,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,530,22,65,0,Venti,Whole Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,410,9,63,0,Venti,2% Milk,No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,480,16,65,0,Venti,2% Milk,Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,410,7,64,0,Venti,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Pumpkin Spice Crème,20,480,14,66,0,Venti,Soy (United States),Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,170,4,27,15,Short,Almond,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,240,10,32,15,Short,Almond,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,180,5,29,15,Short,Coconut,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,260,11,34,15,Short,Coconut,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,180,1.5,32,15,Short,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,260,7,37,15,Short,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,220,6,32,15,Short,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,300,12,37,15,Short,Whole Milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,200,4.5,32,15,Short,2% Milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,280,10,37,15,Short,2% Milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,200,3.5,32,15,Short,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,8,280,10,37,15,Short,Soy (United States),Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,240,6,38,20,Tall,Almond,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,330,13,44,20,Tall,Almond,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,260,7,42,20,Tall,Coconut,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,360,15,48,20,Tall,Coconut,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,260,2,46,20,Tall,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,350,9,52,20,Tall,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,330,10,46,20,Tall,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,420,17,52,20,Tall,Whole Milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,300,7,46,20,Tall,2% Milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,390,14,52,20,Tall,2% Milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,300,6,46,20,Tall,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,12,390,13,52,20,Tall,Soy (United States),Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,310,8,48,25,Grande,Almond,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,420,16,55,25,Grande,Almond,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,340,10,54,25,Grande,Coconut,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,450,18,61,25,Grande,Coconut,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,340,3,59,25,Grande,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,440,11,66,25,Grande,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,430,13,59,25,Grande,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,530,21,65,25,Grande,Whole Milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,390,9,59,25,Grande,2% Milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,490,17,65,25,Grande,2% Milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,390,7,59,25,Grande,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,16,490,16,66,25,Grande,Soy (United States),Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,410,10,64,35,Venti,Almond,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,510,18,71,35,Venti,Almond,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,450,12,71,35,Venti,Coconut,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,550,20,78,35,Venti,Coconut,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,440,3.5,78,35,Venti,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,550,12,85,35,Venti,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,550,16,77,35,Venti,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,650,24,84,35,Venti,Whole Milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,510,11,77,35,Venti,2% Milk,No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,610,19,84,35,Venti,2% Milk,Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,510,9,78,35,Venti,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Salted Caramel Hot Chocolate,20,610,17,85,35,Venti,Soy (United States),Whipped Cream
+kids-drinks-and-other,Steamed Apple Juice,8,120,0,27,0,Kids,,
+kids-drinks-and-other,Steamed Apple Juice,8,120,0,27,0,Short,,
+kids-drinks-and-other,Steamed Apple Juice,12,170,0,39,0,Tall,,
+kids-drinks-and-other,Steamed Apple Juice,16,220,0,50,0,Grande,,
+kids-drinks-and-other,Steamed Apple Juice,20,280,0,62,0,Venti,,
+kids-drinks-and-other,Vanilla Crème,8,110,4.5,16,0,Kids,Coconut,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,100,0,19,0,Kids,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,150,5,20,0,Kids,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,150,6,19,0,Kids,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,200,11,19,0,Kids,Whole Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,130,4,19,0,Kids,2% Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,180,9,19,0,Kids,2% Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,130,3,19,0,Kids,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,180,8,20,0,Kids,Soy (United States),Whipped Cream
+kids-drinks-and-other,Vanilla Crème,24,200,5,33,225,Short,Almond,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,110,4.5,16,0,Short,Coconut,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,150,9,17,0,Short,Coconut,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,100,0,19,0,Short,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,150,5,20,0,Short,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,150,6,19,0,Short,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,200,11,19,0,Short,Whole Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,130,4,19,0,Short,2% Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,180,9,19,0,Short,2% Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,130,3,19,0,Short,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,180,8,20,0,Short,Soy (United States),Whipped Cream
+kids-drinks-and-other,Vanilla Crème,8,90,3.5,12,0,Tall,Almond,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,160,7,24,0,Tall,Coconut,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,220,12,25,0,Tall,Coconut,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,160,0,29,0,Tall,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,210,6,29,0,Tall,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,240,9,28,0,Tall,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,290,15,29,0,Tall,Whole Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,200,6,28,0,Tall,2% Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,260,12,29,0,Tall,2% Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,200,4.5,29,0,Tall,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,260,10,29,0,Tall,Soy (United States),Whipped Cream
+kids-drinks-and-other,Vanilla Crème,12,130,5,19,0,Grande,Almond,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,210,9,32,0,Grande,Coconut,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,280,15,33,0,Grande,Coconut,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,210,0,38,0,Grande,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,270,7,39,0,Grande,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,310,12,37,0,Grande,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,370,19,38,0,Grande,Whole Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,270,7,37,0,Grande,2% Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,330,14,38,0,Grande,2% Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,260,6,38,0,Grande,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,330,13,39,0,Grande,Soy (United States),Whipped Cream
+kids-drinks-and-other,Vanilla Crème,16,180,7,25,0,Venti,Almond,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,270,11,40,0,Venti,Coconut,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,330,18,41,0,Venti,Coconut,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,260,0,48,0,Venti,Nonfat milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,330,7,48,0,Venti,Nonfat milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,390,16,47,0,Venti,Whole Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,450,22,48,0,Venti,Whole Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,340,10,47,0,Venti,2% Milk,No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,400,16,48,0,Venti,2% Milk,Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,340,7,48,0,Venti,Soy (United States),No Whipped Cream
+kids-drinks-and-other,Vanilla Crème,20,400,14,49,0,Venti,Soy (United States),Whipped Cream
+tea,Chai Tea Latte,8,90,2,17,50,Short,Almond,
+tea,Chai Tea Latte,8,100,2.5,19,50,Short,Coconut,
+tea,Chai Tea Latte,8,100,0,21,50,Short,Nonfat milk,
+tea,Chai Tea Latte,8,130,3.5,21,50,Short,Whole Milk,
+tea,Chai Tea Latte,8,120,2,21,50,Short,2% Milk,
+tea,Chai Tea Latte,8,120,1.5,21,50,Short,Soy (United States),
+tea,Chai Tea Latte,12,140,2.5,26,70,Tall,Almond,
+tea,Chai Tea Latte,12,160,3.5,29,70,Tall,Coconut,
+tea,Chai Tea Latte,12,160,0,32,70,Tall,Nonfat milk,
+tea,Chai Tea Latte,12,200,6,32,70,Tall,Whole Milk,
+tea,Chai Tea Latte,12,190,3.5,32,70,Tall,2% Milk,
+tea,Chai Tea Latte,12,180,2.5,32,70,Tall,Soy (United States),
+tea,Chai Tea Latte,16,190,3.5,35,95,Grande,Almond,
+tea,Chai Tea Latte,16,210,4.5,39,95,Grande,Coconut,
+tea,Chai Tea Latte,16,210,0,43,95,Grande,Nonfat milk,
+tea,Chai Tea Latte,16,270,7,42,95,Grande,Whole Milk,
+tea,Chai Tea Latte,16,240,4.5,42,95,Grande,2% Milk,
+tea,Chai Tea Latte,16,240,3.5,43,95,Grande,Soy (United States),
+tea,Chai Tea Latte,20,230,4.5,43,120,Venti,Almond,
+tea,Chai Tea Latte,20,260,6,48,120,Venti,Coconut,
+tea,Chai Tea Latte,20,260,0,54,120,Venti,Nonfat milk,
+tea,Chai Tea Latte,20,340,9,53,120,Venti,Whole Milk,
+tea,Chai Tea Latte,20,310,6,53,120,Venti,2% Milk,
+tea,Chai Tea Latte,20,310,4.5,54,120,Venti,Soy (United States),
+tea,Citrus Defender,8,80,0,17,40,Short,,
+tea,Citrus Defender,12,100,0,23,40,Tall,,
+tea,Citrus Defender,16,160,0,35,40,Grande,,
+tea,Citrus Defender,20,180,0,41,40,Venti,,
+tea,Comfort Wellness Brewed Tea,8,0,0,0,0,Short,,
+tea,Comfort Wellness Brewed Tea,12,0,0,0,0,Tall,,
+tea,Comfort Wellness Brewed Tea,16,0,0,0,0,Grande,,
+tea,Comfort Wellness Brewed Tea,20,0,0,0,0,Venti,,
+tea,Defense Wellness Brewed Tea,8,5,0,1,25–40,Short,,
+tea,Defense Wellness Brewed Tea,12,5,0,1,25–40,Tall,,
+tea,Defense Wellness Brewed Tea,16,10,0,2,40,Grande,,
+tea,Defense Wellness Brewed Tea,20,10,0,2,40,Venti,,
+tea,Emperor's Cloud and Mist® Green Tea,8,0,0,0,0–15,Short,,
+tea,Emperor's Cloud and Mist® Green Tea,12,0,0,0,0–15,Tall,,
+tea,Emperor's Cloud and Mist® Green Tea,16,0,0,0,15–25,Grande,,
+tea,Emperor's Cloud and Mist® Green Tea,20,0,0,0,15–25,Venti,,
+tea,Honey Citrus Mint Tea,8,70,0,16,15,Short,,
+tea,Honey Citrus Mint Tea,12,90,0,22,15,Tall,,
+tea,Honey Citrus Mint Tea,16,140,0,33,15,Grande,,
+tea,Honey Citrus Mint Tea,20,160,0,38,15,Venti,,
+tea,Iced Blueberry Black Tea,12,70,0,16,20–25,Tall,,
+tea,Iced Blueberry Black Tea,16,100,0,21,25–30,Grande,,
+tea,Iced Blueberry Black Tea,24,150,0,32,40–45,Venti Iced,,
+tea,Iced Blueberry Black Tea,30,190,0,40,50–55,Trenta Iced,,
+tea,Iced Blueberry Black Tea Lemonade,12,90,0,20,20–25,Tall,,
+tea,Iced Blueberry Black Tea Lemonade,16,120,0,27,25–30,Grande,,
+tea,Iced Blueberry Black Tea Lemonade,24,180,0,41,40–45,Venti Iced,,
+tea,Iced Blueberry Black Tea Lemonade,30,230,0,52,50–55,Trenta Iced,,
+tea,Iced Chai Tea Latte,12,140,2.5,26,70,Tall,Almond,
+tea,Iced Chai Tea Latte,12,150,3.5,29,70,Tall,Coconut,
+tea,Iced Chai Tea Latte,12,150,0,31,70,Tall,Nonfat milk,
+tea,Iced Chai Tea Latte,12,190,5,31,70,Tall,Whole Milk,
+tea,Iced Chai Tea Latte,12,180,3,31,70,Tall,2% Milk,
+tea,Iced Chai Tea Latte,12,180,2.5,32,70,Tall,Soy (United States),
+tea,Iced Chai Tea Latte,16,180,3.5,35,95,Grande,Almond,
+tea,Iced Chai Tea Latte,16,200,4.5,38,95,Grande,Coconut,
+tea,Iced Chai Tea Latte,16,200,0,42,95,Grande,Nonfat milk,
+tea,Iced Chai Tea Latte,16,260,7,42,95,Grande,Whole Milk,
+tea,Iced Chai Tea Latte,16,240,4,42,95,Grande,2% Milk,
+tea,Iced Chai Tea Latte,16,240,3.5,43,95,Grande,Soy (United States),
+tea,Iced Chai Tea Latte,24,270,5,52,145,Venti Iced,Almond,
+tea,Iced Chai Tea Latte,24,300,6,57,145,Venti Iced,Coconut,
+tea,Iced Chai Tea Latte,24,300,0,62,145,Venti Iced,Nonfat milk,
+tea,Iced Chai Tea Latte,24,380,9,61,145,Venti Iced,Whole Milk,
+tea,Iced Chai Tea Latte,24,350,6,61,145,Venti Iced,2% Milk,
+tea,Iced Chai Tea Latte,24,350,4.5,63,145,Venti Iced,Soy (United States),
+tea,Iced Guava White Tea,12,80,0,17,15–20,Tall,,
+tea,Iced Guava White Tea,16,110,0,23,20–25,Grande,,
+tea,Iced Guava White Tea,24,160,0,35,30–35,Venti Iced,,
+tea,Iced Guava White Tea,30,210,0,44,40–45,Trenta Iced,,
+tea,Iced Guava White Tea Lemonade,12,100,0,22,15–20,Tall,,
+tea,Iced Guava White Tea Lemonade,16,130,0,29,20–25,Grande,,
+tea,Iced Guava White Tea Lemonade,24,200,0,43,30–35,Venti Iced,,
+tea,Iced Guava White Tea Lemonade,30,250,0,55,40–45,Trenta Iced,,
+tea,Iced Matcha Green Tea Latte,20,210,7,28,110,Tall,Almond,
+tea,Iced Matcha Green Tea Latte,12,110,4,17,55,Tall,Coconut,
+tea,Iced Matcha Green Tea Latte,12,110,0,20,55,Tall,Nonfat milk,
+tea,Iced Matcha Green Tea Latte,12,160,6,20,55,Tall,Whole Milk,
+tea,Iced Matcha Green Tea Latte,12,140,4,20,55,Tall,2% Milk,
+tea,Iced Matcha Green Tea Latte,12,150,3,20,55,Tall,Soy (United States),
+tea,Iced Matcha Green Tea Latte,12,100,3,14,55,Grande,Almond,
+tea,Iced Matcha Green Tea Latte,16,160,5,24,80,Grande,Coconut,
+tea,Iced Matcha Green Tea Latte,16,160,0,28,80,Grande,Nonfat milk,
+tea,Iced Matcha Green Tea Latte,16,230,8,28,80,Grande,Whole Milk,
+tea,Iced Matcha Green Tea Latte,16,200,5,28,80,Grande,2% Milk,
+tea,Iced Matcha Green Tea Latte,16,200,4,29,80,Grande,Soy (United States),
+tea,Iced Matcha Green Tea Latte,16,140,4,21,80,Venti Iced,Almond,
+tea,Iced Matcha Green Tea Latte,24,220,8,33,110,Venti Iced,Coconut,
+tea,Iced Matcha Green Tea Latte,24,230,0.5,40,110,Venti Iced,Nonfat milk,
+tea,Iced Matcha Green Tea Latte,24,330,12,39,110,Venti Iced,Whole Milk,
+tea,Iced Matcha Green Tea Latte,24,280,8,39,110,Venti Iced,2% Milk,
+tea,Iced Matcha Green Tea Latte,24,290,6,41,110,Venti Iced,Soy (United States),
+tea,Iced Peach Green Tea,12,80,0,17,20–25,Tall,,
+tea,Iced Peach Green Tea,16,100,0,23,25–30,Grande,,
+tea,Iced Peach Green Tea,24,150,0,34,40–45,Venti Iced,,
+tea,Iced Peach Green Tea,30,190,0,43,50–55,Trenta Iced,,
+tea,Iced Peach Green Tea Lemonade,12,100,0,21,20–25,Tall,,
+tea,Iced Peach Green Tea Lemonade,16,130,0,29,25–30,Grande,,
+tea,Iced Peach Green Tea Lemonade,24,190,0,43,40–45,Venti Iced,,
+tea,Iced Peach Green Tea Lemonade,30,240,0,54,50–55,Trenta Iced,,
+tea,Jade Citrus Mint Green Tea,8,0,0,0,15–25,Short,,
+tea,Jade Citrus Mint Green Tea,12,0,0,0,15–25,Tall,,
+tea,Jade Citrus Mint Green Tea,16,0,0,0,40+,Grande,,
+tea,Jade Citrus Mint Green Tea,20,0,0,0,40+,Venti,,
+tea,Jade Citrus Mint™ Brewed Tea,8,0,0,0,15–25,Short,,
+tea,Jade Citrus Mint™ Brewed Tea,12,0,0,0,15–25,Tall,,
+tea,Jade Citrus Mint™ Brewed Tea,16,0,0,0,40,Grande,,
+tea,Jade Citrus Mint™ Brewed Tea,20,0,0,0,40,Venti,,
+tea,Matcha Green Tea Latte,20,160,4.5,28,40,Short,Almond,
+tea,Matcha Green Tea Latte,8,80,3.5,11,30,Short,Coconut,
+tea,Matcha Green Tea Latte,8,80,0,14,30,Short,Nonfat milk,
+tea,Matcha Green Tea Latte,8,130,6,14,30,Short,Whole Milk,
+tea,Matcha Green Tea Latte,8,110,3.5,14,30,Short,2% Milk,
+tea,Matcha Green Tea Latte,8,110,3,14,30,Short,Soy (United States),
+tea,Matcha Green Tea Latte,8,70,3,8,30,Tall,Almond,
+tea,Matcha Green Tea Latte,12,140,6,19,55,Tall,Coconut,
+tea,Matcha Green Tea Latte,12,140,0,24,55,Tall,Nonfat milk,
+tea,Matcha Green Tea Latte,12,220,9,24,55,Tall,Whole Milk,
+tea,Matcha Green Tea Latte,12,190,5,24,55,Tall,2% Milk,
+tea,Matcha Green Tea Latte,12,190,4.5,25,55,Tall,Soy (United States),
+tea,Matcha Green Tea Latte,12,120,4.5,15,55,Grande,Almond,
+tea,Matcha Green Tea Latte,16,190,8,27,80,Grande,Coconut,
+tea,Matcha Green Tea Latte,16,190,0,33,80,Grande,Nonfat milk,
+tea,Matcha Green Tea Latte,16,280,11,32,80,Grande,Whole Milk,
+tea,Matcha Green Tea Latte,16,240,7,32,80,Grande,2% Milk,
+tea,Matcha Green Tea Latte,16,250,6,34,80,Grande,Soy (United States),
+tea,Matcha Green Tea Latte,16,160,6,21,80,Venti,Almond,
+tea,Matcha Green Tea Latte,20,250,10,36,110,Venti,Coconut,
+tea,Matcha Green Tea Latte,20,250,0.5,44,110,Venti,Nonfat milk,
+tea,Matcha Green Tea Latte,20,370,15,43,110,Venti,Whole Milk,
+tea,Matcha Green Tea Latte,20,320,9,43,110,Venti,2% Milk,
+tea,Matcha Green Tea Latte,20,330,7,45,110,Venti,Soy (United States),
+tea,Matcha Lemonade,12,90,0,19,55,Tall,,
+tea,Matcha Lemonade,16,120,0,27,80,Grande,,
+tea,Matcha Lemonade,24,170,0,38,110,Venti Iced,,
+tea,Mint Majesty™ Herbal Tea,8,0,0,0,0,Short,,
+tea,Mint Majesty™ Herbal Tea,12,0,0,0,0,Tall,,
+tea,Mint Majesty™ Herbal Tea,16,0,0,0,0,Grande,,
+tea,Mint Majesty™ Herbal Tea,20,0,0,0,0,Venti,,
+tea,Peach Tranquility® Herbal Tea,8,0,0,0,0,Short,,
+tea,Peach Tranquility® Herbal Tea,12,0,0,0,0,Tall,,
+tea,Peach Tranquility® Herbal Tea,16,0,0,0,0,Grande,,
+tea,Peach Tranquility® Herbal Tea,20,0,0,0,0,Venti,,
+tea,Rev Up Wellness Brewed Tea,8,0,0,0,40,Short,,
+tea,Rev Up Wellness Brewed Tea,12,0,0,0,40,Tall,,
+tea,Rev Up Wellness Brewed Tea,16,0,0,0,40,Grande,,
+tea,Rev Up Wellness Brewed Tea,20,0,0,0,40,Venti,,
+tea,Royal English Breakfast Tea,8,0,0,0,40+,Short,,
+tea,Royal English Breakfast Tea,12,0,0,0,40+,Tall,,
+tea,Royal English Breakfast Tea,16,0,0,0,40+,Grande,,
+tea,Royal English Breakfast Tea,20,0,0,0,40+,Venti,,
+tea,Royal English Breakfast Tea Latte,24,460,15,75,40+,Short,Almond,
+tea,Royal English Breakfast Tea Latte,8,60,2.5,9,40+,Short,Coconut,
+tea,Royal English Breakfast Tea Latte,8,80,0,15,40+,Short,Nonfat milk,
+tea,Royal English Breakfast Tea Latte,8,110,3.5,15,40+,Short,Whole Milk,
+tea,Royal English Breakfast Tea Latte,8,80,2,11,40+,Short,2% Milk,
+tea,Royal English Breakfast Tea Latte,8,90,1.5,15,40+,Short,Soy (United States),
+tea,Royal English Breakfast Tea Latte,8,50,2,7,40+,Tall,Almond,
+tea,Royal English Breakfast Tea Latte,12,90,3.5,14,40+,Tall,Coconut,
+tea,Royal English Breakfast Tea Latte,12,110,0,23,40+,Tall,Nonfat milk,
+tea,Royal English Breakfast Tea Latte,12,160,5,23,40+,Tall,Whole Milk,
+tea,Royal English Breakfast Tea Latte,12,110,3,16,40+,Tall,2% Milk,
+tea,Royal English Breakfast Tea Latte,12,140,2.5,23,40+,Tall,Soy (United States),
+tea,Royal English Breakfast Tea Latte,12,70,2.5,11,40+,Grande,Almond,
+tea,Royal English Breakfast Tea Latte,16,120,5,18,40+,Grande,Coconut,
+tea,Royal English Breakfast Tea Latte,16,150,0,30,40+,Grande,Nonfat milk,
+tea,Royal English Breakfast Tea Latte,16,210,7,30,40+,Grande,Whole Milk,
+tea,Royal English Breakfast Tea Latte,16,150,4,21,40+,Grande,2% Milk,
+tea,Royal English Breakfast Tea Latte,16,180,3,30,40+,Grande,Soy (United States),
+tea,Royal English Breakfast Tea Latte,16,100,3.5,14,40+,Venti,Almond,
+tea,Royal English Breakfast Tea Latte,20,150,6,23,40+,Venti,Coconut,
+tea,Royal English Breakfast Tea Latte,20,190,0,38,40+,Venti,Nonfat milk,
+tea,Royal English Breakfast Tea Latte,20,260,9,38,40+,Venti,Whole Milk,
+tea,Royal English Breakfast Tea Latte,20,190,5,27,40+,Venti,2% Milk,
+tea,Royal English Breakfast Tea Latte,20,230,4,38,40+,Venti,Soy (United States),
+tea,Teavana® Chai Tea,8,0,0,0,40,Short,,
+tea,Teavana® Chai Tea,12,0,0,0,40,Tall,,
+tea,Teavana® Chai Tea,16,0,0,0,40,Grande,,
+tea,Teavana® Chai Tea,20,0,0,0,40,Venti,,
+tea,Teavana® Earl Grey Brewed Tea,8,0,0,0,40,Short,,
+tea,Teavana® Earl Grey Brewed Tea,12,0,0,0,40,Tall,,
+tea,Teavana® Earl Grey Brewed Tea,16,0,0,0,40,Grande,,
+tea,Teavana® Earl Grey Brewed Tea,20,0,0,0,40,Venti,,
+tea,Teavana® London Fog Tea Latte,8,70,2,12,40+,Short,Almond,
+tea,Teavana® London Fog Tea Latte,8,80,2.5,13,40+,Short,Coconut,
+tea,Teavana® London Fog Tea Latte,8,80,0,15,40+,Short,Nonfat milk,
+tea,Teavana® London Fog Tea Latte,8,110,3.5,15,40+,Short,Whole Milk,
+tea,Teavana® London Fog Tea Latte,8,90,2,15,40+,Short,2% Milk,
+tea,Teavana® London Fog Tea Latte,8,90,1.5,15,40+,Short,Soy (United States),
+tea,Teavana® London Fog Tea Latte,12,100,3,17,40+,Tall,Almond,
+tea,Teavana® London Fog Tea Latte,12,110,3.5,19,40+,Tall,Coconut,
+tea,Teavana® London Fog Tea Latte,12,110,0,22,40+,Tall,Nonfat milk,
+tea,Teavana® London Fog Tea Latte,12,160,5,22,40+,Tall,Whole Milk,
+tea,Teavana® London Fog Tea Latte,12,140,3,22,40+,Tall,2% Milk,
+tea,Teavana® London Fog Tea Latte,12,140,2.5,22,40+,Tall,Soy (United States),
+tea,Teavana® London Fog Tea Latte,16,130,3.5,23,40+,Grande,Almond,
+tea,Teavana® London Fog Tea Latte,16,150,4.5,26,40+,Grande,Coconut,
+tea,Teavana® London Fog Tea Latte,16,150,0,30,40+,Grande,Nonfat milk,
+tea,Teavana® London Fog Tea Latte,16,210,7,29,40+,Grande,Whole Milk,
+tea,Teavana® London Fog Tea Latte,16,180,4,29,40+,Grande,2% Milk,
+tea,Teavana® London Fog Tea Latte,16,180,3,30,40+,Grande,Soy (United States),
+tea,Teavana® London Fog Tea Latte,20,160,4.5,29,40+,Venti,Almond,
+tea,Teavana® London Fog Tea Latte,20,190,6,32,40+,Venti,Coconut,
+tea,Teavana® London Fog Tea Latte,20,190,0,37,40+,Venti,Nonfat milk,
+tea,Teavana® London Fog Tea Latte,20,260,9,37,40+,Venti,Whole Milk,
+tea,Teavana® London Fog Tea Latte,20,230,5,37,40+,Venti,2% Milk,
+tea,Teavana® London Fog Tea Latte,20,230,4,37,40+,Venti,Soy (United States),
+iced-tea,Teavana® Shaken Iced Black Tea,30,70,0,19,50–55,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Black Tea,12,30,0,8,20–25,Tall,,
+iced-tea,Teavana® Shaken Iced Black Tea,16,45,0,11,25–30,Grande,,
+iced-tea,Teavana® Shaken Iced Black Tea,24,60,0,16,40–45,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Black Tea Lemonade,30,170,0,41,50–55,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Black Tea Lemonade,12,70,0,16,20–25,Tall,,
+iced-tea,Teavana® Shaken Iced Black Tea Lemonade,16,90,0,22,25–30,Grande,,
+iced-tea,Teavana® Shaken Iced Black Tea Lemonade,24,130,0,33,40–45,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Green Tea,30,70,0,19,50–55,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Green Tea,12,30,0,8,20–25,Tall,,
+iced-tea,Teavana® Shaken Iced Green Tea,16,45,0,11,25–30,Grande,,
+iced-tea,Teavana® Shaken Iced Green Tea,24,60,0,16,40–45,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Green Tea Lemonade,30,170,0,41,50–55,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Green Tea Lemonade,12,70,0,16,20–25,Tall,,
+iced-tea,Teavana® Shaken Iced Green Tea Lemonade,16,90,0,22,25–30,Grande,,
+iced-tea,Teavana® Shaken Iced Green Tea Lemonade,24,140,0,33,40–45,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea,30,70,0,19,0,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea,12,30,0,8,0,Tall,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea,16,45,0,11,0,Grande,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea,24,60,0,16,0,Venti Iced,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,30,170,0,41,0,Trenta Iced,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,12,70,0,16,0,Tall,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,16,90,0,22,0,Grande,,
+iced-tea,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,24,140,0,33,0,Venti Iced,,
+tea,Teavana® Shaken Iced White Tea,12,30,0,8,15–20,Tall,,
+tea,Teavana® Shaken Iced White Tea,16,45,0,11,20–25,Grande,,
+tea,Teavana® Shaken Iced White Tea,24,60,0,16,30–35,Venti Iced,,
+tea,Teavana® Shaken Iced White Tea,30,70,0,19,40–45,Trenta Iced,,
+tea,Teavana® Shaken Iced White Tea Lemonade,12,70,0,16,15–20,Tall,,
+tea,Teavana® Shaken Iced White Tea Lemonade,16,90,0,22,20–25,Grande,,
+tea,Teavana® Shaken Iced White Tea Lemonade,24,140,0,33,30–35,Venti Iced,,
+tea,Teavana® Shaken Iced White Tea Lemonade,30,170,0,41,40–45,Trenta Iced,,
+tea,Iced Teavana® London Fog Tea Latte,16,110,2,21,40–60,Grande,Almond,
+tea,Iced Teavana® London Fog Tea Latte,16,120,2.5,23,40–60,Grande,Coconut,
+tea,Iced Teavana® London Fog Tea Latte,16,120,0,25,40–60,Grande,Nonfat milk,
+tea,Iced Teavana® London Fog Tea Latte,16,150,4,25,40–60,Grande,Whole Milk,
+tea,Iced Teavana® London Fog Tea Latte,16,140,2.5,25,40,Grande,2% Milk,
+tea,Iced Teavana® London Fog Tea Latte,16,140,2,25,40–60,Grande,Soy (United States),
+tea,Iced Teavana® London Fog Tea Latte,12,80,1.5,16,40–60,Tall,Almond,
+tea,Iced Teavana® London Fog Tea Latte,12,90,2,17,40–60,Tall,Coconut,
+tea,Iced Teavana® London Fog Tea Latte,12,90,0,19,40–60,Tall,Nonfat milk,
+tea,Iced Teavana® London Fog Tea Latte,12,110,3,19,40–60,Tall,Whole Milk,
+tea,Iced Teavana® London Fog Tea Latte,12,100,2,19,40,Tall,2% Milk,
+tea,Iced Teavana® London Fog Tea Latte,12,110,1.5,19,40–60,Tall,Soy (United States),
+tea,Iced Teavana® London Fog Tea Latte,24,160,3,32,40–60,Venti Iced,Almond,
+tea,Iced Teavana® London Fog Tea Latte,24,180,4,34,40–60,Venti Iced,Coconut,
+tea,Iced Teavana® London Fog Tea Latte,24,180,0,38,40–60,Venti Iced,Nonfat milk,
+tea,Iced Teavana® London Fog Tea Latte,24,230,6,37,40–60,Venti Iced,Whole Milk,
+tea,Iced Teavana® London Fog Tea Latte,24,210,3.5,37,40,Venti Iced,2% Milk,
+tea,Iced Teavana® London Fog Tea Latte,24,210,3,38,40–60,Venti Iced,Soy (United States),
