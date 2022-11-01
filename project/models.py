@@ -11,13 +11,15 @@ class Customer(db.Model):
     c_custAdminStatus = db.Column(db.Boolean, unique = False, nullable = False)
 
 class Nutrition(db.Model):
-    nu_category = db.Column(db.String, unique = False, nullable = False)
-    nu_name     = db.Column(db.String, unique = True, nullable = False)
-    nu_calories = db.Column(db.String, unique = False, nullable = False)
-    nu_sugar    = db.Column(db.String, unique = False, nullable = False)
-    nu_totalFat = db.Column(db.String, unique = False, nullable = False)
+    nu_nutritionKey = db.Column(db.Integer, primary_key = True)
+    nu_category     = db.Column(db.String, unique = False, nullable = False)
+    nu_name         = db.Column(db.String, unique = True, nullable = False)
+    nu_calories     = db.Column(db.String, unique = False, nullable = False)
+    nu_sugar        = db.Column(db.String, unique = False, nullable = False)
+    nu_totalFat     = db.Column(db.String, unique = False, nullable = False)
 
 class Rating(db.Model):
+    r_ratingKey     = db.Column(db.Integer, primary_key = True)
     r_ratingScore   = db.Column(db.Integer, unique = False, nullable = False)
     r_ratingComment = db.Column(db.String, unique = False, nullable = False)
     r_custKey       = db.Column(db.Integer, unique = True, nullable = False)
