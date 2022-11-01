@@ -8,7 +8,7 @@ CREATE TABLE Customer (
     c_custEmail VARCHAR(50) NOT NULL,
     c_custPhoneNumber VARCHAR(25) NOT NULL,
     c_custAdminStatus BOOLEAN NOT NULL
-)
+);
 
 /* Food */
 /*
@@ -21,7 +21,7 @@ CREATE TABLE Food (
     f_foodCarbs INTEGER NOT NULL,
     f_foodFiber INTEGER NOT NULL,
     f_foodProtein INTEGER NOT NULL,
-)   
+);
 */
 
 /* Drinks */
@@ -35,7 +35,7 @@ CREATE TABLE Drinks (
     d_drinkSize VARCHAR(25) NOT NULL,
     d_drinkMilk VARCHAR(50) NOT NULL,
     d_drinkWhippedCream VARCHAR(50) NOT NULL
-)
+);
 */
 
 /* Nutrition */
@@ -45,14 +45,14 @@ CREATE TABLE Nutrition (
     nu_calories INTEGER NOT NULL,
     nu_sugar INTEGER NOT NULL,
     nu_totalFat INTEGER NOT NULL
-)
+);
 
 /* Ratings */
 CREATE TABLE Ratings (
     r_ratingScore INTEGER NOT NULL,
     r_ratingComment VARCHAR(1000) NOT NULL,
     r_custKey INTEGER NOT NULL
-)
+);
 
 /* Store */
 /*
@@ -60,7 +60,7 @@ CREATE TABLE Store (
     s_storeKey INTEGER PRIMARY KEY,
     s_storeCountryCode INTEGER NOT NULL,
     s_storeAddress VARCHAR(50) NOT NULL
-)
+);
 */
 
 /* Nation */
@@ -70,7 +70,7 @@ CREATE TABLE Nation (
     n_nationName VARCHAR(50) NOT NULL,
     n_regionKey INTEGER NOT NULL,
     n_nationCountryCode INTEGER NOT NULL
-)
+);
 */
 
 /* Region */
@@ -79,5 +79,5 @@ CREATE TABLE Region (
     r_regionKey INTEGER PRIMARY KEY,
     r_regionName VARCHAR(50) NOT NULL,
     r_comment VARCHAR(500) NOT NULL
-)
+);
 */
