@@ -6,8 +6,6 @@ from flask_sqlalchemy import SQLAlchemy
 import json
 import pandas as pd
 
-
-
 app = Flask(__name__)
 
 with app.app_context():
