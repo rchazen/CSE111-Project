@@ -105,7 +105,7 @@ AND c_custkey = r_custkey;
 /* Insert New Customer Ratings Into rating */
 /* Customer 1 */
 INSERT INTO rating (r_ratingKey, r_ratingScore, r_ratingComment, r_custKey)
-VALUES (2, 5, 'Testing', 1);
+VALUES (1, 5, 'Testing', 1);
 
 /* Customer 2 */
 INSERT INTO rating (r_ratingKey, r_ratingScore, r_ratingComment, r_custKey)
@@ -118,3 +118,30 @@ WHERE r_ratingKey = 1;
 
 /* Deletes A Certain Rating From rating */
 DELETE FROM rating WHERE r_ratingKey = 1;
+
+-- INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+-- VALUES ("rchazen", "pass", "San Diego", "UNITED STATES", "rchazen@gmail.com", "8587294104", TRUE) 
+
+-- INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+-- VALUES ("jarmenta", "ucmiscool", "Merced", "UNITED STATES", "jarmenta@ucmerced.edu", "2094314029", FALSE) 
+
+
+-- SELECT c_custUser
+-- FROM customer, nation
+-- WHERE c_custNation = n_name
+
+-- SELECT *
+-- FROM drinks, nutrition
+-- WHERE d_drinkCalories >500
+-- AND nu_name = d_drinkName
+-- AND nu_sugar <50
+-- ORDER BY nu_sugar DESC
+-- LIMIT 1
+
+-- SELECT *
+-- FROM food, nutrition
+-- WHERE f_foodCalories >500
+-- AND nu_name = f_foodName
+-- AND nu_sugar <10
+-- ORDER BY nu_sugar DESC
+-- LIMIT 1
