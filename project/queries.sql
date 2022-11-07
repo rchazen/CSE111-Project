@@ -7,8 +7,8 @@
 -- FROM drinks
 
 /* Insert Values To customer */
-INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (1,'JaneDoe', 'idk', 'California', 'AL', 'jdoe@gmail.com', '314-321-3515', False);
+-- INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+-- VALUES (1,'JaneDoe', 'idk', 'California', 'AL', 'jdoe@gmail.com', '314-321-3515', False);
 
 /* Deletes Row From customer Where c_custkey = # */
 DELETE FROM customer WHERE c_custKey = 1;
@@ -21,6 +21,11 @@ FROM customer
 WHERE c_custkey = (SELECT c_custKey
                     FROM rating, customer
                     WHERE c_custKey = r_custKey);
+
+/* Updating A Customers Email And Phone Number */
+UPDATE customer
+SET c_custEmail = 'changed@ucmerced.edu', c_custPhoneNumber = '123-456-7890'
+WHERE c_custKey = 2;
 
 /* Showing The Store Locations To All Starbucks In Their Nation */
 SELECT s_storeAddress
@@ -37,6 +42,11 @@ AND s_storeCountryCode = n_nationCountryCode;
 /* Insert New Store Location */
 INSERT INTO stores (s_storeKey, s_storeCountryCode, s_storeAddress)
 VALUES ((SELECT COUNT(s_storeKey) FROM stores),'US', '3232 North St')
+
+/* Update A Store Location */
+UPDATE stores
+SET s_storeAddess = '5400 North Lake Rd'
+WHERE s_storeKey = 28389;
 
 /* Delete Store Location Since Closed */
 DELETE FROM stores WHERE s_storeKey = 28289;
@@ -92,6 +102,11 @@ HAVING d_drinkSugar + f_foodSugar <= 30;
 /* Insert New Values To drinks */
 INSERT INTO drinks (d_drinkCategory, d_drinkName, d_drinkPortion, d_drinkCalories, d_drinkFat, d_drinkSugar, d_drinkCaffeine, d_drinkSize, d_drinkMilk, d_drinkWhippedCream)
 VALUES ('Test', 'Test', 12, 320, 10, 15, 21, 'Tall', 'Sweetened', 'Unsweetened');
+
+/* Updating drinks */
+UPDATE drinks
+SET d_drinkCalories = 123, d_drinkFat = 10, d_drinkSugar = 14, d_drinkSize = 'Grande'
+WHERE d_drinkCategory = 'Test' AND d_drinkName = 'Test';
 
 /* Deletes Row From drinks */
 DELETE FROM drinks WHERE d_drinkName = 'Test';
