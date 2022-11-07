@@ -28,6 +28,19 @@ FROM stores, customer, nation
 WHERE c_custNation = n_nationCountryCode
 AND s_storeCountryCode = n_nationCountryCode;
 
+/* When A Customer Wants To Find A Starbucks Location When They Are On Vacation */
+SELECT s_storeAddress 
+FROM stores, customer, nation
+WHERE n_nationCountryCode = 'CA'
+AND s_storeCountryCode = n_nationCountryCode;
+
+/* Insert New Store Location */
+INSERT INTO stores (s_storeKey, s_storeCountryCode, s_storeAddress)
+VALUES ((SELECT COUNT(s_storeKey) FROM stores),'US', '3232 North St')
+
+/* Delete Store Location Since Closed */
+DELETE FROM stores WHERE s_storeKey = 28289;
+
 /* Insert New Values For food */
 INSERT INTO food (f_foodCategory, f_foodName, f_foodCalories, f_foodFat, f_foodCholesterol, f_foodSodium, f_foodCarbs, f_foodFiber, f_foodSugar, f_foodProtein)
 VALUES ('Bakery', 'Testing', 350, 25, 5, 3, 5, 8, 12, 3);
@@ -51,7 +64,8 @@ AND f_foodCategory = 'Protein Boxes';
 /*
 SELECT *
 FROM nutrition
-WHERE nu_sugar < 5;
+WHERE nu_category = 'Bakery'
+AND nu_sugar < 5;
 */
 
 /* Select Drinks Based On Category, Milk Type, And Amount Of Sugar For Food And Drinks
@@ -82,9 +96,25 @@ VALUES ('Test', 'Test', 12, 320, 10, 15, 21, 'Tall', 'Sweetened', 'Unsweetened')
 /* Deletes Row From drinks */
 DELETE FROM drinks WHERE d_drinkName = 'Test';
 
-/* Insert New Rating Into rating */
+/* Select ratings based on highest ratingScore and which customer made that rating */
+SELECT r_custKey, r_ratingScore, r_ratingComment
+FROM rating, customer
+WHERE r_ratingScore = 4
+AND c_custkey = r_custkey;
+
+/* Insert New Customer Ratings Into rating */
+/* Customer 1 */
 INSERT INTO rating (r_ratingKey, r_ratingScore, r_ratingComment, r_custKey)
-VALUES (1, 5, 'Testing', 1);
+VALUES (2, 5, 'Testing', 1);
+
+/* Customer 2 */
+INSERT INTO rating (r_ratingKey, r_ratingScore, r_ratingComment, r_custKey)
+VALUES (3, 5, 'Love this!', 2);
+
+/* Update Certain Values For rating: when a user wants to change their ratings */
+UPDATE rating
+SET r_ratingScore = 4, r_ratingComment = 'Not bad.'
+WHERE r_ratingKey = 1;
 
 /* Deletes A Certain Rating From rating */
 DELETE FROM rating WHERE r_ratingKey = 1;
