@@ -1,14 +1,7 @@
--- INSERT INTO nutrition (nu_category, nu_name, nu_calories, nu_sugar, nu_totalFat)
--- SELECT f_foodCategory, f_foodName,f_foodCalories, f_foodSugar, f_foodFat
--- FROM food
-
--- INSERT INTO nutrition (nu_category, nu_name, nu_calories, nu_sugar, nu_totalFat)
--- SELECT d_drinkCategory, d_drinkName,d_drinkCalories, d_drinkSugar, d_drinkFat
--- FROM drinks
 
 /* Insert Values To customer */
--- INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
--- VALUES (1,'JaneDoe', 'idk', 'California', 'AL', 'jdoe@gmail.com', '314-321-3515', False);
+INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES (1,'JaneDoe', 'idk', 'California', 'BRAZIL', 'jdoe@gmail.com', '314-321-3515', False);
 
 /* Deletes Row From customer Where c_custkey = # */
 DELETE FROM customer WHERE c_custKey = 1;
@@ -140,54 +133,72 @@ VALUES ("rchazen", "pass", "San Diego", "UNITED STATES", "rchazen@gmail.com", "8
 INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
 VALUES ("jarmenta", "ucmiscool", "Merced", "UNITED STATES", "jarmenta@ucmerced.edu", "2094314029", FALSE) 
 
--- INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
--- VALUES(5, "Tasted very good", 1, "Chonga Bagel")
+/* Adds a rating into the ratings table */
+INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES(5, "Tasted very good", 1, "Chonga Bagel")
 
--- INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
--- VALUES(2, "Tasted too cheesy", 2, "Cheese Danish")
+/* Adds a rating into the ratings table */
+INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES(2, "Tasted too cheesy", 2, "Cheese Danish")
 
--- SELECT c_custUser
--- FROM customer, nation
--- WHERE c_custNation = n_name
+/* Selects customers username and shows what country they are from*/
+SELECT c_custUser, n_name
+FROM customer, nation
+WHERE c_custNation = n_name
 
--- SELECT *
--- FROM drinks, nutrition
--- WHERE d_drinkCalories >500
--- AND nu_name = d_drinkName
--- AND d_drinkSugar <80
--- ORDER BY nu_sugar DESC
--- LIMIT 1
+/* Selects drink that has more than 500 calories and < 80 grams of sugar*/
+SELECT d_drinkName
+FROM drinks, nutrition
+WHERE d_drinkCalories >500
+AND nu_name = d_drinkName
+AND d_drinkSugar <80
+ORDER BY nu_sugar DESC
+LIMIT 1
 
--- SELECT *
--- FROM food, nutrition
--- WHERE f_foodCalories >500
--- AND nu_name = f_foodName
--- AND nu_sugar <10
--- ORDER BY nu_sugar DESC
--- LIMIT 1
+/*Selects food with more than 500 calories and less than 10 grams of sugar */
+SELECT f_foodName
+FROM food, nutrition
+WHERE f_foodCalories >500
+AND nu_name = f_foodName
+AND nu_sugar <10
+ORDER BY nu_sugar DESC
+LIMIT 1
 
--- SELECT r_ratingScore, f_foodName,  nu_calories, nu_sugar
--- FROM rating, food, nutrition
--- WHERE r_itemName = f_foodName
--- AND nu_name= f_foodName
--- AND r_ratingScore>3
+/*Selects food with rating greater than 3 */
 
--- SELECT r_regionName, COUNT(*) AS num_sbux
--- FROM stores, nation, region
--- WHERE s_storeCountryCode = n_nationCountryCode
--- AND r_regionKey = n_regionkey
--- GROUP BY r_regionName
+SELECT r_ratingScore, f_foodName
+FROM rating, food
+WHERE r_itemName = f_foodName
+AND r_ratingScore >3
 
--- SELECT *
--- FROM food
--- WHERE f_foodFat <10
--- AND f_foodCalories <250
--- AND f_foodSugar = 0
--- LIMIT 1
+/* Counts the number of starbucks in each region */
+SELECT r_regionName, COUNT(*) AS num_sbux
+FROM stores, nation, region
+WHERE s_storeCountryCode = n_nationCountryCode
+AND r_regionKey = n_regionkey
+GROUP BY r_regionName
 
--- SELECT *
--- FROM drinks
--- WHERE d_drinkCalories = 0
--- AND d_drinkSize = "Venti"
--- LIMIT 1
+/*Grabs a food item and shows details */
+SELECT *
+FROM food
+WHERE f_foodFat <10
+AND f_foodCalories <250
+AND f_foodSugar = 0
+LIMIT 1
 
+/*Grabs a large drink item and shows details */
+SELECT *
+FROM drinks
+WHERE d_drinkCalories = 0
+AND d_drinkSize = "Venti"
+LIMIT 1
+
+/*Inserts everything into nutrition */
+INSERT INTO nutrition (nu_category, nu_name, nu_calories, nu_sugar, nu_totalFat)
+SELECT f_foodCategory, f_foodName,f_foodCalories, f_foodSugar, f_foodFat
+FROM food
+
+/*Inserts everything into nutrition */
+INSERT INTO nutrition (nu_category, nu_name, nu_calories, nu_sugar, nu_totalFat)
+SELECT d_drinkCategory, d_drinkName,d_drinkCalories, d_drinkSugar, d_drinkFat
+FROM drinks
