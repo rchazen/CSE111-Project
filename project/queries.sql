@@ -1,6 +1,7 @@
 
 /* Insert Values To customer */
 INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+<<<<<<< HEAD
 VALUES (1,'JaneDoe', 'idk', 'Fresno', 'BRAZIL', 'jdoe@gmail.com', '314-321-3515', False);
 
 INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
@@ -26,9 +27,28 @@ VALUES (9,'RyanChazen', 'ThetaTau', "San Diego", "UNITED STATES", "rchazen@ucmer
 
 INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
 VALUES (10,'NikitaDragon', 'PoolLoveer!', "Los Angeles", "UNITED STATES", "ndragon@ucmerced.edu", "531-351-7789", False)
+=======
+VALUES (3,'JaneDoe', 'idk', 'California', 'BRAZIL', 'jdoe@gmail.com', '314-321-3515', False);
+>>>>>>> 976b2570ae5ba3baaff3cf627168aca1cd26b62e
 
 /* Deletes Row From customer Where c_custkey = # */
-DELETE FROM customer WHERE c_custKey = 1;
+DELETE FROM customer WHERE c_custKey = 4;
+
+/* Finding All Ratings Made From Which Nation And Region And By Which Customer */
+SELECT n_nationCountryCode, c_custNation, r_regionName, c_custUser, r_ratingComment
+FROM customer, nation, region, rating
+WHERE r_regionKey = 1
+AND c_custNation = n_name
+AND r_regionKey = n_regionkey
+AND c_custKey = r_custKey;
+
+/* Finding the total amount of Customer From Each Region */
+SELECT COUNT(DISTINCT(c_custUser)) as AmtOfCustomers, c_custNation, n_nationCountryCode, r_regionName
+FROM customer, nation, region
+WHERE r_regionKey = 1
+AND c_custNation = n_name
+AND r_regionKey = n_regionkey
+GROUP BY r_regionName;
 
 /* Finding Ratings Made By Certain Customer 
    And Displaying User, AdminStatus, City,
@@ -152,23 +172,23 @@ WHERE r_ratingKey = 1;
 DELETE FROM rating WHERE r_ratingKey = 3;
 
 INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES ("rchazen", "pass", "San Diego", "UNITED STATES", "rchazen@gmail.com", "8587294104", TRUE) 
+VALUES ("rchazen", "pass", "San Diego", "UNITED STATES", "rchazen@gmail.com", "8587294104", TRUE); 
 
 INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES ("jarmenta", "ucmiscool", "Merced", "UNITED STATES", "jarmenta@ucmerced.edu", "2094314029", FALSE) 
+VALUES ("jarmenta", "ucmiscool", "Merced", "UNITED STATES", "jarmenta@ucmerced.edu", "2094314029", FALSE); 
 
 /* Adds a rating into the ratings table */
 INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
-VALUES(5, "Tasted very good", 1, "Chonga Bagel")
+VALUES(5, "Tasted very good", 1, "Chonga Bagel");
 
 /* Adds a rating into the ratings table */
 INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
-VALUES(2, "Tasted too cheesy", 2, "Cheese Danish")
+VALUES(2, "Tasted too cheesy", 2, "Cheese Danish");
 
 /* Selects customers username and shows what country they are from*/
 SELECT c_custUser, n_name
 FROM customer, nation
-WHERE c_custNation = n_name
+WHERE c_custNation = n_name;
 
 /* Selects drink that has more than 500 calories and < 80 grams of sugar*/
 SELECT d_drinkName
@@ -177,7 +197,7 @@ WHERE d_drinkCalories >500
 AND nu_name = d_drinkName
 AND d_drinkSugar <80
 ORDER BY nu_sugar DESC
-LIMIT 1
+LIMIT 1;
 
 /*Selects food with more than 500 calories and less than 10 grams of sugar */
 SELECT f_foodName
@@ -186,21 +206,21 @@ WHERE f_foodCalories >500
 AND nu_name = f_foodName
 AND nu_sugar <10
 ORDER BY nu_sugar DESC
-LIMIT 1
+LIMIT 1;
 
 /*Selects food with rating greater than 3 */
 
 SELECT r_ratingScore, f_foodName
 FROM rating, food
 WHERE r_itemName = f_foodName
-AND r_ratingScore >3
+AND r_ratingScore > 3;
 
 /* Counts the number of starbucks in each region */
 SELECT r_regionName, COUNT(*) AS num_sbux
 FROM stores, nation, region
 WHERE s_storeCountryCode = n_nationCountryCode
 AND r_regionKey = n_regionkey
-GROUP BY r_regionName
+GROUP BY r_regionName;
 
 /*Grabs a food item and shows details */
 SELECT *
@@ -208,14 +228,14 @@ FROM food
 WHERE f_foodFat <10
 AND f_foodCalories <250
 AND f_foodSugar = 0
-LIMIT 1
+LIMIT 1;
 
 /*Grabs a large drink item and shows details */
 SELECT *
 FROM drinks
 WHERE d_drinkCalories = 0
 AND d_drinkSize = "Venti"
-LIMIT 1
+LIMIT 1;
 
 /*Inserts everything into nutrition */
 INSERT INTO nutrition (nu_category, nu_name, nu_calories, nu_sugar, nu_totalFat)
