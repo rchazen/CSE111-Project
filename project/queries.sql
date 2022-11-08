@@ -69,14 +69,14 @@ FROM food
 WHERE f_foodSugar <= 10 
 AND f_foodCategory = 'Protein Boxes';
 
-/* Querying Nutrition To Find Items That Are < Than Something */
-/* *** DOESN'T WORK AS EXPECTED */
-/*
-SELECT *
-FROM nutrition
+/* Querying Nutrition Data For Food To Find Items That Are < Than Something */
+SELECT nu_name, nu_category, nu_calories, nu_sugar, nu_totalFat
+FROM nutrition, food
 WHERE nu_category = 'Bakery'
-AND nu_sugar < 5;
-*/
+AND nu_name = f_foodName
+AND nu_calories < 300
+AND nu_sugar < 12
+AND nu_totalFat < 15;
 
 /* Select Drinks Based On Category, Milk Type, And Amount Of Sugar For Food And Drinks
    Where Combined Items Should Be Less Than Certain Amount */
