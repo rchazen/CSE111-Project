@@ -13,7 +13,7 @@ with app.app_context():
     app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///db.sqlite3"
 
     # Instantiate the database.
-    db = SQLAlchemy(app)
+    db = SQLAlchemy()
     from models import *
     db.create_all()
 
