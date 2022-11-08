@@ -22,4 +22,6 @@ class Rating(db.Model):
     r_ratingKey     = db.Column(db.Integer, primary_key = True)
     r_ratingScore   = db.Column(db.Integer, unique = False, nullable = False)
     r_ratingComment = db.Column(db.String, unique = False, nullable = False)
-    r_custKey       = db.Column(db.Integer, unique = False, nullable = False)
+    r_custKey       = db.Column(db.Integer, unique = True, nullable = False)
+    r_itemName       = db.Column(db.String, unique = False, nullable = False)
+
