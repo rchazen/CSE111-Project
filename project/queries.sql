@@ -1,7 +1,31 @@
 
 /* Insert Values To customer */
 INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (1,'JaneDoe', 'idk', 'California', 'BRAZIL', 'jdoe@gmail.com', '314-321-3515', False);
+VALUES (1,'JaneDoe', 'idk', 'Fresno', 'BRAZIL', 'jdoe@gmail.com', '314-321-3515', False);
+
+INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES (3,'LauraAurora', 'HDM!Cable', "King City", "UNITED KINGDOM", "lvillagrana2@ucmerced.edu", "392-404-9832", False)
+
+INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES (4,'AnaMelendez', 'HelloKitty76', "Palm Springs", "GERMANY", "amelendez@ucmerced.edu", "392-404-5323", False)
+
+INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES (5,'NickMontijo', 'LanternDad123', "Los Angeles", "UNITED STATES", "nmointijo@ucmerced.edu", "352-764-2167", False)
+
+INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES (6,'JohanaAbarca', 'Biotingz', "Hayword", "FRANCE", "jabarca@ucmerced.edu", "341-531-3413", False)
+
+INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES (7,'NicoleWu', 'CupcakkeStan12', "Miramar", "UNITED STATES", "nwu11@ucmerced.edu", "643-632-3567", False)
+
+INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES (8,'RachelPeters', 'PurpleHair123', "Merced", "UNITED STATES", "rpeters@ucmerced.edu", "531-053-1034", False)
+
+INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES (9,'RyanChazen', 'ThetaTau', "San Diego", "UNITED STATES", "rchazen@ucmerced.edu", "858-729-4104", False)
+
+INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES (10,'NikitaDragon', 'PoolLoveer!', "Los Angeles", "UNITED STATES", "ndragon@ucmerced.edu", "531-351-7789", False)
 
 /* Deletes Row From customer Where c_custkey = # */
 DELETE FROM customer WHERE c_custKey = 1;
