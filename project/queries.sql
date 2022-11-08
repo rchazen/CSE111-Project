@@ -28,9 +28,9 @@ SET c_custEmail = 'changed@ucmerced.edu', c_custPhoneNumber = '123-456-7890'
 WHERE c_custKey = 2;
 
 /* Showing The Store Locations To All Starbucks In Their Nation */
-SELECT s_storeAddress
+SELECT n_name, s_storeAddress
 FROM stores, customer, nation
-WHERE c_custNation = n_nationCountryCode
+WHERE c_custNation = n_name
 AND s_storeCountryCode = n_nationCountryCode;
 
 /* When A Customer Wants To Find A Starbucks Location When They Are On Vacation */
@@ -134,11 +134,11 @@ WHERE r_ratingKey = 1;
 /* Deletes A Certain Rating From rating */
 DELETE FROM rating WHERE r_ratingKey = 1;
 
--- INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
--- VALUES ("rchazen", "pass", "San Diego", "UNITED STATES", "rchazen@gmail.com", "8587294104", TRUE) 
+INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES ("rchazen", "pass", "San Diego", "UNITED STATES", "rchazen@gmail.com", "8587294104", TRUE) 
 
--- INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
--- VALUES ("jarmenta", "ucmiscool", "Merced", "UNITED STATES", "jarmenta@ucmerced.edu", "2094314029", FALSE) 
+INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
+VALUES ("jarmenta", "ucmiscool", "Merced", "UNITED STATES", "jarmenta@ucmerced.edu", "2094314029", FALSE) 
 
 -- INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
 -- VALUES(5, "Tasted very good", 1, "Chonga Bagel")
