@@ -34,7 +34,7 @@ WHERE c_custNation = n_name
 AND s_storeCountryCode = n_nationCountryCode;
 
 /* When A Customer Wants To Find A Starbucks Location When They Are On Vacation */
-SELECT s_storeAddress 
+SELECT n_name, s_storeAddress 
 FROM stores, customer, nation
 WHERE n_nationCountryCode = 'CA'
 AND s_storeCountryCode = n_nationCountryCode;
