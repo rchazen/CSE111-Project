@@ -1,35 +1,8 @@
 
 /* Insert Values To customer */
 INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-<<<<<<< HEAD
-VALUES (1,'JaneDoe', 'idk', 'Fresno', 'BRAZIL', 'jdoe@gmail.com', '314-321-3515', False);
-
-INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (3,'LauraAurora', 'HDM!Cable', "King City", "UNITED KINGDOM", "lvillagrana2@ucmerced.edu", "392-404-9832", False)
-
-INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (4,'AnaMelendez', 'HelloKitty76', "Palm Springs", "GERMANY", "amelendez@ucmerced.edu", "392-404-5323", False)
-
-INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (5,'NickMontijo', 'LanternDad123', "Los Angeles", "UNITED STATES", "nmointijo@ucmerced.edu", "352-764-2167", False)
-
-INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (6,'JohanaAbarca', 'Biotingz', "Hayword", "FRANCE", "jabarca@ucmerced.edu", "341-531-3413", False)
-
-INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (7,'NicoleWu', 'CupcakkeStan12', "Miramar", "UNITED STATES", "nwu11@ucmerced.edu", "643-632-3567", False)
-
-INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (8,'RachelPeters', 'PurpleHair123', "Merced", "UNITED STATES", "rpeters@ucmerced.edu", "531-053-1034", False)
-
-INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (9,'RyanChazen', 'ThetaTau', "San Diego", "UNITED STATES", "rchazen@ucmerced.edu", "858-729-4104", False)
-
-INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
-VALUES (10,'NikitaDragon', 'PoolLoveer!', "Los Angeles", "UNITED STATES", "ndragon@ucmerced.edu", "531-351-7789", False)
-=======
 VALUES (3,'JaneDoe', 'idk', 'California', 'BRAZIL', 'jdoe@gmail.com', '314-321-3515', False);
->>>>>>> 976b2570ae5ba3baaff3cf627168aca1cd26b62e
+
 
 /* Deletes Row From customer Where c_custkey = # */
 DELETE FROM customer WHERE c_custKey = 4;
@@ -185,6 +158,15 @@ VALUES(5, "Tasted very good", 1, "Chonga Bagel");
 INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
 VALUES(2, "Tasted too cheesy", 2, "Cheese Danish");
 
+INSERT INTO rating (r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES (4, "I loved the chocolate", 1, 'Chocolate Croissant');
+
+INSERT INTO rating (r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES (1, "I hate the cinamon", 1, 'Classic Coffee Cake');
+
+INSERT INTO rating (r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES (5, "Super good!", 5, 'Frosted Doughnut Cake Pop');
+
 /* Selects customers username and shows what country they are from*/
 SELECT c_custUser, n_name
 FROM customer, nation
@@ -246,3 +228,5 @@ FROM food
 INSERT INTO nutrition (nu_category, nu_name, nu_calories, nu_sugar, nu_totalFat)
 SELECT d_drinkCategory, d_drinkName,d_drinkCalories, d_drinkSugar, d_drinkFat
 FROM drinks
+
+
