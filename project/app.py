@@ -14,6 +14,7 @@ with app.app_context():
 
     # Instantiate the database.
     db = SQLAlchemy()
+    db.init_app(app)
     from models import *
     db.create_all()
 

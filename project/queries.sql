@@ -119,20 +119,20 @@ AND c_custkey = r_custkey;
 
 /* Insert New Customer Ratings Into rating */
 /* Customer 1 */
-INSERT INTO rating (r_ratingKey, r_ratingScore, r_ratingComment, r_custKey)
-VALUES (1, 5, 'Testing', 1);
+INSERT INTO rating (r_ratingKey, r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES (1, 5, 'Testing', 1, 'Testing');
 
 /* Customer 2 */
-INSERT INTO rating (r_ratingKey, r_ratingScore, r_ratingComment, r_custKey)
-VALUES (3, 5, 'Love this!', 2);
+INSERT INTO rating (r_ratingKey, r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES (3, 5, 'Love this!', 2, 'Testing');
 
 /* Update Certain Values For rating: when a user wants to change their ratings */
 UPDATE rating
-SET r_ratingScore = 4, r_ratingComment = 'Not bad.'
+SET r_ratingScore = 4, r_ratingComment = 'Not bad.', r_itemName = "Strawberry Cheesecake"
 WHERE r_ratingKey = 1;
 
 /* Deletes A Certain Rating From rating */
-DELETE FROM rating WHERE r_ratingKey = 1;
+DELETE FROM rating WHERE r_ratingKey = 3;
 
 INSERT INTO customer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
 VALUES ("rchazen", "pass", "San Diego", "UNITED STATES", "rchazen@gmail.com", "8587294104", TRUE) 
