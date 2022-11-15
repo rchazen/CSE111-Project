@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+        <title>UIL|Sign Up</title>
+    </head>
+    <body>
+        <div class="intro">
+            <h1>Starbucks Reccomendation System</h1>
+            <p>Sign Up For An Account!</p>
+            <div class = "form_container">
+                <form method="POST" action="{{url_for('signup_post')}}">
+                    <label for="uname">Username:</label><br>
+                    <input type="text" id="uname" name="uname"><br>
+
+                    <label for="uname">Password:</label><br>
+                    <input type="password" id="password" name="password"><br>
+
+                    <label for="ucity">City:</label><br>
+                    <input type="text" id="ucity" name="ucity"><br>
+
+                    <label for="unation">Nation:</label><br>
+                    <input type="text" id="unation" name="unation"><br>
+
+                    <label for="uemail">Email:</label><br>
+                    <input type="text" id="uemail" name="uemail"><br>
+
+                    <label for="uphone">Phone Number:</label><br>
+                    <input type="text" id="uphone" name="uphone"><br>
+
+                    <input type="submit" value="Sign Up">
+                </form>
+                {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <ul class=flashes>
+                    {% for message in messages %}
+                    <li>{{ message }}</li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+                {% endwith %}
+            </div>
+        </div>
+    </body>
+</html>
