@@ -3,7 +3,6 @@
 INSERT INTO customer (c_custKey, c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber, c_custAdminStatus)
 VALUES (3,'JaneDoe', 'idk', 'California', 'BRAZIL', 'jdoe@gmail.com', '314-321-3515', False);
 
-
 /* Deletes Row From customer Where c_custkey = # */
 DELETE FROM customer WHERE c_custKey = 4;
 
@@ -229,4 +228,6 @@ INSERT INTO nutrition (nu_category, nu_name, nu_calories, nu_sugar, nu_totalFat)
 SELECT d_drinkCategory, d_drinkName,d_drinkCalories, d_drinkSugar, d_drinkFat
 FROM drinks
 
-
+-- SELECT nu_name, nu_calories, d_drinkCalories
+-- FROM nutrition, drinks
+-- WHERE nu_name = d_drinkName
