@@ -40,6 +40,9 @@ with app.app_context():
         def addCustomer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber):
             db.session.add(Customer(c_custUser = c_custUser, c_custPass = c_custPass, c_custCity = c_custCity, c_custNation = c_custNation, c_custEmail = c_custEmail, c_custPhoneNumber = c_custPhoneNumber, c_custAdminStatus = False))
             db.session.commit()
+        #For the login we need get_id
+        def get_id(self):
+           return (self.c_custKey)
     
     @login_manager.user_loader
     def load_user(user_id):
@@ -78,16 +81,17 @@ def login_post():
     
     #get user information
     user = Customer.query.filter_by(c_custUser=username).first()
-    
 
 
     #check if user exists
     #print(user.c_custKey)
-    print(user)
-    if not user or not user.c_custPass == password:
+    print(user.c_custUser)
+    
+    if not user.c_custUser or not user.c_custPass == password:
         flash('Please check your login details and try again.')
         return redirect(url_for('logIn'))
-    elif user and user.c_custPass == password:
+    elif user.c_custUser and user.c_custPass == password:
+        login_user(user)
         return redirect(url_for('home_menu'))
     return "Can not log in"
 
