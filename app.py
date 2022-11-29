@@ -95,6 +95,11 @@ def login_post():
         return redirect(url_for('home_menu'))
     return "Can not log in"
 
+@app.route('/logout')
+@login_required
+def logOut():
+    logout_user()
+    return redirect(url_for('logIn'))
 
 @app.route('/home')
 @login_required
