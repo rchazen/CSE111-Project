@@ -99,7 +99,8 @@ def login_post():
 @app.route('/home')
 @login_required
 def home_menu():
-    return render_template('home.html')
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+    return render_template('home.html', person = user)
 
 
 # Sign Up Method
