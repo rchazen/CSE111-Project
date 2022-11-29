@@ -35,6 +35,11 @@ with app.app_context():
         c_custEmail       = db.Column(db.String, unique = True, nullable = False)
         c_custPhoneNumber = db.Column(db.String, unique = True, nullable = False)
         c_custAdminStatus = db.Column(db.Boolean, unique = False, nullable = False)
+
+        # Adds a new user to database
+        def addCustomer(c_custUser, c_custPass, c_custCity, c_custNation, c_custEmail, c_custPhoneNumber):
+            db.session.add(Customer(c_custUser = c_custUser, c_custPass = c_custPass, c_custCity = c_custCity, c_custNation = c_custNation, c_custEmail = c_custEmail, c_custPhoneNumber = c_custPhoneNumber, c_custAdminStatus = False))
+            db.session.commit()
     
     @login_manager.user_loader
     def load_user(user_id):
@@ -52,7 +57,7 @@ with app.app_context():
         r_ratingScore   = db.Column(db.Integer, unique = False, nullable = False)
         r_ratingComment = db.Column(db.String, unique = False, nullable = False)
         r_custKey       = db.Column(db.Integer, unique = False, nullable = False)
-        r_itemName       = db.Column(db.String, unique = False, nullable = False)
+        r_itemName      = db.Column(db.String, unique = False, nullable = False)
 
     db.create_all()
 
@@ -86,10 +91,57 @@ def login_post():
         return redirect(url_for('home_menu'))
     return "Can not log in"
 
+
 @app.route('/home')
 @login_required
 def home_menu():
     return render_template('home.html')
+
+
+# Sign Up Method
+@app.route('/signup')
+def signUp():
+    return render_template('signup.html')
+
+@app.route('/signup', methods =['POST'])
+def signup_post():
+    username = request.form['uname']
+    password = request.form['password']
+    city     = request.form['ucity']
+    nation   = request.form['unation']
+    email    = request.form['uemail']
+    phone    = request.form['uphone']
+
+    if username and password and city and nation and email and phone:
+        # Checks if user already exists, if so, don't allow them to register with same name
+        if Customer.query.filter_by(c_custUser = username).first():
+            flash('Username already being used: login or use a different name')
+            return render_template('signup.html')
+        
+        # Checks if email in use, if so, use a different one of login
+        if Customer.query.filter_by(c_custEmail = email).first():
+            flash('Email already being used: login or use a different email')
+            return render_template('signup.html')
+
+        # Checks if phone number in use, is so, login
+        if Customer.query.filter_by(c_custPhoneNumber = phone).first():
+            flash('Phone number already being used, please login')
+            return render_template('signup.html')
+    else:
+        flash('Fill in the form')
+        return render_template('signup.html')
+    
+    # Checks if all fields are filled, if so, add to database, if not, fill in form
+    if username and password and city and nation and email and phone:
+        # Admin status defaults to 0
+        db.session.add(Customer(c_custUser = username, c_custPass = password, c_custCity = city, c_custNation = nation, c_custEmail = email, c_custPhoneNumber = phone, c_custAdminStatus = False))
+        db.session.commit()
+        flash('Successfully Signed Up!')
+        return render_template('home.html')
+    else:
+        flash('Fill in the form')
+        return render_template('signup.html')
+
 
 if __name__ == '__main__':
     app.run()
