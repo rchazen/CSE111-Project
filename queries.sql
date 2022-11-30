@@ -38,17 +38,22 @@
 -- ORDER BY nu_sugar DESC
 -- LIMIT 1
 
-SELECT f_foodName
-FROM food
-WHERE f_foodCalories < 
-AND f_foodFat < 
-AND f_foodCholesterol < 
-AND f_foodSodium < 
-AND f_foodCarbs < 
-AND f_foodSugar < 
-AND f_foodProtein < 
-ORDER BY f_foodCalories ASC
+SELECT f_foodName, r_ratingScore, r_ratingComment
+FROM food, rating
+WHERE f_foodCalories < 1000
+AND f_foodFat < 1000
+AND f_foodCholesterol < 1000
+AND f_foodSodium < 1000
+AND f_foodCarbs < 1000
+AND f_foodSugar < 1000
+AND f_foodProtein < 1000
+WHERE
+ORDER BY RANDOM()
 LIMIT 3
+
+select f_foodName, r_ratingScore, r_ratingComment
+FROM food, rating
+WHERE r_itemName = f_foodName
 
 -- SELECT r_ratingScore, f_foodName,  nu_calories, nu_sugar
 -- FROM rating, food, nutrition
