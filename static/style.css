@@ -39,7 +39,7 @@ li:hover {
     
 }
 
-table_container table, th, td{
+.table_container table, th, td{
     border: 2px solid;
     text-align: left;
     
@@ -58,4 +58,8 @@ button{
 
 button:focus{
     background: #4b7649;
+}
+
+button:hover {
+    background-color: #6d846e;
 }

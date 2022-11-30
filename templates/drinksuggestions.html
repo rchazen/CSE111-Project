@@ -3,27 +3,24 @@
 <html>
     <head>
         <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
-        <title>Recommendations</title>
+        <title>Drink Recomendations</title>
     </head>
     <body>
         <div class="navbar">
             <h3>Hi {{person.c_custUser}}!</h3>
-            <h1>Here is your Recommendation</h1>
-            
+            <h1>Here is your recommendations</h1>
+        
             <ul>
                 <li><a style="text-decoration:none" href="{{ url_for('home_menu')}}">Home</a></li>
-                <li><a style="text-decoration:none" href="{{ url_for('foodReccomendation')}}">Back</a></li>
+                <li><a style="text-decoration:none" href="{{ url_for('drinkRecommendation')}}">Back</a></li>
                 <li><a style="text-decoration:none" href="{{ url_for('logOut')}}">Log Out</a></li>
             </ul>
-            
+
             {% for row in results %}
-            <p>Our recommendation: {{row.f_foodName}}</p>
+            <p>Our recomendation: {{row.d_drinkName}}</p>
             {% endfor %}
 
             <button onClick="window.location.reload();">Refresh Page</button>
 
-        <script src="{{url_for('static', filename='myScript.js')}}"></script>
-       
-        
     </body>
 </html>

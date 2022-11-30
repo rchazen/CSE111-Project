@@ -205,8 +205,57 @@ def foodReccomendation_post(calories,fat,cholesterol,sodium,carbs,sugar,protein)
     # g = {'g' : protein}
     result = db.session.execute(sql,param)
     results = result.mappings().all()
-    #print(results)
+    # print(results)
     return render_template('FoodRecRes.html', person = user, results = results)
+
+
+@app.route('/DrinkRecommendation', methods=["GET", "POST"])
+@login_required
+def drinkRecommendation():
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+
+    if request.method == 'POST':
+        calories = request.form['Calories']
+        totalfat = request.form['TotalFat']
+        sugar = request.form['Sugar']
+        caffeine = request.form['Caffeine']
+        drinksize = request.form['DrinkSize']
+
+        return redirect(url_for('drinkRecommendation_post', calories = calories, totalfat = totalfat, sugar = sugar, caffeine = caffeine, drinksize = drinksize))
+
+    return render_template('DrinkRec.html', person = user)
+
+@app.route('/DrinkRecommendationResult/<calories>/<totalfat>/<sugar>/<caffeine>/<drinksize>')
+@login_required
+def drinkRecommendation_post(calories,totalfat,sugar,caffeine,drinksize):
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+
+    calories = int(calories)
+    totalfat = int(totalfat)
+    sugar = int(sugar)
+    caffeine = int(caffeine)
+    drinksize = str(drinksize)
+
+    sql = text('''
+    SELECT d_drinkName
+    FROM drinks
+    WHERE d_drinkCalories < :a
+    AND d_drinkFat < :b
+    AND d_drinkSugar < :c
+    AND d_drinkCaffeine < :d
+    AND d_drinkSize = :e
+    ORDER BY RANDOM()
+    LIMIT 1
+    '''
+    )
+
+    param = {'a' : calories, 'b' : totalfat, 'c' : sugar, 'd' : caffeine, 'e' : drinksize}
+
+    result = db.session.execute(sql,param)
+    results = result.mappings().all()
+
+    return render_template('drinksuggestions.html', person = user, results = results)
+
 
 if __name__ == '__main__':
     app.run()
