@@ -9,14 +9,18 @@
         <div class="navbar">
             <h3>Welcome {{person.c_custUser}}!</h3>
             <h1>Starbucks Reccomendations</h1>
+            
             <ul>
+                <li><a style="text-decoration:none" href="{{ url_for('home_menu')}}">Home</a></li>
                 <li><a style="text-decoration:none" href="{{ url_for('foodReccomendation')}}">Food Reccomendation</a></li>
                 <li><a style="text-decoration:none" href="music.html">Drink Reccomendation</a></li>
                 <li><a style="text-decoration:none" href="">Reviews</a></li>
                 <li><a style="text-decoration:none" href="{{ url_for('logOut')}}">Log Out</a></li>
             </ul>
-
-
+            
         <script src="{{url_for('static', filename='myScript.js')}}"></script>
+
+        
+
     </body>
 </html>

@@ -152,6 +152,12 @@ def signup_post():
         flash('Fill in the form')
         return render_template('signup.html')
 
+@app.route('/FoodReccomendation')
+@login_required
+def foodReccomendation():
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+    return render_template('FoodRec.html', person = user)
+
 
 if __name__ == '__main__':
     app.run()
