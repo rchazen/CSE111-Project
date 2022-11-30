@@ -3,12 +3,12 @@
 <html>
     <head>
         <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
-        <title>Reccomendations</title>
+        <title>Recommendations</title>
     </head>
     <body>
         <div class="navbar">
             <h3>Hi {{person.c_custUser}}!</h3>
-            <h1>Here is your Reccomendation</h1>
+            <h1>Here is your Recommendation</h1>
             
             <ul>
                 <li><a style="text-decoration:none" href="{{ url_for('home_menu')}}">Home</a></li>
@@ -17,7 +17,7 @@
             </ul>
             
             {% for row in results %}
-            <p>Our reccomendation: {{row.f_foodName}}</p>
+            <p>Our recommendation: {{row.f_foodName}}</p>
             {% endfor %}
 
             <button onClick="window.location.reload();">Refresh Page</button>

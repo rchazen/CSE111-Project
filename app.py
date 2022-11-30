@@ -208,6 +208,7 @@ def foodReccomendation_post(calories,fat,cholesterol,sodium,carbs,sugar,protein)
     # print(results)
     return render_template('FoodRecRes.html', person = user, results = results)
 
+
 @app.route('/DrinkRecommendation', methods=["GET", "POST"])
 @login_required
 def drinkRecommendation():
@@ -236,13 +237,13 @@ def drinkRecommendation_post(calories,totalfat,sugar,caffeine,drinksize):
     drinksize = str(drinksize)
 
     sql = text('''
-    SELECT f_drinkName
+    SELECT d_drinkName
     FROM drinks
     WHERE d_drinkCalories < :a
     AND d_drinkFat < :b
     AND d_drinkSugar < :c
     AND d_drinkCaffeine < :d
-    AND d_drinkSize < :e
+    AND d_drinkSize = :e
     ORDER BY RANDOM()
     LIMIT 1
     '''
