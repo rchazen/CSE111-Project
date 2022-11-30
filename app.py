@@ -8,6 +8,7 @@ import pandas as pd
 from flask_admin import Admin
 from flask_admin.contrib.sqla import ModelView
 from flask_login import LoginManager, UserMixin, login_user, logout_user, current_user, login_required
+from sqlalchemy import text
 
 
 app = Flask(__name__)
@@ -152,10 +153,22 @@ def signup_post():
         flash('Fill in the form')
         return render_template('signup.html')
 
-@app.route('/FoodReccomendation')
+@app.route('/FoodReccomendation' ,methods=["GET", "POST"])
 @login_required
 def foodReccomendation():
     user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+    if request.method == 'POST':
+        calories = request.form['Calories']
+        fat = request.form['Fat']
+        cholesterol = request.form['Cholesterol']
+        sodium = request.form['Sodium']
+        carbs = request.form['Carbs']
+        sugar = request.form['Sugar']
+        protein = request.form['Protein']
+
+        return redirect(url_for('foodReccomendation_post', calories=calories, fat=fat,cholesterol=cholesterol,sodium=sodium,carbs=carbs,sugar=sugar,protein=protein))
+        #return render_template('FoodRec.html', person = user) 
+
     return render_template('FoodRec.html', person = user)
 
 @app.route('/DrinkRecommendation')
@@ -169,6 +182,42 @@ def drinkRecommendation():
 def drink_suggestions():
     user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
     return render_template('drinksuggestions.html', person = user)
+@app.route('/FoodReccomendationResult/<calories>/<fat>/<cholesterol>/<sodium>/<carbs>/<sugar>/<protein>')
+@login_required
+def foodReccomendation_post(calories,fat,cholesterol,sodium,carbs,sugar,protein):
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+    calories = int(calories)
+    fat = int(fat)
+    cholesterol = int(cholesterol)
+    sodium = int(sodium)
+    carbs = int(carbs)
+    sugar = int(sugar)
+    protein = int(protein)
+    sql = text('''
+    SELECT f_foodName
+    FROM food
+    WHERE f_foodCalories < :a
+    AND f_foodFat < :b
+    AND f_foodCholesterol < :c
+    AND f_foodSodium < :d
+    AND f_foodCarbs < :e
+    AND f_foodSugar < :f
+    AND f_foodProtein < :g
+    ORDER BY RANDOM()
+    LIMIT 1
+    '''
+    )
+    param = {'a' : calories, 'b' : fat, 'c' : cholesterol, 'd' : sodium, 'e' : carbs, 'f' : sugar, 'g' : protein}
+    # b = {'b' : fat}
+    # c = {'c' : cholesterol}
+    # d = {'d' : sodium}
+    # e = {'e' : carbs}
+    # f = {'f' : sugar}
+    # g = {'g' : protein}
+    result = db.session.execute(sql,param)
+    results = result.mappings().all()
+    #print(results)
+    return render_template('FoodRecRes.html', person = user, results = results)
 
 if __name__ == '__main__':
     app.run()

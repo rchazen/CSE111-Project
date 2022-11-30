@@ -33,15 +33,33 @@ li a{
 li:hover {
     background-color: #4b7649;
   }
-
-.button {
-    background-color: gray;
+.table_container{
+    width: auto;
+    padding: 2rem;
+    
 }
 
-.button:hover {
+.table_container table, th, td{
+    border: 2px solid;
+    text-align: left;
+    
+}
+
+.table_container table{
+    width: 100%;
+    border-collapse: collapse;
+    background: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    background: #cbfda5;
+}
+
+button:focus{
+    background: #4b7649;
+}
+
+button:hover {
     background-color: #6d846e;
-}
-
-.button:focus {
-    background-color: rgb(16, 101, 130);
 }
