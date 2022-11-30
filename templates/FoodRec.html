@@ -17,10 +17,71 @@
                 <li><a style="text-decoration:none" href="">Reviews</a></li>
                 <li><a style="text-decoration:none" href="{{ url_for('logOut')}}">Log Out</a></li>
             </ul>
-            
-        <script src="{{url_for('static', filename='myScript.js')}}"></script>
 
-        
+        <script src="{{url_for('static', filename='myScript.js')}}"></script>
+        <div class="table_container">
+            <table>
+                <form>
+                    <tr>
+                        <th>Nutrition</th>
+                        <th>Low</th>
+                        <th>Medium</th>
+                        <th>High</th>
+                    </tr>
+                    <tr>
+                        <th>Calories</th>
+                        <td><input type='radio' name='Calories'></td>
+                        <td><input type='radio' name='Calories'></td>
+                        <td><input type='radio' name='Calories'></td>
+                    </tr>
+                    <tr>
+                    
+                        <th>Fat</th>
+                        <td><input type='radio' name='Fat'></td>
+                        <td><input type='radio' name='Fat'></td>
+                        <td><input type='radio' name='Fat'></td>
+                    </tr>
+                    <tr>
+                        <th>Cholesterol</th>
+                        <td><input type='radio' name='Cholesterol'></td>
+                        <td><input type='radio' name='Cholesterol'></td>
+                        <td><input type='radio' name='Cholesterol'></td>
+                    </tr>
+                    <tr>
+                        <th>Sodium</th>
+                        <td><input type='radio' name='Sodium'></td>
+                        <td><input type='radio' name='Sodium'></td>
+                        <td><input type='radio' name='Sodium'></td>
+                    </tr>
+                    <tr>
+                        <th>Carbs</th>
+                        <td><input type='radio' name='Carbs'></td>
+                        <td><input type='radio' name='Carbs'></td>
+                        <td><input type='radio' name='Carbs'></td>
+                    </tr>
+                    <tr>
+                        <th>Fiber</th>
+                        <td><input type='radio' name='Fiber'></td>
+                        <td><input type='radio' name='Fiber'></td>
+                        <td><input type='radio' name='Fiber'></td>
+                    <tr>
+                        <th>Sugar</th>
+                        <td><input type='radio' name='Sugar'></td>
+                        <td><input type='radio' name='Sugar'></td>
+                        <td><input type='radio' name='Sugar'></td>
+                    </tr>
+                    <tr>
+                        <th>Protein</th>
+                        <td><input type='radio' name='Protein'></td>
+                        <td><input type='radio' name='Protein'></td>
+                        <td><input type='radio' name='Protein'></td>
+                    
+                    </tr>
+                </form>
+            </table>
+        </div>
+
+        <input type="submit"> 
 
     </body>
 </html>
