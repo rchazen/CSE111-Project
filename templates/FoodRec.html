@@ -21,8 +21,8 @@
         <script src="{{url_for('static', filename='myScript.js')}}"></script>
         <div class="table_container">
             <table>
-                <form>
-                    <tr>
+                <form method="POST">
+                    <tr> 
                         <th>Nutrition</th>
                         <th>Low</th>
                         <th>Medium</th>
@@ -30,58 +30,55 @@
                     </tr>
                     <tr>
                         <th>Calories</th>
-                        <td><input type='radio' name='Calories'></td>
-                        <td><input type='radio' name='Calories'></td>
-                        <td><input type='radio' name='Calories'></td>
+                        <td><input type='radio' name='Calories' value="150"></td>
+                        <td><input type='radio' name='Calories' value="250"></td>
+                        <td><input type='radio' name='Calories' value ="2000"></td>
                     </tr>
                     <tr>
                     
                         <th>Fat</th>
-                        <td><input type='radio' name='Fat'></td>
-                        <td><input type='radio' name='Fat'></td>
-                        <td><input type='radio' name='Fat'></td>
+                        <td><input type='radio' name='Fat' value="5"></td>
+                        <td><input type='radio' name='Fat' value="18"></td>
+                        <td><input type='radio' name='Fat' value="1000"></td>
                     </tr>
                     <tr>
                         <th>Cholesterol</th>
-                        <td><input type='radio' name='Cholesterol'></td>
-                        <td><input type='radio' name='Cholesterol'></td>
-                        <td><input type='radio' name='Cholesterol'></td>
+                        <td><input type='radio' name='Cholesterol' value="33"></td>
+                        <td><input type='radio' name='Cholesterol' value="75"></td>
+                        <td><input type='radio' name='Cholesterol' value="1000"></td>
                     </tr>
                     <tr>
                         <th>Sodium</th>
-                        <td><input type='radio' name='Sodium'></td>
-                        <td><input type='radio' name='Sodium'></td>
-                        <td><input type='radio' name='Sodium'></td>
+                        <td><input type='radio' name='Sodium' value="125"></td>
+                        <td><input type='radio' name='Sodium' value="300"></td>
+                        <td><input type='radio' name='Sodium' value="5000"></td>
                     </tr>
                     <tr>
                         <th>Carbs</th>
-                        <td><input type='radio' name='Carbs'></td>
-                        <td><input type='radio' name='Carbs'></td>
-                        <td><input type='radio' name='Carbs'></td>
+                        <td><input type='radio' name='Carbs' value="15"></td>
+                        <td><input type='radio' name='Carbs' value="33"></td>
+                        <td><input type='radio' name='Carbs' value="2000"></td>
                     </tr>
-                    <tr>
-                        <th>Fiber</th>
-                        <td><input type='radio' name='Fiber'></td>
-                        <td><input type='radio' name='Fiber'></td>
-                        <td><input type='radio' name='Fiber'></td>
-                    <tr>
                         <th>Sugar</th>
-                        <td><input type='radio' name='Sugar'></td>
-                        <td><input type='radio' name='Sugar'></td>
-                        <td><input type='radio' name='Sugar'></td>
+                        <td><input type='radio' name='Sugar' value="15"></td>
+                        <td><input type='radio' name='Sugar' value="38"></td>
+                        <td><input type='radio' name='Sugar' value="200"></td>
                     </tr>
                     <tr>
                         <th>Protein</th>
-                        <td><input type='radio' name='Protein'></td>
-                        <td><input type='radio' name='Protein'></td>
-                        <td><input type='radio' name='Protein'></td>
-                    
+                        <td><input type='radio' name='Protein' value="5"></td>
+                        <td><input type='radio' name='Protein' value="10"></td>
+                        <td><input type='radio' name='Protein' value="100"></td>
+                        
+
                     </tr>
+                    
+                    <input type="submit" value="Submit" > 
+                    
                 </form>
             </table>
         </div>
 
-        <input type="submit"> 
 
     </body>
 </html>

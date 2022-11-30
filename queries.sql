@@ -38,6 +38,18 @@
 -- ORDER BY nu_sugar DESC
 -- LIMIT 1
 
+SELECT f_foodName
+FROM food
+WHERE f_foodCalories < 
+AND f_foodFat < 
+AND f_foodCholesterol < 
+AND f_foodSodium < 
+AND f_foodCarbs < 
+AND f_foodSugar < 
+AND f_foodProtein < 
+ORDER BY f_foodCalories ASC
+LIMIT 3
+
 -- SELECT r_ratingScore, f_foodName,  nu_calories, nu_sugar
 -- FROM rating, food, nutrition
 -- WHERE r_itemName = f_foodName
