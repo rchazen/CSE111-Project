@@ -33,3 +33,15 @@ li a{
 li:hover {
     background-color: #4b7649;
   }
+
+.button {
+    background-color: gray;
+}
+
+.button:hover {
+    background-color: #6d846e;
+}
+
+.button:focus {
+    background-color: rgb(16, 101, 130);
+}

@@ -158,6 +158,17 @@ def foodReccomendation():
     user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
     return render_template('FoodRec.html', person = user)
 
+@app.route('/DrinkRecommendation')
+@login_required
+def drinkRecommendation():
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+    return render_template('DrinkRec.html', person = user)
+
+@app.route('/drinksuggestions')
+@login_required
+def drink_suggestions():
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+    return render_template('drinksuggestions.html', person = user)
 
 if __name__ == '__main__':
     app.run()

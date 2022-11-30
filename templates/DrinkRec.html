@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+        <title>Drink Recomendations</title>
+    </head>
+    <body>
+        <div class="navbar">
+            <h3>Welcome {{person.c_custUser}}!</h3>
+            <h1>Starbucks Drink Recomendations</h1>
+        
+            <ul>
+                <li><a style="text-decoration:none" href="{{ url_for('home_menu')}}">Home</a></li>
+                <li><a style="text-decoration:none" href="{{ url_for('foodReccomendation')}}">Food Reccomendation</a></li>
+                <li><a style="text-decoration:none" href="{{ url_for('drinkRecommendation')}}">Drink Reccomendation</a></li>
+                <li><a style="text-decoration:none" href="">Reviews</a></li>
+                <li><a style="text-decoration:none" href="{{ url_for('logOut')}}">Log Out</a></li>
+            </ul>
+            
+            <!--
+             <ul>
+                <div class = "button"></div>
+                    <h3>Calories</h3>
+                        <li><a type="button" onclick='alert("Testing")'>Low</a></li>
+                        <li><a type="button">Medium</a></li>
+                        <li><a type="button">High</a></li>
+                </div>   
+            </ul>       
+
+            <ul>
+                <div class = "button"></div>
+                    <h3>Total Fat</h3>
+                        <li><a type="button" onclick='alert("Testing")'>Low</a></li>
+                        <li><a type="button">Medium</a></li>
+                        <li><a type="button">High</a></li>
+                </div>   
+            </ul>      
+
+            <ul>
+                <div class = "button"></div>
+                    <h3>Sugar Level</h3>
+                        <li><a type="button" onclick='alert("Testing")'>Low</a></li>
+                        <li><a type="button">Medium</a></li>
+                        <li><a type="button">High</a></li>
+                </div>   
+            </ul>        
+
+            <ul>
+                <div class = "button"></div>
+                    <h3>Caffeine</h3>
+                        <li><a type="button" onclick='alert("Testing")'>Low</a></li>
+                        <li><a type="button">Medium</a></li>
+                        <li><a type="button">High</a></li>
+                </div>   
+            </ul>       
+
+            <ul>
+                <div class = "button"></div>
+                    <h3>Drink Size</h3>
+                        <li><a type="button" onclick='alert("Testing")'>Low</a></li>
+                        <li><a type="button">Medium</a></li>
+                        <li><a type="button">High</a></li>
+                </div>   
+            </ul>       
+            -->
+
+            <div class="table_container">
+                <table>
+                    <form method="POST">
+                        <tr> 
+                            <th>Nutrition</th>
+                            <th>Low</th>
+                            <th>Medium</th>
+                            <th>High</th>
+                        </tr>
+                        <tr>
+                            <th>Calories</th>
+                            <td><input type='radio' name='Calories' value="100"></td>
+                            <td><input type='radio' name='Calories' value="150"></td>
+                            <td><input type='radio' name='Calories' value ="200"></td>
+                        </tr>
+                        <tr>
+                            <th>Total Fat</th>
+                            <td><input type='radio' name='TotalFat' value="10"></td>
+                            <td><input type='radio' name='TotalFat' value="28"></td>
+                            <td><input type='radio' name='TOtalFat' value="30"></td>
+                        </tr>
+                        <tr>
+                            <th>Sugar</th>
+                            <td><input type='radio' name='Sugar' value="10"></td>
+                            <td><input type='radio' name='Sugar' value="20"></td>
+                            <td><input type='radio' name='Sugar' value="30"></td>
+                        </tr>
+                        <tr>
+                            <th>Caffeine</th>
+                            <td><input type='radio' name='Caffeine' value="15"></td>
+                            <td><input type='radio' name='Caffeine' value="30"></td>
+                            <td><input type='radio' name='Caffeine' value="45"></td>
+                        </tr>
+                        <tr>
+                            <th>Cup Size</th>
+                            <td><input type='radio' name='CupSize' value="1"></td>
+                            <td><input type='radio' name='CupSize' value="2"></td>
+                            <td><input type='radio' name='CupSize' value="3"></td>
+                            <td><input type='radio' name='CupSize' value="3"></td>
+                        </tr>
+                        
+                        <!-- Submit Choices -->
+                        <input type="submit" value="Submit"> 
+                        
+                    </form>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>
