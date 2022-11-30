@@ -12,8 +12,15 @@
         
             <ul>
                 <li><a style="text-decoration:none" href="{{ url_for('home_menu')}}">Home</a></li>
-                <li><a style="text-decoration:none" href="{{ url_for('drinkRecommendation')}}">Drink Reccomendation</a></li>
+                <li><a style="text-decoration:none" href="{{ url_for('drinkRecommendation')}}">Back</a></li>
                 <li><a style="text-decoration:none" href="{{ url_for('logOut')}}">Log Out</a></li>
             </ul>
+
+            {% for row in results %}
+            <p>Our recomendation: {{row.d_drinkName}}</p>
+            {% endfor %}
+
+            <button onClick="window.location.reload();">Refresh Page</button>
+
     </body>
 </html>
