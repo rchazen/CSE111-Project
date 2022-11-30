@@ -192,7 +192,7 @@ def foodReccomendation_post(calories,fat,cholesterol,sodium,carbs,sugar,protein)
     AND f_foodCarbs < :e
     AND f_foodSugar < :f
     AND f_foodProtein < :g
-    ORDER BY f_foodCalories ASC
+    ORDER BY RANDOM()
     LIMIT 1
     '''
     )
