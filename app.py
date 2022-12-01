@@ -122,7 +122,7 @@ def home_menu():
 def signUp():
     return render_template('signup.html')
 
-@app.route('/signup', methods =['POST'])
+@app.route('/signup', methods =['GET','POST'])
 def signup_post():
     username = request.form['uname']
     password = request.form['password']
@@ -156,7 +156,7 @@ def signup_post():
         db.session.add(Customer(c_custUser = username, c_custPass = password, c_custCity = city, c_custNation = nation, c_custEmail = email, c_custPhoneNumber = phone, c_custAdminStatus = False))
         db.session.commit()
         flash('Successfully Signed Up!')
-        return render_template('home.html')
+        return redirect(url_for('home_menu'))
     else:
         flash('Fill in the form')
         return render_template('signup.html')
@@ -329,6 +329,11 @@ def reviews():
 @login_required
 def locations():
     user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+
+    if request.method == 'POST':
+        search = request.form['search']
+
+        return redirect(url_for('locations_post', search = search))
     
     sql = text('''
     SELECT n_name, r_regionName, s_storeAddress
@@ -343,6 +348,45 @@ def locations():
 
     return render_template('locations.html', person = user, results = results)
 
+
+@app.route('/LocationsResult/<search>', methods=["GET","POST"])
+@login_required
+def locations_post(search):
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+
+    if request.method == 'POST':
+        search = request.form['search']
+
+        sql = text('''
+        SELECT n_name, r_regionName, s_storeAddress
+        FROM stores, nation, region
+        WHERE n_name = :a
+        AND n_nationCountryCode = s_storeCountryCode
+        AND r_regionKey = n_regionKey
+        '''
+        )
+
+        param = {'a' : search}
+
+        result = db.session.execute(sql,param)
+        results = result.mappings().all()
+
+        return render_template('locationresults.html', person = user, results = results)
+
+    sql = text('''
+    SELECT n_name, r_regionName, s_storeAddress
+    FROM stores, nation, region
+    WHERE n_name = :a
+    AND n_nationCountryCode = s_storeCountryCode
+    AND r_regionKey = n_regionKey
+    '''
+    )
+    param = {'a' : search}
+
+    result = db.session.execute(sql,param)
+    results = result.mappings().all()
+
+    return render_template('locationresults.html', person = user, results = results)
 
 
 if __name__ == '__main__':
