@@ -256,6 +256,16 @@ def drinkRecommendation_post(calories,totalfat,sugar,caffeine,drinksize):
 
     return render_template('drinksuggestions.html', person = user, results = results)
 
+@app.route('/Reviews', methods=["GET", "POST"])
+@login_required
+def reviews():
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+
+    if request.method == 'POST':
+         return redirect(url_for('reviews'))
+
+    return render_template('Reviews.html', person = user)
+
 
 if __name__ == '__main__':
     app.run()
