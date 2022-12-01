@@ -63,6 +63,11 @@ with app.app_context():
         r_custKey       = db.Column(db.Integer, unique = False, nullable = False)
         r_itemName      = db.Column(db.String, unique = False, nullable = False)
 
+        # Adds new rating to database
+        def addRating(r_ratingKey, r_ratingScore, r_ratingComment, r_custKey, r_itemName):
+            db.session.add(Customer(r_ratingKey = r_ratingKey, r_ratingScore = r_ratingScore, r_ratingComment = r_ratingComment, r_custKey = r_custKey, r_itemName = r_itemName))
+            db.session.commit()
+
     db.create_all()
 
 @app.route('/')
@@ -171,10 +176,27 @@ def foodReccomendation():
 
     return render_template('FoodRec.html', person = user)
 
-@app.route('/FoodReccomendationResult/<calories>/<fat>/<cholesterol>/<sodium>/<carbs>/<sugar>/<protein>')
+@app.route('/FoodReccomendationResult/<calories>/<fat>/<cholesterol>/<sodium>/<carbs>/<sugar>/<protein>', methods = ["GET","POST"])
 @login_required
 def foodReccomendation_post(calories,fat,cholesterol,sodium,carbs,sugar,protein):
     user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+
+    if request.method == 'POST':
+        itemname = request.form['ItemName']
+        comment  = request.form['Comment']
+        rating   = request.form['FoodRating']
+
+        rating = int(rating)
+
+        user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+        user = user.c_custKey
+
+        db.session.add(Rating(r_ratingScore = rating, r_ratingComment = comment, r_custKey = user, r_itemName = itemname))
+        db.session.commit()
+        flash('Ratings Created!')
+        return render_template('Home.html', person = user)
+
+
     calories = int(calories)
     fat = int(fat)
     cholesterol = int(cholesterol)
@@ -225,10 +247,25 @@ def drinkRecommendation():
 
     return render_template('DrinkRec.html', person = user)
 
-@app.route('/DrinkRecommendationResult/<calories>/<totalfat>/<sugar>/<caffeine>/<drinksize>')
+@app.route('/DrinkRecommendationResult/<calories>/<totalfat>/<sugar>/<caffeine>/<drinksize>', methods = ["GET", "POST"])
 @login_required
 def drinkRecommendation_post(calories,totalfat,sugar,caffeine,drinksize):
     user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+
+    if request.method == 'POST':
+        itemname = request.form['ItemName']
+        comment  = request.form['Comment']
+        rating   = request.form['DrinkRating']
+
+        rating = int(rating)
+
+        user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+        user = user.c_custKey
+
+        db.session.add(Rating(r_ratingScore = rating, r_ratingComment = comment, r_custKey = user, r_itemName = itemname))
+        db.session.commit()
+        flash('Ratings Created!')
+        return render_template('Home.html', person = user)
 
     calories = int(calories)
     totalfat = int(totalfat)

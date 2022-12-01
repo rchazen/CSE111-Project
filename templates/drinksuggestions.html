@@ -22,5 +22,41 @@
 
             <button onClick="window.location.reload();">Refresh Page</button>
 
+            <!-- only if a recommendation shows up then this appears -->
+            <form method="POST">
+                <br>
+                <label for="itemname">Item Name</label>
+                <br>
+                <input type="text" id="itemname" name="ItemName">
+                <br>
+                <label for="comment">Comment</label>
+                <br>
+                <input type="text" id="comment" name="Comment">
+                <br>
+
+                <div class="table_container">
+                    <table>
+                        <form method="POST">
+                            <tr> 
+                                <th>Score</th>
+                                <th>1</th>
+                                <th>2</th>
+                                <th>3</th>
+                                <th>4</th>
+                                <th>5</th>
+                            </tr>
+                            <tr>
+                                <th>Ratings</th>
+                                <td><input type='radio' name='DrinkRating' value="1"></td>
+                                <td><input type='radio' name='DrinkRating' value="2"></td>
+                                <td><input type='radio' name='DrinkRating' value="3"></td>
+                                <td><input type='radio' name='DrinkRating' value="4"></td>
+                                <td><input type='radio' name='DrinkRating' value="5"></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <!-- Submit Choices -->
+                    <input type="submit" value="Submit"> 
+            </form> 
     </body>
 </html>
