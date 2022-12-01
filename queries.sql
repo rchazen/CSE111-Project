@@ -52,6 +52,11 @@ VALUES(3, "Tasted good", 2, "Cheese Danish")
 -- ORDER BY nu_sugar DESC
 -- LIMIT 1
 
+SELECT n_name, r_regionName, s_storeAddress
+FROM stores, nation, region
+WHERE n_nationCountryCode = s_storeCountryCode
+AND r_regionKey = n_regionkey
+
 SELECT f_foodName, r_ratingScore, r_ratingComment
 FROM food, rating
 WHERE f_foodCalories < 1000

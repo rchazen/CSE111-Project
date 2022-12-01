@@ -21,6 +21,7 @@ with app.app_context():
     # Instantiate the database.
     db = SQLAlchemy(app)
     #db.init_app(app)
+    admin = Admin(app)
     #Sets up login manager
     login_manager = LoginManager()
     login_manager.login_view = 'logIn'
@@ -69,13 +70,15 @@ with app.app_context():
             db.session.commit()
 
     db.create_all()
+    admin.add_view(ModelView(Customer, db.session))
+    admin.add_view(ModelView(Rating, db.session))
 
 @app.route('/')
 def index():
     return redirect(url_for('logIn'))
 
 # Log In Method
-@app.route('/login')
+@app.route('/login') 
 def logIn():
     return render_template('login.html')
 
@@ -321,6 +324,25 @@ def reviews():
     d_results = d_result.mappings().all()
 
     return render_template('Reviews.html', person = user, d_results = d_results, f_results = f_results)
+
+@app.route('/Locations', methods=["GET", "POST"])
+@login_required
+def locations():
+    user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
+    
+    sql = text('''
+    SELECT n_name, r_regionName, s_storeAddress
+    FROM stores, nation, region
+    WHERE n_nationCountryCode = s_storeCountryCode
+    AND r_regionKey = n_regionKey
+    '''
+    )
+
+    result = db.session.execute(sql)
+    results = result.mappings().all()
+
+    return render_template('locations.html', person = user, results = results)
+
 
 
 if __name__ == '__main__':

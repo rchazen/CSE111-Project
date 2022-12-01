@@ -3,12 +3,13 @@
 <html>
     <head>
         <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
-        <title>Recommendations</title>
+        <title>Drink Recommendations</title>
     </head>
     <body>
         <div class="navbar">
             <h3>Welcome {{person.c_custUser}}!</h3>
-            <h1>Starbucks Recommendations</h1>
+            <h1>Starbucks Drink Recommendations</h1>
+        
             <ul>
                 <li><a style="text-decoration:none" href="{{ url_for('home_menu')}}">Home</a></li>
                 <li><a style="text-decoration:none" href="{{ url_for('foodReccomendation')}}">Food Recommendation</a></li>
@@ -17,7 +18,25 @@
                 <li><a style="text-decoration:none" href="{{url_for('locations')}}">Locations</a></li>
                 <li><a style="text-decoration:none" href="{{ url_for('logOut')}}">Log Out</a></li>
             </ul>
+            
 
-        <script src="{{url_for('static', filename='myScript.js')}}"></script>
+            <div class="table_container">
+                <table>
+                    <tr>
+                        <th>Country Name</th>
+                        <th>Region Name</th>
+                        <th>Address</th>
+                    </tr>
+                    {% for row in results %}
+                    <tr>
+                        <td>{{row.n_name}}</td>
+                        <td>{{row.r_regionName}}</td>
+                        <td>{{row.s_storeAddress}}</td>
+                    </tr>
+                    {% endfor %}
+              
+                </table>
+            </div>
+        </div>
     </body>
 </html>
