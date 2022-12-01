@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+        <title>Recommendations</title>
+    </head>
+    <body>
+        <div class="navbar">
+            <h3>Welcome {{person.c_custUser}}!</h3>
+            <h1>Starbucks Recommendations</h1>
+            
+            <ul>
+                <li><a style="text-decoration:none" href="{{ url_for('home_menu')}}">Home</a></li>
+                <li><a style="text-decoration:none" href="{{ url_for('foodReccomendation')}}">Food Recommendation</a></li>
+                <li><a style="text-decoration:none" href="{{ url_for('drinkRecommendation')}}">Drink Recommendation</a></li>
+                <li><a style="text-decoration:none" href="{{url_for('reviews')}}">Reviews</a></li>
+                <li><a style="text-decoration:none" href="{{ url_for('logOut')}}">Log Out</a></li>
+            </ul>
+
+        <script src="{{url_for('static', filename='myScript.js')}}"></script>
+        <div class="table_container">
+            <table>
+                <tr>
+                    <th>Food Name</th>
+                    <th>Average Score</th>
+                    <th>Comment</th>
+                </tr>
+                {% for row in f_results %}
+                <tr>
+                    <td>{{row.f_foodName}}</td>
+                    <td>{{row.avgscore}}</td>
+                    <td>{{row.r_ratingComment}}</td>
+                </tr>
+                {% endfor %}
+          
+            </table>
+            <br>
+            <table>
+                <tr>
+                    <th>Drink Name</th>
+                    <th>Average Score</th>
+                    <th>Comment</th>
+                </tr>
+                {% for row in d_results %}
+                <tr>
+                    <td>{{row.d_drinkName}}</td>
+                    <td>{{row.avgscore}}</td>
+                    <td>{{row.r_ratingComment}}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+
+    </body>
+</html>
