@@ -261,10 +261,29 @@ def drinkRecommendation_post(calories,totalfat,sugar,caffeine,drinksize):
 def reviews():
     user = Customer.query.filter_by(c_custKey=current_user.c_custKey).first()
 
-    if request.method == 'POST':
-         return redirect(url_for('reviews'))
+    sql = text('''
+    select f_foodName, ROUND(AVG(r_ratingScore),2) AS avgscore, r_ratingComment
+    FROM food, rating
+    WHERE r_itemName = f_foodName
+    GROUP BY f_foodName
+    '''
+    )
 
-    return render_template('Reviews.html', person = user)
+    f_result = db.session.execute(sql)
+    f_results = f_result.mappings().all()
+    
+    sql = text('''
+    select d_drinkName, ROUND(AVG(r_ratingScore),2) AS avgscore, r_ratingComment
+    FROM drinks, rating
+    WHERE r_itemName = d_drinkName
+    GROUP BY d_drinkName
+    '''
+    )
+
+    d_result = db.session.execute(sql)
+    d_results = d_result.mappings().all()
+
+    return render_template('Reviews.html', person = user, d_results = d_results, f_results = f_results)
 
 
 if __name__ == '__main__':

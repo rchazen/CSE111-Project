@@ -13,11 +13,25 @@
 -- VALUES ("jarmenta", "ucmiscool", "Merced", "UNITED STATES", "jarmenta@ucmerced.edu", "2094314029", FALSE) 
 
 -- INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
--- VALUES(5, "Tasted very good", 1, "Chonga Bagel")
+-- VALUES(1, "Tasted Strong", 3, "Iced Coffee")
 
--- INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
--- VALUES(2, "Tasted too cheesy", 2, "Cheese Danish")
+INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES(2, "Tasted Strong", 4, "Iced Coffee")
 
+INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES(3, "Tasted Okay", 3, "Iced Coffee")
+
+    select d_drinkName, AVG(r_ratingScore), r_ratingComment
+    FROM drinks, rating
+    WHERE r_itemName = d_drinkName
+    GROUP BY d_drinkName
+INSERT INTO rating(r_ratingScore, r_ratingComment, r_custKey, r_itemName)
+VALUES(3, "Tasted good", 2, "Cheese Danish")
+
+    select f_foodName, ROUND(AVG(r_ratingScore),2) AS avgscore, r_ratingComment
+    FROM food, rating
+    WHERE r_itemName = f_foodName
+    GROUP BY f_foodName
 -- SELECT c_custUser
 -- FROM customer, nation
 -- WHERE c_custNation = n_name

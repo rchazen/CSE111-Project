@@ -23,19 +23,32 @@
             <table>
                 <tr>
                     <th>Food Name</th>
-                    <th>Score</th>
+                    <th>Average Score</th>
                     <th>Comment</th>
                 </tr>
+                {% for row in f_results %}
+                <tr>
+                    <td>{{row.f_foodName}}</td>
+                    <td>{{row.avgscore}}</td>
+                    <td>{{row.r_ratingComment}}</td>
+                </tr>
+                {% endfor %}
           
             </table>
-
+            <br>
             <table>
                 <tr>
                     <th>Drink Name</th>
-                    <th>Score</th>
+                    <th>Average Score</th>
                     <th>Comment</th>
                 </tr>
-          
+                {% for row in d_results %}
+                <tr>
+                    <td>{{row.d_drinkName}}</td>
+                    <td>{{row.avgscore}}</td>
+                    <td>{{row.r_ratingComment}}</td>
+                </tr>
+                {% endfor %}
             </table>
         </div>
 
