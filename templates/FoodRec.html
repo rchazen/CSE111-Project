@@ -3,12 +3,12 @@
 <html>
     <head>
         <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
-        <title>Recommendations</title>
+        <title>Food Recommendations</title>
     </head>
     <body>
         <div class="navbar">
             <h3>Welcome {{person.c_custUser}}!</h3>
-            <h1>Starbucks Recommendations</h1>
+            <h1>Starbucks Food Recommendations</h1>
             
             <ul>
                 <li><a style="text-decoration:none" href="{{ url_for('home_menu')}}">Home</a></li>
@@ -73,13 +73,10 @@
                         
 
                     </tr>
-                    
+            </table>
                     <input type="submit" value="Submit" > 
                     
                 </form>
-            </table>
         </div>
-
-
     </body>
 </html>

@@ -3,7 +3,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
-        <title>Recommendations</title>
+        <title>Food Recommendations</title>
     </head>
     <body>
         <div class="navbar">
@@ -29,7 +29,7 @@
             <br>
             <label for="itemname">Item Name</label>
             <br>
-            <input type="text" id="itemname" name="ItemName">
+            <input type="test" id="itemname" name="ItemName" value ="{% for row in results %}{{row.f_foodName}}{% endfor %}">
             <br>
             <label for="comment">Comment</label>
             <br>

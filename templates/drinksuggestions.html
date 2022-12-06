@@ -27,7 +27,7 @@
                 <br>
                 <label for="itemname">Item Name</label>
                 <br>
-                <input type="text" id="itemname" name="ItemName">
+                <input type="test" id="itemname" name="ItemName" value ="{% for row in results %}{{row.d_drinkName}}{% endfor %}">
                 <br>
                 <label for="comment">Comment</label>
                 <br>
